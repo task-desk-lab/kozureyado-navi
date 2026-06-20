@@ -1,7 +1,7 @@
 ---
 title: "ホテル　白竜湖リゾート 子連れ宿の口コミ・評判【2026】"
-description: "ホテル　白竜湖リゾート（三原市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ169件・★4.64から、「子供のごはんも本格的」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+description: "ホテル　白竜湖リゾート（三原市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ169件・★4.64から、「お部屋が広くてのびのび」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
+date: "2026-06-21"
 hotelNo: 149038
 hotelName: "ホテル　白竜湖リゾート"
 areas: ["広島県"]
@@ -29,9 +29,11 @@ reviewCount: 169
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
-<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 子供のごはんも本格的</div><div class="pt-b">子供用の食事まで手を抜かない献立</div></div>
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">食事</span><span class="rx">「お食事はどのお料理も丁寧なお味で大満足!お子様膳にも陶板がついていて熱々のステーキを嬉しそうに完食していました」</span></div><div class="reason"><span class="rt">お風呂</span><span class="rx">「子連れのため、部屋にお風呂がついているのがとても助かりました」</span></div><div class="reason"><span class="rt">子連れ歓迎</span><span class="rx">「子供がまた来たいと楽しめたみたいで、とても嬉しかったです」</span></div><div class="reason"><span class="rt">接客</span><span class="rx">「みなさん、子供たちにも優しく面白く声をかけていただいて本当にありがとうございました」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
+
+<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 お部屋が広くてのびのび</div><div class="pt-b">端から端まで動き回れる広さで、子供ものびのび</div></div><div class="pt"><div class="pt-t">👶 スタッフが子供に優しい</div><div class="pt-b">子供にも気さくに接してくれる、あたたかい宿</div></div>
 <h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 貸切・家族風呂</div><div class="pt-b">人目を気にせず、子供と一緒にゆっくり入れる</div></div>
-<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>お子様ランチも豪華でした</li><li><span class="src">公式</span>公式: 風呂種別に家族風呂あり</li></ul></details>
+<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>お部屋は広く綺麗であまりの広さに子供達も走り回って楽しんでおりました</li><li><span class="src">口コミ</span>みなさん、子供たちにも優しく面白く声をかけていただいて本当にありがとうございました</li><li><span class="src">公式</span>公式: 風呂種別に家族風呂あり</li></ul></details>
 
 <h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149038/149038_kan1.jpg" alt="ホテル　白竜湖リゾートの客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D149038" target="_blank" rel="nofollow sponsored">▶ 客室つきプランを見る（楽天トラベルで見る）</a></p>
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">湯沸かしポット</span><span class="chip">加湿器</span></div>
@@ -41,7 +43,7 @@ reviewCount: 169
 <h2>子連れ目線の評価</h2>
 <div class="scores"><div class="bar"><span class="lab">食事</span><span class="track"><span class="fill" style="width:90%"></span></span><span class="num">4.51</span></div><div class="bar"><span class="lab">お風呂</span><span class="track"><span class="fill" style="width:87%"></span></span><span class="num">4.36</span></div><div class="bar"><span class="lab">客室</span><span class="track"><span class="fill" style="width:91%"></span></span><span class="num">4.53</span></div><div class="bar"><span class="lab">接客</span><span class="track"><span class="fill" style="width:93%"></span></span><span class="num">4.64</span></div><div class="bar"><span class="lab">立地</span><span class="track"><span class="fill" style="width:88%"></span></span><span class="num">4.41</span></div><div class="bar"><span class="lab">設備</span><span class="track"><span class="fill" style="width:87%"></span></span><span class="num">4.34</span></div></div>
 
-<h2>泊まった人の声</h2><blockquote class="rev">「子連れのため、部屋にお風呂がついているのがとても助かりました」<cite>— 楽天トラベルの口コミより</cite></blockquote>
+<h2>泊まった人の声</h2><blockquote class="rev">「お食事はどのお料理も丁寧なお味で大満足!お子様膳にも陶板がついていて熱々のステーキを嬉しそうに完食していました」<cite>— 楽天トラベルの口コミより</cite></blockquote>
 
 <h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>夕食はレストランでいただけます。食事の口コミ評価は★4.51と高めです。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>大浴場・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details></div>
 

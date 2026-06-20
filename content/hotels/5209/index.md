@@ -1,7 +1,7 @@
 ---
 title: "信州・上諏訪温泉　琥珀色の自家源泉を持つ宿【ホテル鷺乃湯】 子連れ宿の口コミ・評判【2026】"
 description: "信州・上諏訪温泉　琥珀色の自家源泉を持つ宿【ホテル鷺乃湯】（諏訪市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ1429件・★4.54から、「赤ちゃんグッズが充実」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+date: "2026-06-21"
 hotelNo: 5209
 hotelName: "信州・上諏訪温泉　琥珀色の自家源泉を持つ宿【ホテル鷺乃湯】"
 areas: ["長野県"]
@@ -29,9 +29,11 @@ reviewCount: 1429
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
-<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 赤ちゃんグッズが充実</div><div class="pt-b">バンボやベビーバスまであって、赤ちゃん連れも手ぶらでOK</div></div>
-<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ ベビーベッド完備</div><div class="pt-b">持ち込み不要で、赤ちゃん連れも身軽に泊まれる</div></div><div class="pt"><div class="pt-t">☺️ お部屋・個室で部屋食</div><div class="pt-b">人目を気にせず、子供を見ながらゆっくり食べられる</div></div>
-<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>館内はベビーカー移動ができ、事前に予約すればミルトン1式やベビーバスを貸してもらえる（予約しないでもベビーバスはあるが１個だけなので予約しといた方が安心だった）</li><li><span class="src">口コミ</span>ベビーベッドが無く我が家の孫の大浴場デビューは見送りになりました</li><li><span class="src">公式</span>公式: 夕食/朝食=部屋・個室（部屋食）</li></ul></details>
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">お風呂</span><span class="rx">「館内はベビーカー移動ができ、事前に予約すればミルトン1式やベビーバスを貸してもらえる（予約しないでもベビーバスはあるが１個だけなので予約しといた方が安心だった）」</span></div><div class="reason"><span class="rt">接客</span><span class="rx">「子供がご迷惑をおかけしてしまいましたが、笑顔で対応してくださり、本当に救われました」</span></div><div class="reason"><span class="rt">食事</span><span class="rx">「食事中も小さい娘に、女将さんをはじめ皆さん笑顔で声をかけてくれて、外食時は常にひやひやしますが本当に安心して食事を楽しめ、小さい子連れでもゆったり過ごせました」</span></div><div class="reason"><span class="rt">設備</span><span class="rx">「ベビーカーをおきやすい席を用意しておいて頂けました」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
+
+<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 赤ちゃんグッズが充実</div><div class="pt-b">バンボやベビーバスまであって、赤ちゃん連れも手ぶらでOK</div></div><div class="pt"><div class="pt-t">👶 スタッフが子供に優しい</div><div class="pt-b">子供にも気さくに接してくれる、あたたかい宿</div></div>
+<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ お部屋・個室で部屋食</div><div class="pt-b">人目を気にせず、子供を見ながらゆっくり食べられる</div></div><div class="pt"><div class="pt-t">☺️ 客室にお風呂付き</div><div class="pt-b">子供を連れて大浴場まで歩かなくてOK</div></div>
+<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>館内はベビーカー移動ができ、事前に予約すればミルトン1式やベビーバスを貸してもらえる（予約しないでもベビーバスはあるが１個だけなので予約しといた方が安心だった）</li><li><span class="src">口コミ</span>特に子供への対応が素晴らしくて他の赤ちゃん連れのお客さんへもめちゃくちゃ気の利く対応されていて見ていてほっこりしました</li><li><span class="src">口コミ</span>夕食は部屋食で、その時間子どもが寝てしまっていましたが、中居さんが気を遣ってくださり嬉しかったです</li><li><span class="src">口コミ</span>部屋の露天風呂は温度調節ができたので安心して子供と一緒に入浴できました</li></ul></details>
 
 <h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5209/5209_heya1.jpg" alt="信州・上諏訪温泉　琥珀色の自家源泉を持つ宿【ホテル鷺乃湯】の客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D5209" target="_blank" rel="nofollow sponsored">▶ 客室つきプランを見る（楽天トラベルで見る）</a></p>
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">湯沸かしポット</span></div>
@@ -41,7 +43,7 @@ reviewCount: 1429
 <h2>子連れ目線の評価</h2>
 <div class="scores"><div class="bar"><span class="lab">食事</span><span class="track"><span class="fill" style="width:90%"></span></span><span class="num">4.49</span></div><div class="bar"><span class="lab">お風呂</span><span class="track"><span class="fill" style="width:90%"></span></span><span class="num">4.5</span></div><div class="bar"><span class="lab">客室</span><span class="track"><span class="fill" style="width:90%"></span></span><span class="num">4.49</span></div><div class="bar"><span class="lab">接客</span><span class="track"><span class="fill" style="width:91%"></span></span><span class="num">4.54</span></div><div class="bar"><span class="lab">立地</span><span class="track"><span class="fill" style="width:91%"></span></span><span class="num">4.55</span></div><div class="bar"><span class="lab">設備</span><span class="track"><span class="fill" style="width:88%"></span></span><span class="num">4.39</span></div></div>
 
-<h2>泊まった人の声</h2><blockquote class="rev">「館内はベビーカー移動ができ、事前に予約すればミルトン1式やベビーバスを貸してもらえる（予約しないでもベビーバスはあるが１個だけなので予約しといた方が安心だった）」<cite>— 楽天トラベルの口コミより</cite></blockquote>
+<h2>泊まった人の声</h2><blockquote class="rev">「食事中も小さい娘に、女将さんをはじめ皆さん笑顔で声をかけてくれて、外食時は常にひやひやしますが本当に安心して食事を楽しめ、小さい子連れでもゆったり過ごせました」<cite>— 楽天トラベルの口コミより</cite></blockquote>
 
 <h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>夕食はお部屋（部屋食）・料亭でいただけます。食事の口コミ評価は★4.49と高めです。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details></div>
 

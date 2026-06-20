@@ -1,7 +1,7 @@
 ---
 title: "山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ） 子連れ宿の口コミ・評判【2026】"
-description: "山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ）（中津川市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ223件・★4.41から、「ゆったりした客室」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+description: "山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ）（中津川市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ223件・★4.41から、「スタッフが子供に優しい」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
+date: "2026-06-21"
 hotelNo: 30961
 hotelName: "山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ）"
 areas: ["岐阜県"]
@@ -29,9 +29,11 @@ reviewCount: 223
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
-<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 ゆったりした客室</div><div class="pt-b">お部屋が広くて、子供ものびのび過ごせる</div></div>
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">設備</span><span class="rx">「赤ちゃんもいてオムツ用のゴミ箱を貸してくれたのも助かりました」</span></div><div class="reason"><span class="rt">接客</span><span class="rx">「旅館の方の対応も皆子供にも優しく素敵でした」</span></div><div class="reason"><span class="rt">お風呂</span><span class="rx">「貸し切りの家族風呂もあり、子連れに便利だと思います」</span></div><div class="reason"><span class="rt">子連れ歓迎</span><span class="rx">「子連れで行くと好きなタイミングで、時間も気にせず、周りも気にせず入れるのが本当にありがたかったです」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
+
+<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 スタッフが子供に優しい</div><div class="pt-b">子供にも気さくに接してくれる、あたたかい宿</div></div><div class="pt"><div class="pt-t">👶 子供のごはんも本格的</div><div class="pt-b">子供用の食事まで手を抜かない献立</div></div>
 <h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 貸切・家族風呂</div><div class="pt-b">人目を気にせず、子供と一緒にゆっくり入れる</div></div><div class="pt"><div class="pt-t">☺️ お部屋・個室で部屋食</div><div class="pt-b">人目を気にせず、子供を見ながらゆっくり食べられる</div></div>
-<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">公式</span>総合★4.41（223件）</li><li><span class="src">口コミ</span>ます釣り、焼きマシュマロ体験は子どもがとても楽しめ、お風呂も家族風呂がいろいろ入れ、良かったです</li><li><span class="src">公式</span>公式: 夕食/朝食=部屋・個室（部屋食）</li></ul></details>
+<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>マスつりに、昆虫採集、盆踊りにとても子供が楽しめるイベント満載でした</li><li><span class="src">口コミ</span>子供の料理は選択制でお子様セットを選びました</li><li><span class="src">口コミ</span>貸し切りの家族風呂もあり、子連れに便利だと思います</li><li><span class="src">公式</span>公式: 夕食/朝食=部屋・個室（部屋食）</li></ul></details>
 
 <h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30961/30961_kan.jpg" alt="山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ）の客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D30961" target="_blank" rel="nofollow sponsored">▶ 客室つきプランを見る（楽天トラベルで見る）</a></p>
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">湯沸かしポット</span><span class="chip">卓球</span></div>

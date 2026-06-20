@@ -1,7 +1,7 @@
 ---
 title: "湯平温泉　癒しの宿　鷹勝 子連れ宿の口コミ・評判【2026】"
 description: "湯平温泉　癒しの宿　鷹勝（由布市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ642件・★4.79から、「スタッフが子供に優しい」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+date: "2026-06-21"
 hotelNo: 144993
 hotelName: "湯平温泉　癒しの宿　鷹勝"
 areas: ["大分県"]
@@ -29,9 +29,11 @@ reviewCount: 642
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">接客</span><span class="rx">「敷地内全体的に清潔で、スタッフの方も小さい子供に優しく接してくれます」</span></div><div class="reason"><span class="rt">子連れ歓迎</span><span class="rx">「天璋院は子連れ向けに作られているだけあって、もう5歳でしたが、やんちゃな息子も安心して泊まることができました」</span></div><div class="reason"><span class="rt">お風呂</span><span class="rx">「子連れということもあり、貸切り風呂の時間も配慮頂き、スタッフの皆様は子供たちにも優しく接して頂きまた宿泊したいお宿となりました」</span></div><div class="reason"><span class="rt">食事</span><span class="rx">「子供二人３才１才がいるので、部屋風呂があるのも大変助かりますし、食事も個室なので、子供のペースで食べさせたり、動画を見せたりしながら美味しく頂けました」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
+
 <h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 スタッフが子供に優しい</div><div class="pt-b">子供にも気さくに接してくれる、あたたかい宿</div></div>
-<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ お部屋・個室で部屋食</div><div class="pt-b">人目を気にせず、子供を見ながらゆっくり食べられる</div></div><div class="pt"><div class="pt-t">☺️ 貸切・家族風呂</div><div class="pt-b">人目を気にせず、子供と一緒にゆっくり入れる</div></div>
-<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>敷地内全体的に清潔で、スタッフの方も小さい子供に優しく接してくれます</li><li><span class="src">公式</span>公式: 夕食/朝食=部屋・個室（部屋食）</li><li><span class="src">公式</span>公式: 風呂種別に家族風呂あり</li></ul></details>
+<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 客室にお風呂付き</div><div class="pt-b">子供を連れて大浴場まで歩かなくてOK</div></div><div class="pt"><div class="pt-t">☺️ お部屋・個室で部屋食</div><div class="pt-b">人目を気にせず、子供を見ながらゆっくり食べられる</div></div>
+<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>敷地内全体的に清潔で、スタッフの方も小さい子供に優しく接してくれます</li><li><span class="src">口コミ</span>子供二人３才１才がいるので、部屋風呂があるのも大変助かりますし、食事も個室なので、子供のペースで食べさせたり、動画を見せたりしながら美味しく頂けました</li><li><span class="src">公式</span>公式: 夕食/朝食=部屋・個室（部屋食）</li></ul></details>
 
 
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">湯沸かしポット</span><span class="chip">加湿器</span></div>
@@ -41,7 +43,7 @@ reviewCount: 642
 <h2>子連れ目線の評価</h2>
 <div class="scores"><div class="bar"><span class="lab">食事</span><span class="track"><span class="fill" style="width:98%"></span></span><span class="num">4.9</span></div><div class="bar"><span class="lab">お風呂</span><span class="track"><span class="fill" style="width:94%"></span></span><span class="num">4.72</span></div><div class="bar"><span class="lab">客室</span><span class="track"><span class="fill" style="width:97%"></span></span><span class="num">4.84</span></div><div class="bar"><span class="lab">接客</span><span class="track"><span class="fill" style="width:97%"></span></span><span class="num">4.84</span></div><div class="bar"><span class="lab">立地</span><span class="track"><span class="fill" style="width:90%"></span></span><span class="num">4.49</span></div><div class="bar"><span class="lab">設備</span><span class="track"><span class="fill" style="width:95%"></span></span><span class="num">4.76</span></div></div>
 
-<h2>泊まった人の声</h2><blockquote class="rev">「敷地内全体的に清潔で、スタッフの方も小さい子供に優しく接してくれます」<cite>— 楽天トラベルの口コミより</cite></blockquote>
+<h2>泊まった人の声</h2><blockquote class="rev">「子連れということもあり、貸切り風呂の時間も配慮頂き、スタッフの皆様は子供たちにも優しく接して頂きまた宿泊したいお宿となりました」<cite>— 楽天トラベルの口コミより</cite></blockquote>
 
 <h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>夕食は個室・食事処でいただけます。食事の口コミ評価は★4.9と高めです。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>大浴場・露天風呂・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details></div>
 

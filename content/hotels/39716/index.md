@@ -1,7 +1,7 @@
 ---
 title: "津南駅前温泉　花とほたる　湯のさと　雪国 子連れ宿の口コミ・評判【2026】"
-description: "津南駅前温泉　花とほたる　湯のさと　雪国（津南町）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ334件・★4.68から、「ゆったりした客室」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+description: "津南駅前温泉　花とほたる　湯のさと　雪国（津南町）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ334件・★4.68から、「焚き火や花火で大はしゃぎ」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
+date: "2026-06-21"
 hotelNo: 39716
 hotelName: "津南駅前温泉　花とほたる　湯のさと　雪国"
 areas: ["新潟県"]
@@ -29,9 +29,11 @@ reviewCount: 334
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">○ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">○ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
-<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 ゆったりした客室</div><div class="pt-b">お部屋が広くて、子供ものびのび過ごせる</div></div>
-<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ お部屋・個室で部屋食</div><div class="pt-b">人目を気にせず、子供を見ながらゆっくり食べられる</div></div>
-<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">公式</span>総合★4.68（334件）</li><li><span class="src">公式</span>公式: 夕食/朝食=部屋・個室（部屋食）</li></ul></details>
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">食事</span><span class="rx">「1歳半の子供を連れて初めての旅行でしたが、食事も個室に用意していただけたのでとても助かりました」</span></div><div class="reason"><span class="rt">接客</span><span class="rx">「小さい子ども連れだったのですが、若奥様が優しく遊んでくれて、近くのおすすめスポットと教えてくれたりと、久しぶりの旅行をとても楽しむことができました✨」</span></div><div class="reason"><span class="rt">お風呂</span><span class="rx">「貸切風呂は子連れにはありがたかったのですが、脱衣所が周辺民家から丸見えです」</span></div><div class="reason"><span class="rt">子連れ歓迎</span><span class="rx">「孫のお子様ランチもとても優しい味で感動しました」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
+
+<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 焚き火や花火で大はしゃぎ</div><div class="pt-b">外遊びや花火で、子供がとびきりの笑顔に</div></div><div class="pt"><div class="pt-t">👶 子供のごはんも本格的</div><div class="pt-b">子供用の食事まで手を抜かない献立</div></div>
+<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 貸切・家族風呂</div><div class="pt-b">人目を気にせず、子供と一緒にゆっくり入れる</div></div><div class="pt"><div class="pt-t">☺️ お部屋・個室で部屋食</div><div class="pt-b">人目を気にせず、子供を見ながらゆっくり食べられる</div></div>
+<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>帰りには子供に花火をプレゼントして頂きました</li><li><span class="src">口コミ</span>孫のお子様ランチもとても優しい味で感動しました</li><li><span class="src">口コミ</span>貸切風呂は子連れにはありがたかったのですが、脱衣所が周辺民家から丸見えです</li><li><span class="src">公式</span>公式: 夕食/朝食=部屋・個室（部屋食）</li></ul></details>
 
 <h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39716/39716_ro.jpg" alt="津南駅前温泉　花とほたる　湯のさと　雪国の客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D39716" target="_blank" rel="nofollow sponsored">▶ 客室つきプランを見る（楽天トラベルで見る）</a></p>
 

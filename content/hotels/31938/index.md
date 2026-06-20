@@ -1,7 +1,7 @@
 ---
 title: "瀬見温泉　ゆめみの宿　観松館 子連れ宿の口コミ・評判【2026】"
-description: "瀬見温泉　ゆめみの宿　観松館（最上町）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ1304件・★4.42から、「ゆったりした客室」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+description: "瀬見温泉　ゆめみの宿　観松館（最上町）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ1304件・★4.42から、「焚き火や花火で大はしゃぎ」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
+date: "2026-06-21"
 hotelNo: 31938
 hotelName: "瀬見温泉　ゆめみの宿　観松館"
 areas: ["山形県"]
@@ -29,9 +29,11 @@ reviewCount: 1304
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
-<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 ゆったりした客室</div><div class="pt-b">お部屋が広くて、子供ものびのび過ごせる</div></div>
-<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ お部屋・個室で部屋食</div><div class="pt-b">人目を気にせず、子供を見ながらゆっくり食べられる</div></div>
-<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">公式</span>総合★4.42（1304件）</li><li><span class="src">公式</span>公式: 夕食/朝食=部屋・個室（部屋食）</li></ul></details>
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">設備</span><span class="rx">「退屈してた子供に塗り絵を用意してくださったり、みなさん優しかったです」</span></div><div class="reason"><span class="rt">接客</span><span class="rx">「小さい子供が居るので心配でしたが、皆様にとても親切に対応して頂いて安心して過ごすことが出来ました」</span></div><div class="reason"><span class="rt">お風呂</span><span class="rx">「今回は，２歳になったばかりの息子連れでしたが，お部屋にお風呂もついているので，何度も気兼ねなくゆっくり入れて良かったです」</span></div><div class="reason"><span class="rt">食事</span><span class="rx">「離乳食初期でフレーク状のベビーフードを持参したため、ポットやミルトンはとても助かりました」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
+
+<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 焚き火や花火で大はしゃぎ</div><div class="pt-b">外遊びや花火で、子供がとびきりの笑顔に</div></div><div class="pt"><div class="pt-t">👶 子供のごはんも本格的</div><div class="pt-b">子供用の食事まで手を抜かない献立</div></div>
+<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 子供が騒いでも大丈夫</div><div class="pt-b">多少さわいでも、気兼ねなく過ごせる雰囲気</div></div><div class="pt"><div class="pt-t">☺️ お部屋・個室で部屋食</div><div class="pt-b">人目を気にせず、子供を見ながらゆっくり食べられる</div></div>
+<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>外に子供用プールもあり、今回時間の都合で利用できずでしたが、プールや川遊び用のグッズ貸し出し、花火の販売もあって、ここだけで1日過ごしてもいいなと思いました</li><li><span class="src">口コミ</span>お料理もすべて美味しくて、子供の夕食の豪華さにも驚きました</li><li><span class="src">口コミ</span>今回は，２歳になったばかりの息子連れでしたが，お部屋にお風呂もついているので，何度も気兼ねなくゆっくり入れて良かったです</li><li><span class="src">公式</span>公式: 夕食/朝食=部屋・個室（部屋食）</li></ul></details>
 
 <h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31938/31938_c.jpg" alt="瀬見温泉　ゆめみの宿　観松館の客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D31938" target="_blank" rel="nofollow sponsored">▶ 客室つきプランを見る（楽天トラベルで見る）</a></p>
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">湯沸かしポット</span><span class="chip">加湿器(貸出)</span><span class="chip">湯沸かしポット(貸出)</span><span class="chip">プール(夏期のみ)</span><span class="chip">卓球</span></div>
@@ -41,7 +43,7 @@ reviewCount: 1304
 <h2>子連れ目線の評価</h2>
 <div class="scores"><div class="bar"><span class="lab">食事</span><span class="track"><span class="fill" style="width:91%"></span></span><span class="num">4.54</span></div><div class="bar"><span class="lab">お風呂</span><span class="track"><span class="fill" style="width:89%"></span></span><span class="num">4.46</span></div><div class="bar"><span class="lab">客室</span><span class="track"><span class="fill" style="width:86%"></span></span><span class="num">4.32</span></div><div class="bar"><span class="lab">接客</span><span class="track"><span class="fill" style="width:90%"></span></span><span class="num">4.49</span></div><div class="bar"><span class="lab">立地</span><span class="track"><span class="fill" style="width:86%"></span></span><span class="num">4.28</span></div><div class="bar"><span class="lab">設備</span><span class="track"><span class="fill" style="width:85%"></span></span><span class="num">4.24</span></div></div>
 
-<h2>泊まった人の声</h2><blockquote class="rev">「よく食べる主人や子供も大満足な質と量です」<cite>— 楽天トラベルの口コミより</cite></blockquote>
+<h2>泊まった人の声</h2><blockquote class="rev">「離乳食初期でフレーク状のベビーフードを持参したため、ポットやミルトンはとても助かりました」<cite>— 楽天トラベルの口コミより</cite></blockquote>
 
 <h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>夕食はお部屋（部屋食）・食事処でいただけます。食事の口コミ評価は★4.54と高めです。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details></div>
 

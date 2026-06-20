@@ -1,7 +1,7 @@
 ---
 title: "ドーミー倶楽部　軽井沢 子連れ宿の口コミ・評判【2026】"
-description: "ドーミー倶楽部　軽井沢（軽井沢町）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ1486件・★4.67から、「スタッフが子供に優しい」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+description: "ドーミー倶楽部　軽井沢（軽井沢町）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ1486件・★4.67から、「子供が遊べる施設が充実」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
+date: "2026-06-21"
 hotelNo: 50468
 hotelName: "ドーミー倶楽部　軽井沢"
 areas: ["長野県"]
@@ -29,9 +29,11 @@ reviewCount: 1486
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
-<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 スタッフが子供に優しい</div><div class="pt-b">子供にも気さくに接してくれる、あたたかい宿</div></div><div class="pt"><div class="pt-t">👶 子供のごはんも本格的</div><div class="pt-b">子供用の食事まで手を抜かない献立</div></div>
-<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 貸切・家族風呂</div><div class="pt-b">人目を気にせず、子供と一緒にゆっくり入れる</div></div>
-<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>コース自体は90分なので少し長めですが、スタッフの方が小さいパズルを持ってきてくれたり、定期的に子供に声かけしてくださいったため、飽きずに座っていられました</li><li><span class="src">口コミ</span>子供の夕食はコースではなくお子様プレートのような形でしたが、内容も盛りだくさんで食べきれないほどです</li><li><span class="src">公式</span>公式: 風呂種別に家族風呂あり</li></ul></details>
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">接客</span><span class="rx">「スタッフの方は全員優しく、子供にも構ってくれて助かりました」</span></div><div class="reason"><span class="rt">設備</span><span class="rx">「またコーヒーやアイスの無料サービス、子ども向けのキッズスペース、女性にはロクシタンのアメニティがあったりと、細やかな気配りも素敵です」</span></div><div class="reason"><span class="rt">食事</span><span class="rx">「特に夕食・朝食会場では、1歳の娘がぐずりそうになるとスタッフさんが一緒にあやしてくださったり、子連れでもコース料理が楽しめる温かい雰囲気でした」</span></div><div class="reason"><span class="rt">子連れ歓迎</span><span class="rx">「SNSで子連れおすすめの宿となっていたので、もともとの期待値は高かったのですが実際に宿泊するとそれを上回る感動がありました」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
+
+<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 子供が遊べる施設が充実</div><div class="pt-b">遊び場やアクティビティで、子供を退屈させない</div></div><div class="pt"><div class="pt-t">👶 お部屋が広くてのびのび</div><div class="pt-b">端から端まで動き回れる広さで、子供ものびのび</div></div>
+<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ ウェルカムベビー認定</div><div class="pt-b">赤ちゃん連れ歓迎が、第三者に認定された宿</div></div><div class="pt"><div class="pt-t">☺️ 貸切・家族風呂</div><div class="pt-b">人目を気にせず、子供と一緒にゆっくり入れる</div></div>
+<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>またコーヒーやアイスの無料サービス、子ども向けのキッズスペース、女性にはロクシタンのアメニティがあったりと、細やかな気配りも素敵です</li><li><span class="src">口コミ</span>本館の広い和室は新しくはないものの清潔感はあり、子供達も部屋で走り回れる広さで大満足でした</li><li><span class="src">口コミ</span>ウェルカムベビーの宿ですが、子連れではないお客さんの方が多い印象もあり、子連れで入るとやや肩身が狭かったです</li><li><span class="src">公式</span>公式: 風呂種別に家族風呂あり</li></ul></details>
 
 <h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/50468/50468_kya1.jpg" alt="ドーミー倶楽部　軽井沢の客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D50468" target="_blank" rel="nofollow sponsored">▶ 客室つきプランを見る（楽天トラベルで見る）</a></p>
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">湯沸かしポット</span><span class="chip">加湿器</span><span class="chip">加湿器(貸出)</span><span class="chip">絵本貸出サービス：ロビーにある本棚からご自由にお持ちください</span></div>

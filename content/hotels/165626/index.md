@@ -1,7 +1,7 @@
 ---
 title: "湖畔の温泉宿くにびき　グランピングベースＩＺＵＭＯ 子連れ宿の口コミ・評判【2026】"
 description: "湖畔の温泉宿くにびき　グランピングベースＩＺＵＭＯ（出雲市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ361件・★4.41から、「焚き火や花火で大はしゃぎ」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+date: "2026-06-21"
 hotelNo: 165626
 hotelName: "湖畔の温泉宿くにびき　グランピングベースＩＺＵＭＯ"
 areas: ["島根県"]
@@ -29,6 +29,8 @@ reviewCount: 361
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">○ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">設備</span><span class="rx">「ジェンガなどのテーブルゲームの貸し出しや卓球もあり、小学生の子供たちは大喜びでした」</span></div><div class="reason"><span class="rt">食事</span><span class="rx">「そして、子供の夕食のデザートはパフェ、想像以上の大きさに子供達は大喜び!!大人のデザートも6種類くらいの中から選ぶことが出来、嬉しかったです」</span></div><div class="reason"><span class="rt">接客</span><span class="rx">「卓球ができなくて泣いている子供に優しくして下さって、翌朝の予約をして頂き、翌日卓球を楽しむことができました」</span></div><div class="reason"><span class="rt">お風呂</span><span class="rx">「また、今まで泊まった温泉宿では、温泉の湯温が熱めで子供がお風呂を嫌がってたのですが、ここの温泉はぬるめでちょうどよく、ゆっくりと浸かることができました」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
+
 <h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 焚き火や花火で大はしゃぎ</div><div class="pt-b">外遊びや花火で、子供がとびきりの笑顔に</div></div><div class="pt"><div class="pt-t">👶 お部屋が広くてのびのび</div><div class="pt-b">端から端まで動き回れる広さで、子供ものびのび</div></div>
 <h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 子連れに優しい接客</div><div class="pt-b">口コミでも子連れへの心配りが高評価</div></div>
 <details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>ジェンガなどのテーブルゲームの貸し出しや卓球もあり、小学生の子供たちは大喜びでした</li><li><span class="src">口コミ</span>なにより、12畳だったのでハイハイもできたのが今回のいちばん良かったところです</li><li><span class="src">公式</span>総合★4.41（361件）</li></ul></details>
@@ -41,7 +43,7 @@ reviewCount: 361
 <h2>子連れ目線の評価</h2>
 <div class="scores"><div class="bar"><span class="lab">食事</span><span class="track"><span class="fill" style="width:92%"></span></span><span class="num">4.6</span></div><div class="bar"><span class="lab">お風呂</span><span class="track"><span class="fill" style="width:86%"></span></span><span class="num">4.29</span></div><div class="bar"><span class="lab">客室</span><span class="track"><span class="fill" style="width:86%"></span></span><span class="num">4.31</span></div><div class="bar"><span class="lab">接客</span><span class="track"><span class="fill" style="width:89%"></span></span><span class="num">4.43</span></div><div class="bar"><span class="lab">立地</span><span class="track"><span class="fill" style="width:86%"></span></span><span class="num">4.31</span></div><div class="bar"><span class="lab">設備</span><span class="track"><span class="fill" style="width:85%"></span></span><span class="num">4.27</span></div></div>
 
-<h2>泊まった人の声</h2><blockquote class="rev">「「はぁ？って言うゲーム」に子供達もはまり大盛り上がりで楽しい旅の思い出ができました」<cite>— 楽天トラベルの口コミより</cite></blockquote>
+<h2>泊まった人の声</h2><blockquote class="rev">「卓球ができなくて泣いている子供に優しくして下さって、翌朝の予約をして頂き、翌日卓球を楽しむことができました」<cite>— 楽天トラベルの口コミより</cite></blockquote>
 
 <h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>夕食はレストラン・コンベンションホールでいただけます。食事の口コミ評価は★4.6と高めです。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details></div>
 

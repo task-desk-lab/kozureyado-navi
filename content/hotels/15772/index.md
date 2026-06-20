@@ -1,7 +1,7 @@
 ---
 title: "原鶴温泉　ホテルパーレンス小野屋 子連れ宿の口コミ・評判【2026】"
-description: "原鶴温泉　ホテルパーレンス小野屋（朝倉市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ1891件・★4.39から、「ゆったりした客室」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+description: "原鶴温泉　ホテルパーレンス小野屋（朝倉市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ1891件・★4.39から、「赤ちゃんグッズが充実」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
+date: "2026-06-21"
 hotelNo: 15772
 hotelName: "原鶴温泉　ホテルパーレンス小野屋"
 areas: ["福岡県"]
@@ -29,9 +29,11 @@ reviewCount: 1891
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">◎ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">○ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
-<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 ゆったりした客室</div><div class="pt-b">お部屋が広くて、子供ものびのび過ごせる</div></div>
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">接客</span><span class="rx">「スタッフさんたちは子どもたちにも優しく、とても丁寧な接客で気持ちよく過ごさせて頂きました」</span></div><div class="reason"><span class="rt">お風呂</span><span class="rx">「今回赤ちゃん連れで宿泊したのですが、大浴場は畳でベビー用のチェアも用意されており安心して入ることが出来ました」</span></div><div class="reason"><span class="rt">遊び</span><span class="rx">「久しぶりに家族でゆっくり過ごす事ができ両親と子供達も喜んでくれ良かったです」</span></div><div class="reason"><span class="rt">食事</span><span class="rx">「欲を言えば離乳食があれば嬉しかったです♪」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
+
+<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 赤ちゃんグッズが充実</div><div class="pt-b">バンボやベビーバスまであって、赤ちゃん連れも手ぶらでOK</div></div><div class="pt"><div class="pt-t">👶 子供が遊べる施設が充実</div><div class="pt-b">遊び場やアクティビティで、子供を退屈させない</div></div>
 <h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 貸切・家族風呂</div><div class="pt-b">人目を気にせず、子供と一緒にゆっくり入れる</div></div>
-<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">公式</span>総合★4.39（1891件）</li><li><span class="src">公式</span>公式: 風呂種別に家族風呂あり</li></ul></details>
+<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>温泉が畳でベビーチェアやベビーバス、ベビーのボディソープ貸し出しがありとても良かったです</li><li><span class="src">口コミ</span>子供の遊び場も充実していました</li><li><span class="src">口コミ</span>畳敷きの家族風呂もあり、小さい子連れだと滑ってこける心配もあまりなく安心でした</li></ul></details>
 
 <h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15772/15772_wyo.jpg" alt="原鶴温泉　ホテルパーレンス小野屋の客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D15772" target="_blank" rel="nofollow sponsored">▶ 客室つきプランを見る（楽天トラベルで見る）</a></p>
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">湯沸かしポット</span><span class="chip">加湿器</span><span class="chip">加湿空気清浄器完備※シングルルームは貸出</span><span class="chip">卓球</span></div>

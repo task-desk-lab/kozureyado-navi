@@ -1,7 +1,7 @@
 ---
 title: "白浜古賀の井リゾート＆スパ 子連れ宿の口コミ・評判【2026】"
 description: "白浜古賀の井リゾート＆スパ（白浜町）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ5389件・★4.46から、「ゆったりした客室」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+date: "2026-06-21"
 hotelNo: 18253
 hotelName: "白浜古賀の井リゾート＆スパ"
 areas: ["和歌山県"]
@@ -29,9 +29,11 @@ reviewCount: 5389
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">食事</span><span class="rx">「お食事は夕食、朝食共にバイキングで、会場には離乳食も用意されており、子連れとそうじゃないお客さんと席を分けていただいた事もありがたかったです」</span></div><div class="reason"><span class="rt">設備</span><span class="rx">「部屋からの景色もよく、子供が小さくベッドを壁寄りにしてベッドも繋げることができますか？と相談したら快諾頂き、子供と添い寝も安心出来ました」</span></div><div class="reason"><span class="rt">子連れ歓迎</span><span class="rx">「また、2歳の子がいて暴れるのでビュッフェが少し心配でしたが子連れはまとまって席が配置されてるので安心できました」</span></div><div class="reason"><span class="rt">お部屋</span><span class="rx">「子連れなので、和室の数が増えると嬉しい」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
+
 <h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 ゆったりした客室</div><div class="pt-b">お部屋が広くて、子供ものびのび過ごせる</div></div>
-<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ ベビーベッド完備</div><div class="pt-b">持ち込み不要で、赤ちゃん連れも身軽に泊まれる</div></div>
-<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">公式</span>総合★4.46（5389件）</li><li><span class="src">公式</span>公式: 客室設備にベビーベッド</li></ul></details>
+<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 子供も安心して眠れる</div><div class="pt-b">低いベッドや布団で、添い寝もしやすい</div></div><div class="pt"><div class="pt-t">☺️ ベビーベッド完備</div><div class="pt-b">持ち込み不要で、赤ちゃん連れも身軽に泊まれる</div></div>
+<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">公式</span>総合★4.46（5389件）</li><li><span class="src">口コミ</span>部屋からの景色もよく、子供が小さくベッドを壁寄りにしてベッドも繋げることができますか？と相談したら快諾頂き、子供と添い寝も安心出来ました</li><li><span class="src">公式</span>公式: 客室設備にベビーベッド</li></ul></details>
 
 <h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/18253/18253_onsen.jpg" alt="白浜古賀の井リゾート＆スパの客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D18253" target="_blank" rel="nofollow sponsored">▶ 客室つきプランを見る（楽天トラベルで見る）</a></p>
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">湯沸かしポット</span><span class="chip">加湿器</span><span class="chip">ベビーベッド</span><span class="chip">プール（通年）は室内温水プールになります。水着のご用意はございませんので、各自ご持参くださいませ。</span><span class="chip">プール(通年)</span><span class="chip">屋外プール</span><span class="chip">卓球</span></div>
@@ -41,7 +43,7 @@ reviewCount: 5389
 <h2>子連れ目線の評価</h2>
 <div class="scores"><div class="bar"><span class="lab">食事</span><span class="track"><span class="fill" style="width:90%"></span></span><span class="num">4.48</span></div><div class="bar"><span class="lab">お風呂</span><span class="track"><span class="fill" style="width:90%"></span></span><span class="num">4.49</span></div><div class="bar"><span class="lab">客室</span><span class="track"><span class="fill" style="width:88%"></span></span><span class="num">4.42</span></div><div class="bar"><span class="lab">接客</span><span class="track"><span class="fill" style="width:89%"></span></span><span class="num">4.47</span></div><div class="bar"><span class="lab">立地</span><span class="track"><span class="fill" style="width:90%"></span></span><span class="num">4.5</span></div><div class="bar"><span class="lab">設備</span><span class="track"><span class="fill" style="width:86%"></span></span><span class="num">4.31</span></div></div>
 
-
+<h2>泊まった人の声</h2><blockquote class="rev">「ビッフェにもベビーカーで行けるので大変助かりました」<cite>— 楽天トラベルの口コミより</cite></blockquote>
 
 <h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>夕食はレストラン・レストラン(バイキング)でいただけます。食事の口コミ評価は★4.48と高めです。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>ベビーベッドは借りられますか？</summary><p>客室設備にベビーベッドの記載があります。台数に限りがある場合があるので、予約時のリクエストがおすすめです。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details></div>
 

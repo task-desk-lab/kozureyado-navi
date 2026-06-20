@@ -1,7 +1,7 @@
 ---
 title: "美保関温泉　旅館　美保館　国文化財の宿 子連れ宿の口コミ・評判【2026】"
-description: "美保関温泉　旅館　美保館　国文化財の宿（松江市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ352件・★4.62から、「ゆったりした客室」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+description: "美保関温泉　旅館　美保館　国文化財の宿（松江市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ352件・★4.62から、「子供が遊べる施設が充実」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
+date: "2026-06-21"
 hotelNo: 13811
 hotelName: "美保関温泉　旅館　美保館　国文化財の宿"
 areas: ["島根県"]
@@ -29,9 +29,11 @@ reviewCount: 352
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
-<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 ゆったりした客室</div><div class="pt-b">お部屋が広くて、子供ものびのび過ごせる</div></div>
-<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ お部屋・個室で部屋食</div><div class="pt-b">人目を気にせず、子供を見ながらゆっくり食べられる</div></div><div class="pt"><div class="pt-t">☺️ 貸切・家族風呂</div><div class="pt-b">人目を気にせず、子供と一緒にゆっくり入れる</div></div>
-<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">公式</span>総合★4.62（352件）</li><li><span class="src">口コミ</span>部屋食をしてくれたので、子供連れとしてありがたかったです^_^</li><li><span class="src">公式</span>公式: 風呂種別に家族風呂あり</li></ul></details>
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">接客</span><span class="rx">「対応してくださったスタッフの方がとても親切で、カニの剥き方を教えてくださり、子どもも頑張って自分で食べていました」</span></div><div class="reason"><span class="rt">食事</span><span class="rx">「部屋食をしてくれたので、子供連れとしてありがたかったです^_^」</span></div><div class="reason"><span class="rt">お風呂</span><span class="rx">「小さい子供が居たので、子供が遊べるスペースと、お風呂で遊べるオモチャが用意されていたのは嬉しいです」</span></div><div class="reason"><span class="rt">設備</span><span class="rx">「子供用にも浴衣を貸し頂いてすごく喜んでました」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
+
+<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 子供が遊べる施設が充実</div><div class="pt-b">遊び場やアクティビティで、子供を退屈させない</div></div>
+<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 子供が騒いでも大丈夫</div><div class="pt-b">多少さわいでも、気兼ねなく過ごせる雰囲気</div></div><div class="pt"><div class="pt-t">☺️ お部屋・個室で部屋食</div><div class="pt-b">人目を気にせず、子供を見ながらゆっくり食べられる</div></div>
+<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>お風呂の横には、お子さんが喜ぶ遊び場や絵本もありました</li><li><span class="src">口コミ</span>大人６人、幼児２人、乳児３人でしたが離れに宿泊させてもらえて夜中に子供が泣いても人目を気にせずゆっくり出来ました</li><li><span class="src">口コミ</span>部屋食をしてくれたので、子供連れとしてありがたかったです^_^</li></ul></details>
 
 <h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13811/13811_room.jpg" alt="美保関温泉　旅館　美保館　国文化財の宿の客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D13811" target="_blank" rel="nofollow sponsored">▶ 客室つきプランを見る（楽天トラベルで見る）</a></p>
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">湯沸かしポット</span><span class="chip">加湿器(貸出)</span><span class="chip">ベビーベッド</span><span class="chip">電子レンジ（一部・要予約）</span></div>

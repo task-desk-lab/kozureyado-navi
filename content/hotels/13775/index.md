@@ -1,7 +1,7 @@
 ---
 title: "嬉野温泉　旅館　初音荘 子連れ宿の口コミ・評判【2026】"
 description: "嬉野温泉　旅館　初音荘（嬉野市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ597件・★4.41から、「赤ちゃんグッズが充実」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+date: "2026-06-21"
 hotelNo: 13775
 hotelName: "嬉野温泉　旅館　初音荘"
 areas: ["佐賀県"]
@@ -29,9 +29,11 @@ reviewCount: 597
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">○ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">設備</span><span class="rx">「部屋にも滑り台がついており、ガチャガチャやじゃんけん勝負など子供が喜びそうなエンターテイメントも用意してくれました」</span></div><div class="reason"><span class="rt">接客</span><span class="rx">「子供たちはまた行きたい、もう1日泊まりたいとすがって大変でしたが、接客の皆様がとても愛想よく親切でご迷惑おかけした点にも丁寧であり満足でした」</span></div><div class="reason"><span class="rt">遊び</span><span class="rx">「ガチャガチャやジャンケンやお菓子釣りなど子どもが楽しめる事がたくさんで、とても喜んでました」</span></div><div class="reason"><span class="rt">食事</span><span class="rx">「無料の粉ミルク、離乳食、オムツも完備してくれているので、子供を連れての旅行デビューにはもってこいのとても温かなお宿でした😊」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
+
 <h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 赤ちゃんグッズが充実</div><div class="pt-b">バンボやベビーバスまであって、赤ちゃん連れも手ぶらでOK</div></div><div class="pt"><div class="pt-t">👶 スタッフが子供に優しい</div><div class="pt-b">子供にも気さくに接してくれる、あたたかい宿</div></div>
-<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 貸切・家族風呂</div><div class="pt-b">人目を気にせず、子供と一緒にゆっくり入れる</div></div>
-<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>たくさんの本があるキッズルームや、浴室にベビーバスが備え付けられている、入口付近には子供が楽しめるちょっとした駄菓子が売られていたり、夕食後に子供が喜ぶ縁日など</li><li><span class="src">口コミ</span>こんなに子供が楽しめるホテルがあるのかと驚きました</li><li><span class="src">公式</span>公式: 風呂種別に家族風呂あり</li></ul></details>
+<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 子供が騒いでも大丈夫</div><div class="pt-b">多少さわいでも、気兼ねなく過ごせる雰囲気</div></div><div class="pt"><div class="pt-t">☺️ 貸切・家族風呂</div><div class="pt-b">人目を気にせず、子供と一緒にゆっくり入れる</div></div>
+<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>たくさんの本があるキッズルームや、浴室にベビーバスが備え付けられている、入口付近には子供が楽しめるちょっとした駄菓子が売られていたり、夕食後に子供が喜ぶ縁日など</li><li><span class="src">口コミ</span>子供に優しく配慮の有る宿でした</li><li><span class="src">口コミ</span>子供達がどんなに騒いでも注意する必要がないから親もゆっくり過ごすことができます</li><li><span class="src">公式</span>公式: 風呂種別に家族風呂あり</li></ul></details>
 
 <h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13775/13775_room.jpg" alt="嬉野温泉　旅館　初音荘の客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D13775" target="_blank" rel="nofollow sponsored">▶ 客室つきプランを見る（楽天トラベルで見る）</a></p>
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">湯沸かしポット</span><span class="chip">加湿器(貸出)</span></div>

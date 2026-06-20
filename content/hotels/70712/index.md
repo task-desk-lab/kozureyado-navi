@@ -1,7 +1,7 @@
 ---
 title: "箱根湯本温泉　ホテル仙景 子連れ宿の口コミ・評判【2026】"
 description: "箱根湯本温泉　ホテル仙景（箱根町）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ395件・★4.73から、「ゆったりした客室」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+date: "2026-06-21"
 hotelNo: 70712
 hotelName: "箱根湯本温泉　ホテル仙景"
 areas: ["神奈川県"]
@@ -28,6 +28,8 @@ reviewCount: 395
 <p class="lead">須雲川沿いの温泉情趣あふれる滝通りにある朝夕部屋食が人気の旅館です。</p>
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
+
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">食事</span><span class="rx">「食事の支度もお布団の支度も仲居さんともう一人でテキパキ用意してくださり、仲居さんは希望を聞いてくれたり明るく子供に話しかけてくださって気持ちの良いサービスでした」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
 
 <h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 ゆったりした客室</div><div class="pt-b">お部屋が広くて、子供ものびのび過ごせる</div></div>
 <h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ お部屋・個室で部屋食</div><div class="pt-b">人目を気にせず、子供を見ながらゆっくり食べられる</div></div>

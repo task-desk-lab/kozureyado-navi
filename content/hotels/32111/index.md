@@ -1,7 +1,7 @@
 ---
 title: "新那須高原温泉　こころのおやど　自在荘 子連れ宿の口コミ・評判【2026】"
 description: "新那須高原温泉　こころのおやど　自在荘（那須町）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ464件・★4.76から、「赤ちゃんグッズが充実」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+date: "2026-06-21"
 hotelNo: 32111
 hotelName: "新那須高原温泉　こころのおやど　自在荘"
 areas: ["栃木県"]
@@ -28,6 +28,8 @@ reviewCount: 464
 <p class="lead">楽天トラベルブロンズアワード2022を受賞！那須の源泉ととちぎ和牛の創作会席を愉しむ小さな湯宿です</p>
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
+
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">食事</span><span class="rx">「子供にも沢山サービスしてくれたり、離乳食の温めも対応して頂きました」</span></div><div class="reason"><span class="rt">接客</span><span class="rx">「子どもにも気さくに話しかけてくださったり、旅のプランを相談した時も親身になって考えてくれてとても助かりました」</span></div><div class="reason"><span class="rt">設備</span><span class="rx">「幼児に対応した甚平もあり、タオルセットもご用意していただいて、子供がいてもストレスなく快適に過ごせました」</span></div><div class="reason"><span class="rt">子連れ歓迎</span><span class="rx">「一歳半の子連れで宿泊しましたが、子連れに配慮されており大変ありがたいです」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
 
 <h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 赤ちゃんグッズが充実</div><div class="pt-b">バンボやベビーバスまであって、赤ちゃん連れも手ぶらでOK</div></div><div class="pt"><div class="pt-t">👶 子供が遊べる施設が充実</div><div class="pt-b">遊び場やアクティビティで、子供を退屈させない</div></div>
 <h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ お部屋・個室で部屋食</div><div class="pt-b">人目を気にせず、子供を見ながらゆっくり食べられる</div></div><div class="pt"><div class="pt-t">☺️ 貸切・家族風呂</div><div class="pt-b">人目を気にせず、子供と一緒にゆっくり入れる</div></div>

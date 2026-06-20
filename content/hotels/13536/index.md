@@ -1,7 +1,7 @@
 ---
 title: "湯の山温泉　鹿の湯ホテル 子連れ宿の口コミ・評判【2026】"
 description: "湯の山温泉　鹿の湯ホテル（菰野町）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ777件・★4.54から、「ゆったりした客室」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+date: "2026-06-21"
 hotelNo: 13536
 hotelName: "湯の山温泉　鹿の湯ホテル"
 areas: ["三重県"]
@@ -29,6 +29,8 @@ reviewCount: 777
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">お風呂</span><span class="rx">「近場で主人と息子と孫とゆっくりできる温泉を探していて湯ノ山温泉｢鹿の湯」を選びました」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
+
 <h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 ゆったりした客室</div><div class="pt-b">お部屋が広くて、子供ものびのび過ごせる</div></div>
 <h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ お部屋・個室で部屋食</div><div class="pt-b">人目を気にせず、子供を見ながらゆっくり食べられる</div></div><div class="pt"><div class="pt-t">☺️ 客室にお風呂付き</div><div class="pt-b">子供を連れて大浴場まで歩かなくてOK</div></div>
 <details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">公式</span>総合★4.54（777件）</li><li><span class="src">公式</span>公式: 夕食/朝食=部屋・個室（部屋食）</li><li><span class="src">公式</span>公式: 露天風呂付き客室・貸切風呂・無料スイーツカフェが人気■女性に色浴衣無料サービス■</li></ul></details>
@@ -41,7 +43,7 @@ reviewCount: 777
 <h2>子連れ目線の評価</h2>
 <div class="scores"><div class="bar"><span class="lab">食事</span><span class="track"><span class="fill" style="width:90%"></span></span><span class="num">4.52</span></div><div class="bar"><span class="lab">お風呂</span><span class="track"><span class="fill" style="width:88%"></span></span><span class="num">4.38</span></div><div class="bar"><span class="lab">客室</span><span class="track"><span class="fill" style="width:90%"></span></span><span class="num">4.51</span></div><div class="bar"><span class="lab">接客</span><span class="track"><span class="fill" style="width:91%"></span></span><span class="num">4.57</span></div><div class="bar"><span class="lab">立地</span><span class="track"><span class="fill" style="width:85%"></span></span><span class="num">4.25</span></div><div class="bar"><span class="lab">設備</span><span class="track"><span class="fill" style="width:88%"></span></span><span class="num">4.38</span></div></div>
 
-<h2>泊まった人の声</h2><blockquote class="rev">「ウェルカムスイーツも楽しめて子どもも大喜びでした」<cite>— 楽天トラベルの口コミより</cite></blockquote>
+<h2>泊まった人の声</h2><blockquote class="rev">「置いてあったゲーム類も子供の年齢にぴったりで、卓球もし、ホテルだけでも存分に楽しめた旅行でした」<cite>— 楽天トラベルの口コミより</cite></blockquote>
 
 <h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>夕食は個室・食事処でいただけます。食事の口コミ評価は★4.52と高めです。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>大浴場・露天風呂・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details></div>
 

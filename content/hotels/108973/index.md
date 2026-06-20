@@ -1,7 +1,7 @@
 ---
 title: "那須黒磯温泉　かんすい苑　覚楽 子連れ宿の口コミ・評判【2026】"
-description: "那須黒磯温泉　かんすい苑　覚楽（那須塩原市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ435件・★4.82から、「お部屋が広くてのびのび」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+description: "那須黒磯温泉　かんすい苑　覚楽（那須塩原市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ435件・★4.82から、「赤ちゃんグッズが充実」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
+date: "2026-06-21"
 hotelNo: 108973
 hotelName: "那須黒磯温泉　かんすい苑　覚楽"
 areas: ["栃木県"]
@@ -29,9 +29,11 @@ reviewCount: 435
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">○ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
-<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 お部屋が広くてのびのび</div><div class="pt-b">端から端まで動き回れる広さで、子供ものびのび</div></div><div class="pt"><div class="pt-t">👶 スタッフが子供に優しい</div><div class="pt-b">子供にも気さくに接してくれる、あたたかい宿</div></div>
-<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ お部屋・個室で部屋食</div><div class="pt-b">人目を気にせず、子供を見ながらゆっくり食べられる</div></div>
-<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>檜風呂付きのお部屋は広くて、息子も嬉しそうにハイハイしていました</li><li><span class="src">口コミ</span>旅館のすべての方がとても子供に優しく、気遣いが行き届いていてとても気持ちよく過ごせました</li><li><span class="src">公式</span>公式: 夕食/朝食=部屋・個室（部屋食）</li></ul></details>
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">お部屋</span><span class="rx">「たくさんあり過ぎて書ききれないのですが、豊富な子供用の備品、隣の部屋のお客さんへの断りなど、全てのサービスがとにかく有り難く嬉しかったです」</span></div><div class="reason"><span class="rt">接客</span><span class="rx">「従業員の方々の対応は丁寧かつフレンドリーで、子供にも優しく声を掛けてくださり素晴らしかったです」</span></div><div class="reason"><span class="rt">お風呂</span><span class="rx">「大浴場ではベビーバスも貸して下さり、ベビーベッドやおしりふき等などあったので、子連れにはとても助かる心遣いが有難かったです」</span></div><div class="reason"><span class="rt">子連れ歓迎</span><span class="rx">「子供ともゆっくり入ることができました」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
+
+<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 赤ちゃんグッズが充実</div><div class="pt-b">バンボやベビーバスまであって、赤ちゃん連れも手ぶらでOK</div></div><div class="pt"><div class="pt-t">👶 お部屋が広くてのびのび</div><div class="pt-b">端から端まで動き回れる広さで、子供ものびのび</div></div>
+<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 貸切・家族風呂</div><div class="pt-b">人目を気にせず、子供と一緒にゆっくり入れる</div></div><div class="pt"><div class="pt-t">☺️ ウェルカムベビー認定</div><div class="pt-b">赤ちゃん連れ歓迎が、第三者に認定された宿</div></div>
+<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>朝、夫が子供と一緒にバンボ持参で大浴場に行きましたが、ベビーベッドがあった方が楽だったようです</li><li><span class="src">口コミ</span>檜風呂付きのお部屋は広くて、息子も嬉しそうにハイハイしていました</li><li><span class="src">口コミ</span>まだ長男には大浴場は難しいので貸切風呂を利用しましたが、貸切風呂には、ベビーバス、ベビーソープ、ベビーベッドがあり、ホントに有り難かったです</li><li><span class="src">口コミ</span>ウェルカムベビーの宿なだけあって周りも子連れが多く、私たちにとってはとても過ごしやすいお宿でした</li></ul></details>
 
 <h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108973/108973_ro.jpg" alt="那須黒磯温泉　かんすい苑　覚楽の客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D108973" target="_blank" rel="nofollow sponsored">▶ 客室つきプランを見る（楽天トラベルで見る）</a></p>
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">湯沸かしポット</span><span class="chip">加湿器(貸出)</span></div>
@@ -41,7 +43,7 @@ reviewCount: 435
 <h2>子連れ目線の評価</h2>
 <div class="scores"><div class="bar"><span class="lab">食事</span><span class="track"><span class="fill" style="width:96%"></span></span><span class="num">4.79</span></div><div class="bar"><span class="lab">お風呂</span><span class="track"><span class="fill" style="width:95%"></span></span><span class="num">4.73</span></div><div class="bar"><span class="lab">客室</span><span class="track"><span class="fill" style="width:92%"></span></span><span class="num">4.6</span></div><div class="bar"><span class="lab">接客</span><span class="track"><span class="fill" style="width:96%"></span></span><span class="num">4.82</span></div><div class="bar"><span class="lab">立地</span><span class="track"><span class="fill" style="width:93%"></span></span><span class="num">4.67</span></div><div class="bar"><span class="lab">設備</span><span class="track"><span class="fill" style="width:92%"></span></span><span class="num">4.62</span></div></div>
 
-<h2>泊まった人の声</h2><blockquote class="rev">「子連れに対するスタッフの方のお心遣いが素晴らしく感動でした」<cite>— 楽天トラベルの口コミより</cite></blockquote>
+<h2>泊まった人の声</h2><blockquote class="rev">「従業員の方々の対応は丁寧かつフレンドリーで、子供にも優しく声を掛けてくださり素晴らしかったです」<cite>— 楽天トラベルの口コミより</cite></blockquote>
 
 <h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>夕食は個室・食事処でいただけます。食事の口コミ評価は★4.79と高めです。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details></div>
 

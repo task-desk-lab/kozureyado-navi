@@ -1,7 +1,7 @@
 ---
 title: "ダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲ 子連れ宿の口コミ・評判【2026】"
-description: "ダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲ（府京都市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ829件・★4.57から、「ゆったりした客室」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+description: "ダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲ（府京都市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ829件・★4.57から、「お部屋が広くてのびのび」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
+date: "2026-06-21"
 hotelNo: 173030
 hotelName: "ダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲ"
 areas: ["京都"]
@@ -29,9 +29,11 @@ reviewCount: 829
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
-<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 ゆったりした客室</div><div class="pt-b">お部屋が広くて、子供ものびのび過ごせる</div></div>
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">お部屋</span><span class="rx">「サービスもよく、たまたまでしたが、新幹線が見えるお部屋で子供は喜んでました」</span></div><div class="reason"><span class="rt">接客</span><span class="rx">「子連れで利用したが、対応、サービスが悪くガッカリした」</span></div><div class="reason"><span class="rt">設備</span><span class="rx">「受付のお姉さんが、子ども達に貸出用品の絵本を勧めて下さったり、アメニティの案内など大変丁寧で分かりやすかったです」</span></div><div class="reason"><span class="rt">お風呂</span><span class="rx">「子供がいるのでお風呂とお手洗いが別なのも助かります」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
+
+<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 お部屋が広くてのびのび</div><div class="pt-b">端から端まで動き回れる広さで、子供ものびのび</div></div>
 <h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 子連れに優しい接客</div><div class="pt-b">口コミでも子連れへの心配りが高評価</div></div>
-<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">公式</span>総合★4.57（829件）</li><li><span class="src">公式</span>総合★4.57（829件）</li></ul></details>
+<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>上のフロアかな、子供が部屋を走り回ってたんでしょうけど、ドタバタうるさかった</li><li><span class="src">公式</span>総合★4.57（829件）</li></ul></details>
 
 
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">湯沸かしポット</span><span class="chip">加湿器</span><span class="chip">加湿器(貸出)</span></div>
@@ -41,7 +43,7 @@ reviewCount: 829
 <h2>子連れ目線の評価</h2>
 <div class="scores"><div class="bar"><span class="lab">食事</span><span class="track"><span class="fill" style="width:89%"></span></span><span class="num">4.43</span></div><div class="bar"><span class="lab">お風呂</span><span class="track"><span class="fill" style="width:91%"></span></span><span class="num">4.57</span></div><div class="bar"><span class="lab">客室</span><span class="track"><span class="fill" style="width:92%"></span></span><span class="num">4.58</span></div><div class="bar"><span class="lab">接客</span><span class="track"><span class="fill" style="width:90%"></span></span><span class="num">4.5</span></div><div class="bar"><span class="lab">立地</span><span class="track"><span class="fill" style="width:92%"></span></span><span class="num">4.62</span></div><div class="bar"><span class="lab">設備</span><span class="track"><span class="fill" style="width:91%"></span></span><span class="num">4.57</span></div></div>
 
-<h2>泊まった人の声</h2><blockquote class="rev">「子供がいるのでお風呂とお手洗いが別なのも助かります」<cite>— 楽天トラベルの口コミより</cite></blockquote>
+<h2>泊まった人の声</h2><blockquote class="rev">「朝食のフレンチトーストはとても美味しく子供も喜んでいました」<cite>— 楽天トラベルの口コミより</cite></blockquote>
 
 <h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>夕食は館内のお食事処でいただけます。食事の口コミ評価は★4.43と高めです。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details></div>
 

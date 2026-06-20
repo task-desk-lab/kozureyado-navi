@@ -1,7 +1,7 @@
 ---
 title: "池田屋旅館 子連れ宿の口コミ・評判【2026】"
 description: "池田屋旅館（氷見市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ81件・★4.66から、「ゆったりした客室」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+date: "2026-06-21"
 hotelNo: 76950
 hotelName: "池田屋旅館"
 areas: ["富山県"]
@@ -28,6 +28,8 @@ reviewCount: 81
 <p class="lead">施設は昭和レトロですが…季節の海の幸を使った料理はピカイチ！氷見駅より車で5分、氷見ICより車で7分</p>
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">○ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
+
+
 
 <h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 ゆったりした客室</div><div class="pt-b">お部屋が広くて、子供ものびのび過ごせる</div></div>
 <h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 貸切・家族風呂</div><div class="pt-b">人目を気にせず、子供と一緒にゆっくり入れる</div></div>

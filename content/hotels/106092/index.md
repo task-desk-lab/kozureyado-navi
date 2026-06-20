@@ -1,7 +1,7 @@
 ---
 title: "スパリゾートハワイアンズ　ウイルポート 子連れ宿の口コミ・評判【2026】"
 description: "スパリゾートハワイアンズ　ウイルポート（いわき市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ670件・★4.48から、「赤ちゃんグッズが充実」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+date: "2026-06-21"
 hotelNo: 106092
 hotelName: "スパリゾートハワイアンズ　ウイルポート"
 areas: ["福島県"]
@@ -29,9 +29,11 @@ reviewCount: 670
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
-<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 赤ちゃんグッズが充実</div><div class="pt-b">バンボやベビーバスまであって、赤ちゃん連れも手ぶらでOK</div></div><div class="pt"><div class="pt-t">👶 子供が遊べる施設が充実</div><div class="pt-b">遊び場やアクティビティで、子供を退屈させない</div></div>
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">設備</span><span class="rx">「帰りのバスが心配で子供用の酔い止めの薬が売店にあるかフロントで尋ねたところ、ご用意して下さり、行き届いたサービスに感激しました」</span></div><div class="reason"><span class="rt">食事</span><span class="rx">「離乳食もおかゆとおかずが用意されていたので助かりました」</span></div><div class="reason"><span class="rt">接客</span><span class="rx">「騒がしい子供連れでしたが、ホテルの皆さん親切にしてくださり過ごしやすかったです」</span></div><div class="reason"><span class="rt">子連れ歓迎</span><span class="rx">「子連れだったため、移動距離が短くスムーズだったことがとても助かりました」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
+
+<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 赤ちゃんグッズが充実</div><div class="pt-b">バンボやベビーバスまであって、赤ちゃん連れも手ぶらでOK</div></div>
 <h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ ウェルカムベビー認定</div><div class="pt-b">赤ちゃん連れ歓迎が、第三者に認定された宿</div></div>
-<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>ベビーグッズもお借りできて荷物も減り良かったです!</li><li><span class="src">口コミ</span>何しろ子供はプールが好きなのでショーも見ずにひたすらプールでした</li><li><span class="src">口コミ</span>プールに一番近いお宿ということとウェルカムベビールームがあるということでコチラをチョイス</li></ul></details>
+<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>ベビーグッズもお借りできて荷物も減り良かったです!</li><li><span class="src">口コミ</span>プールに一番近いお宿ということとウェルカムベビールームがあるということでコチラをチョイス</li></ul></details>
 
 
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">湯沸かしポット</span><span class="chip">加湿器(貸出)</span><span class="chip">プール(通年)</span><span class="chip">屋外プール</span><span class="chip">ゲームコーナー</span></div>
@@ -41,7 +43,7 @@ reviewCount: 670
 <h2>子連れ目線の評価</h2>
 <div class="scores"><div class="bar"><span class="lab">食事</span><span class="track"><span class="fill" style="width:89%"></span></span><span class="num">4.45</span></div><div class="bar"><span class="lab">お風呂</span><span class="track"><span class="fill" style="width:87%"></span></span><span class="num">4.34</span></div><div class="bar"><span class="lab">客室</span><span class="track"><span class="fill" style="width:88%"></span></span><span class="num">4.42</span></div><div class="bar"><span class="lab">接客</span><span class="track"><span class="fill" style="width:89%"></span></span><span class="num">4.43</span></div><div class="bar"><span class="lab">立地</span><span class="track"><span class="fill" style="width:86%"></span></span><span class="num">4.31</span></div><div class="bar"><span class="lab">設備</span><span class="track"><span class="fill" style="width:86%"></span></span><span class="num">4.28</span></div></div>
 
-<h2>泊まった人の声</h2><blockquote class="rev">「ベビーグッズもお借りできて荷物も減り良かったです!」<cite>— 楽天トラベルの口コミより</cite></blockquote>
+<h2>泊まった人の声</h2><blockquote class="rev">「離乳食もおかゆとおかずが用意されていたので助かりました」<cite>— 楽天トラベルの口コミより</cite></blockquote>
 
 <h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>夕食はレストラン(バイキング)でいただけます。食事の口コミ評価は★4.45と高めです。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>大浴場などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details></div>
 

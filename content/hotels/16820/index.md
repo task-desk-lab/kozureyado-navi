@@ -1,7 +1,7 @@
 ---
 title: "丸山温泉　古城館 子連れ宿の口コミ・評判【2026】"
-description: "丸山温泉　古城館（南魚沼市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ772件・★4.68から、「ゆったりした客室」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+description: "丸山温泉　古城館（南魚沼市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ772件・★4.68から、「子供が遊べる施設が充実」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
+date: "2026-06-21"
 hotelNo: 16820
 hotelName: "丸山温泉　古城館"
 areas: ["新潟県"]
@@ -29,9 +29,11 @@ reviewCount: 772
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">○ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
-<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 ゆったりした客室</div><div class="pt-b">お部屋が広くて、子供ものびのび過ごせる</div></div>
-<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ お部屋・個室で部屋食</div><div class="pt-b">人目を気にせず、子供を見ながらゆっくり食べられる</div></div><div class="pt"><div class="pt-t">☺️ 貸切・家族風呂</div><div class="pt-b">人目を気にせず、子供と一緒にゆっくり入れる</div></div>
-<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">公式</span>総合★4.68（772件）</li><li><span class="src">公式</span>公式: 夕食/朝食=部屋・個室（部屋食）</li><li><span class="src">公式</span>公式: 風呂種別に家族風呂あり</li></ul></details>
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">食事</span><span class="rx">「ペットにも優しく、赤ちゃんを連れていたからか食事は個室を用意してくださっており大変助かりました」</span></div><div class="reason"><span class="rt">接客</span><span class="rx">「子供が泣くので個室の対応をして下さり助かりました」</span></div><div class="reason"><span class="rt">お風呂</span><span class="rx">「貸切露天風呂も、小さい子どもがいるので助かります」</span></div><div class="reason"><span class="rt">子連れ歓迎</span><span class="rx">「子供(犬)も雪の中怖がっていましたが嬉しそうでした」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
+
+<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 子供が遊べる施設が充実</div><div class="pt-b">遊び場やアクティビティで、子供を退屈させない</div></div><div class="pt"><div class="pt-t">👶 スタッフが子供に優しい</div><div class="pt-b">子供にも気さくに接してくれる、あたたかい宿</div></div>
+<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 貸切・家族風呂</div><div class="pt-b">人目を気にせず、子供と一緒にゆっくり入れる</div></div><div class="pt"><div class="pt-t">☺️ ウェルカムベビー認定</div><div class="pt-b">赤ちゃん連れ歓迎が、第三者に認定された宿</div></div>
+<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>ホテル裏にある広場でソリ遊びや雪遊びがまるで貸切状態だったので、子供たちは</li><li><span class="src">口コミ</span>従業員の男性も子供たちに気さくに声をかけて</li><li><span class="src">口コミ</span>貸切風呂も子どももゆっくり入ることが出来、下の子ももっと入っていたいと長湯するくらいいい湯加減でした</li><li><span class="src">口コミ</span>猫と生後8ヶ月の子と一緒に旅行に行きたくて調べていたらウェルカムベビーの宿でペット可なこちらを見つけて即予約しました</li></ul></details>
 
 <h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16820/16820_kan.jpg" alt="丸山温泉　古城館の客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D16820" target="_blank" rel="nofollow sponsored">▶ 客室つきプランを見る（楽天トラベルで見る）</a></p>
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">湯沸かしポット</span><span class="chip">加湿器</span><span class="chip">大浴場には乳幼児用のお風呂セット・脱衣場におむつ替え台、おむつ用ゴミ箱をご用意しております。</span><span class="chip">ゲームコーナー</span></div>
@@ -41,7 +43,7 @@ reviewCount: 772
 <h2>子連れ目線の評価</h2>
 <div class="scores"><div class="bar"><span class="lab">食事</span><span class="track"><span class="fill" style="width:94%"></span></span><span class="num">4.71</span></div><div class="bar"><span class="lab">お風呂</span><span class="track"><span class="fill" style="width:93%"></span></span><span class="num">4.66</span></div><div class="bar"><span class="lab">客室</span><span class="track"><span class="fill" style="width:91%"></span></span><span class="num">4.56</span></div><div class="bar"><span class="lab">接客</span><span class="track"><span class="fill" style="width:93%"></span></span><span class="num">4.67</span></div><div class="bar"><span class="lab">立地</span><span class="track"><span class="fill" style="width:88%"></span></span><span class="num">4.41</span></div><div class="bar"><span class="lab">設備</span><span class="track"><span class="fill" style="width:91%"></span></span><span class="num">4.55</span></div></div>
 
-<h2>泊まった人の声</h2><blockquote class="rev">「貸切露天風呂も、小さい子どもがいるので助かります」<cite>— 楽天トラベルの口コミより</cite></blockquote>
+<h2>泊まった人の声</h2><blockquote class="rev">「ペットにも優しく、赤ちゃんを連れていたからか食事は個室を用意してくださっており大変助かりました」<cite>— 楽天トラベルの口コミより</cite></blockquote>
 
 <h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>夕食は個室・食事処でいただけます。食事の口コミ評価は★4.71と高めです。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>大浴場・露天風呂・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details></div>
 

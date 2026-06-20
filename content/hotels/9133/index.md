@@ -1,7 +1,7 @@
 ---
 title: "白浜温泉　家族とすごす白浜の宿　柳屋 子連れ宿の口コミ・評判【2026】"
 description: "白浜温泉　家族とすごす白浜の宿　柳屋（白浜町）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ1229件・★4.48から、「子供のごはんも本格的」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+date: "2026-06-21"
 hotelNo: 9133
 hotelName: "白浜温泉　家族とすごす白浜の宿　柳屋"
 areas: ["和歌山県"]
@@ -28,6 +28,8 @@ reviewCount: 1229
 <p class="lead">★5,6月特価★露天風呂付客室は源泉かけ流し！貸切風呂も好評なファミリー歓迎の寛ぎ宿</p>
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">◎ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
+
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">食事</span><span class="rx">「部屋食は小さな子ども連れには特にありがたく、周囲を気にせずゆっくり食事を楽しめます」</span></div><div class="reason"><span class="rt">設備</span><span class="rx">「必要に応じてベビーチェアも用意していただけました」</span></div><div class="reason"><span class="rt">お風呂</span><span class="rx">「白良浜の近さ、温泉、豪勢な料理、ホテルの方の親切さに妻も子供も大満足でした」</span></div><div class="reason"><span class="rt">食事</span><span class="rx">「ご飯もお部屋で食べれたので、動き回る赤ちゃんを自由にさせられたので安心でした」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
 
 <h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 子供のごはんも本格的</div><div class="pt-b">子供用の食事まで手を抜かない献立</div></div>
 <h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ お部屋・個室で部屋食</div><div class="pt-b">人目を気にせず、子供を見ながらゆっくり食べられる</div></div><div class="pt"><div class="pt-t">☺️ 客室にお風呂付き</div><div class="pt-b">子供を連れて大浴場まで歩かなくてOK</div></div>

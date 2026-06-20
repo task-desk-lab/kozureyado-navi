@@ -1,7 +1,7 @@
 ---
 title: "レフ松山市駅　ｂｙ　ベッセルホテルズ｜ＲＥＦ松山市駅｜サウナ付大浴場（松山市駅隣接） 子連れ宿の口コミ・評判【2026】"
 description: "レフ松山市駅　ｂｙ　ベッセルホテルズ｜ＲＥＦ松山市駅｜サウナ付大浴場（松山市駅隣接）（松山市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ983件・★4.49から、「ゆったりした客室」など子供にうれしいポイント、設備・お食事・お風"
-date: "2026-06-20"
+date: "2026-06-21"
 hotelNo: 183045
 hotelName: "レフ松山市駅　ｂｙ　ベッセルホテルズ｜ＲＥＦ松山市駅｜サウナ付大浴場（松山市駅隣接）"
 areas: ["愛媛県"]
@@ -29,9 +29,11 @@ reviewCount: 983
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">遊び</span><span class="rx">「夜のアイスサービスもあり子供がミカンソフトクリームをとても喜んで食べていました」</span></div><div class="reason"><span class="rt">子連れ歓迎</span><span class="rx">「段差はないけどドア内の入口で靴を脱いでスリッパで入るようになっており子供がスリッパ履かずに裸足で過ごしがちな子連れ家族にも嬉しいスタイル」</span></div><div class="reason"><span class="rt">お部屋</span><span class="rx">「子供添い寝無料は本当に助かります」</span></div><div class="reason"><span class="rt">設備</span><span class="rx">「貸し出しのベビーベッドは柵の幅が結構広くて、寝返りをする我が子は脚が挟まってしまいました」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
+
 <h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 ゆったりした客室</div><div class="pt-b">お部屋が広くて、子供ものびのび過ごせる</div></div>
-<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 貸切・家族風呂</div><div class="pt-b">人目を気にせず、子供と一緒にゆっくり入れる</div></div>
-<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">公式</span>総合★4.49（983件）</li><li><span class="src">公式</span>公式: 風呂種別に家族風呂あり</li></ul></details>
+<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 子供も安心して眠れる</div><div class="pt-b">低いベッドや布団で、添い寝もしやすい</div></div><div class="pt"><div class="pt-t">☺️ 客室にお風呂付き</div><div class="pt-b">子供を連れて大浴場まで歩かなくてOK</div></div>
+<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">公式</span>総合★4.49（983件）</li><li><span class="src">口コミ</span>子供添い寝無料は本当に助かります</li><li><span class="src">口コミ</span>また、部屋のお風呂にベビーソープもありました</li></ul></details>
 
 
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">湯沸かしポット</span><span class="chip">加湿器</span></div>
@@ -41,7 +43,7 @@ reviewCount: 983
 <h2>子連れ目線の評価</h2>
 <div class="scores"><div class="bar"><span class="lab">食事</span><span class="track"><span class="fill" style="width:94%"></span></span><span class="num">4.71</span></div><div class="bar"><span class="lab">お風呂</span><span class="track"><span class="fill" style="width:89%"></span></span><span class="num">4.44</span></div><div class="bar"><span class="lab">客室</span><span class="track"><span class="fill" style="width:90%"></span></span><span class="num">4.49</span></div><div class="bar"><span class="lab">接客</span><span class="track"><span class="fill" style="width:89%"></span></span><span class="num">4.43</span></div><div class="bar"><span class="lab">立地</span><span class="track"><span class="fill" style="width:91%"></span></span><span class="num">4.56</span></div><div class="bar"><span class="lab">設備</span><span class="track"><span class="fill" style="width:89%"></span></span><span class="num">4.43</span></div></div>
 
-
+<h2>泊まった人の声</h2><blockquote class="rev">「夜のアイスサービスもあり子供がミカンソフトクリームをとても喜んで食べていました」<cite>— 楽天トラベルの口コミより</cite></blockquote>
 
 <h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>夕食は館内のお食事処でいただけます。食事の口コミ評価は★4.71と高めです。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>大浴場・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details></div>
 

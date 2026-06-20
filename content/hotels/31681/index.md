@@ -1,7 +1,7 @@
 ---
 title: "箱根湯本温泉　庭園露天を味わう宿　湯さか荘 子連れ宿の口コミ・評判【2026】"
-description: "箱根湯本温泉　庭園露天を味わう宿　湯さか荘（箱根町）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ549件・★4.64から、「ゆったりした客室」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+description: "箱根湯本温泉　庭園露天を味わう宿　湯さか荘（箱根町）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ549件・★4.64から、「赤ちゃんグッズが充実」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
+date: "2026-06-21"
 hotelNo: 31681
 hotelName: "箱根湯本温泉　庭園露天を味わう宿　湯さか荘"
 areas: ["神奈川県"]
@@ -29,9 +29,11 @@ reviewCount: 549
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
-<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 ゆったりした客室</div><div class="pt-b">お部屋が広くて、子供ものびのび過ごせる</div></div>
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">食事</span><span class="rx">「また、夕食時は寝ている子供を配慮して静かに配膳してくださったり、写真を撮っていただいたりと仲居さんの気配りが嬉しかったです」</span></div><div class="reason"><span class="rt">設備</span><span class="rx">「お部屋は広々としており、子ども用の椅子やおむつ、おしりふきまで用意されていて大変助かりました」</span></div><div class="reason"><span class="rt">お風呂</span><span class="rx">「貸切の家族風呂もあり、子どもと一緒にゆっくり入浴できたのも嬉しかったです」</span></div><div class="reason"><span class="rt">子連れ歓迎</span><span class="rx">「こちらは湯温が熱すぎず、子どもも安心して入ることができ、とてもありがたく感じました」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
+
+<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 赤ちゃんグッズが充実</div><div class="pt-b">バンボやベビーバスまであって、赤ちゃん連れも手ぶらでOK</div></div><div class="pt"><div class="pt-t">👶 スタッフが子供に優しい</div><div class="pt-b">子供にも気さくに接してくれる、あたたかい宿</div></div>
 <h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ お部屋・個室で部屋食</div><div class="pt-b">人目を気にせず、子供を見ながらゆっくり食べられる</div></div><div class="pt"><div class="pt-t">☺️ 客室にお風呂付き</div><div class="pt-b">子供を連れて大浴場まで歩かなくてOK</div></div>
-<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">公式</span>総合★4.64（549件）</li><li><span class="src">口コミ</span>小さい子供連れでも部屋食だったのでゆっくりでき、仲居さんにもフレンドリーに接して頂き満足でした</li><li><span class="src">口コミ</span>部屋の露天風呂はレトロな雰囲気でしたが、熱すぎない温度で子供と入るのにちょうど良さそうでした</li></ul></details>
+<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>部屋には子供用のおむつやお尻ふき・バンボなどもご用意いただいており何から何までありがとうございました</li><li><span class="src">口コミ</span>とにかく仲居さんが子供に優しくて、うちの子達の「なんでどうして」にもきちんと答えてくださり、あっという間に懐いていました</li><li><span class="src">口コミ</span>子連れ旅行はお部屋食のあるお宿がおすすめ</li><li><span class="src">口コミ</span>部屋の露天風呂はレトロな雰囲気でしたが、熱すぎない温度で子供と入るのにちょうど良さそうでした</li></ul></details>
 
 <h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31681/31681_kan1.jpg" alt="箱根湯本温泉　庭園露天を味わう宿　湯さか荘の客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D31681" target="_blank" rel="nofollow sponsored">▶ 客室つきプランを見る（楽天トラベルで見る）</a></p>
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">湯沸かしポット</span><span class="chip">加湿器(貸出)</span><span class="chip">卓球</span></div>

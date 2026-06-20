@@ -1,7 +1,7 @@
 ---
 title: "四季彩の宿　花椿 子連れ宿の口コミ・評判【2026】"
 description: "四季彩の宿　花椿（小浜市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ105件・★4.5から、「ゆったりした客室」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+date: "2026-06-21"
 hotelNo: 13898
 hotelName: "四季彩の宿　花椿"
 areas: ["福井県"]
@@ -28,6 +28,8 @@ reviewCount: 105
 <p class="lead">若狭小浜湾の魅力が満載、展望温泉とプライベートサウナで癒しの旅をお届け＜全室オーシャンビュー＞</p>
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">○ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">○ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
+
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">食事</span><span class="rx">「その後、子どもが寝そうになり、夕食を予定時刻より1つ早い時間に変更してほしいとお願いすると、優しく対応してくださりました」</span></div><div class="reason"><span class="rt">子連れ歓迎</span><span class="rx">「景観も良く、目の前が浜辺なので、子どもが海に少し入りたい時も凄く便利でした」</span></div><div class="reason"><span class="rt">遊び</span><span class="rx">「とても美味しく、子供も喜んでいました」</span></div><div class="reason"><span class="rt">食事</span><span class="rx">「夕食中、子供の相手をして頂き、ゆっくり食べる時間を頂いてありがとうございました」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
 
 <h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 ゆったりした客室</div><div class="pt-b">お部屋が広くて、子供ものびのび過ごせる</div></div>
 <h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 子連れに優しい接客</div><div class="pt-b">口コミでも子連れへの心配りが高評価</div></div>

@@ -1,7 +1,7 @@
 ---
 title: "和銅鉱泉　薬師の湯　ゆの宿　和どう 子連れ宿の口コミ・評判【2026】"
 description: "和銅鉱泉　薬師の湯　ゆの宿　和どう（秩父市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ2826件・★4.53から、「ゆったりした客室」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-20"
+date: "2026-06-21"
 hotelNo: 6100
 hotelName: "和銅鉱泉　薬師の湯　ゆの宿　和どう"
 areas: ["埼玉県"]
@@ -29,9 +29,11 @@ reviewCount: 2826
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">○ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">設備</span><span class="rx">「従業員さんがとても親しみやすく話しかけて下さり、また子連れということで子供用の椅子やアメニティなど用意してくださっていてとても嬉しかったです」</span></div><div class="reason"><span class="rt">接客</span><span class="rx">「生後数ヶ月の子どもも一緒だった為、ミルクの消毒は必須でしたが臨機応変に対応してくださり助かりました」</span></div><div class="reason"><span class="rt">食事</span><span class="rx">「期待していたご飯も、どれも丁寧なお味で予想以上でした(また、子供向けにご飯やお水など必要ですか？と聞いてくださったのも嬉しかったです)」</span></div><div class="reason"><span class="rt">お風呂</span><span class="rx">「一つわがままを言わせていただけるならば、貸し切り風呂にもベビー用の椅子をご用意いただけたら、さらに嬉しかったです」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
+
 <h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 ゆったりした客室</div><div class="pt-b">お部屋が広くて、子供ものびのび過ごせる</div></div>
-<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ お部屋・個室で部屋食</div><div class="pt-b">人目を気にせず、子供を見ながらゆっくり食べられる</div></div><div class="pt"><div class="pt-t">☺️ 貸切・家族風呂</div><div class="pt-b">人目を気にせず、子供と一緒にゆっくり入れる</div></div>
-<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">公式</span>総合★4.53（2826件）</li><li><span class="src">公式</span>公式: 夕食/朝食=部屋・個室（部屋食）</li><li><span class="src">公式</span>公式: 風呂種別に家族風呂あり</li></ul></details>
+<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 子供が騒いでも大丈夫</div><div class="pt-b">多少さわいでも、気兼ねなく過ごせる雰囲気</div></div><div class="pt"><div class="pt-t">☺️ お部屋・個室で部屋食</div><div class="pt-b">人目を気にせず、子供を見ながらゆっくり食べられる</div></div>
+<details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">公式</span>総合★4.53（2826件）</li><li><span class="src">口コミ</span>赤ちゃん連れの方や妊婦の方が多く、子連れでも人目を気にすることなく、</li><li><span class="src">口コミ</span>部屋で夕食を食べられるというのが、子連れとしてはとても助かりました</li></ul></details>
 
 <h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6100/6100_ky.jpg" alt="和銅鉱泉　薬師の湯　ゆの宿　和どうの客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D6100" target="_blank" rel="nofollow sponsored">▶ 客室つきプランを見る（楽天トラベルで見る）</a></p>
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">加湿器(貸出)</span></div>
@@ -41,7 +43,7 @@ reviewCount: 2826
 <h2>子連れ目線の評価</h2>
 <div class="scores"><div class="bar"><span class="lab">食事</span><span class="track"><span class="fill" style="width:91%"></span></span><span class="num">4.56</span></div><div class="bar"><span class="lab">お風呂</span><span class="track"><span class="fill" style="width:90%"></span></span><span class="num">4.52</span></div><div class="bar"><span class="lab">客室</span><span class="track"><span class="fill" style="width:89%"></span></span><span class="num">4.44</span></div><div class="bar"><span class="lab">接客</span><span class="track"><span class="fill" style="width:92%"></span></span><span class="num">4.59</span></div><div class="bar"><span class="lab">立地</span><span class="track"><span class="fill" style="width:86%"></span></span><span class="num">4.31</span></div><div class="bar"><span class="lab">設備</span><span class="track"><span class="fill" style="width:88%"></span></span><span class="num">4.41</span></div></div>
 
-<h2>泊まった人の声</h2><blockquote class="rev">「生後数ヶ月の子どもも一緒だった為、ミルクの消毒は必須でしたが臨機応変に対応してくださり助かりました」<cite>— 楽天トラベルの口コミより</cite></blockquote>
+<h2>泊まった人の声</h2><blockquote class="rev">「期待していたご飯も、どれも丁寧なお味で予想以上でした(また、子供向けにご飯やお水など必要ですか？と聞いてくださったのも嬉しかったです)」<cite>— 楽天トラベルの口コミより</cite></blockquote>
 
 <h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>夕食はお部屋（部屋食）・個室でいただけます。食事の口コミ評価は★4.56と高めです。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>大浴場・露天風呂・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details></div>
 
