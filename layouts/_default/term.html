@@ -3,15 +3,13 @@
   <h1>{{ .Title }}の子連れ宿</h1>
   <p class="sub">口コミの集合知で選ぶ、子連れにやさしい宿。{{ len .Pages }}軒</p>
 </div></section>
-<div class="wrap">
-  <div class="chips scroll" style="margin-top:14px">
-    {{ $cur := .Title }}
-    {{ range $name, $taxo := (index .Site.Taxonomies .Data.Plural) }}
-      <a class="fchip{{ if eq $.Data.Singular "area" }} area{{ end }}{{ if eq $name $cur }} on{{ end }}" href="{{ $taxo.Page.RelPermalink }}">{{ $name }}</a>
-    {{ end }}
-  </div>
-</div>
+<div class="wrap"><div class="chips scroll" style="margin-top:14px">
+  {{ $cur := .Title }}
+  {{ range $name, $taxo := (index .Site.Taxonomies .Data.Plural) }}
+    <a class="fchip{{ if eq $.Data.Singular "area" }} area{{ end }}{{ if eq $name $cur }} on{{ end }}" href="{{ $taxo.Page.RelPermalink }}">{{ $name }}</a>
+  {{ end }}
+</div></div>
 <div class="list">
-{{ range .Pages.ByDate.Reverse }}{{ partial "hotel-card.html" . }}{{ end }}
+  {{ range .Pages.ByDate.Reverse }}{{ partial "hotel-card.html" . }}{{ end }}
 </div>
 {{ end }}

@@ -1,15 +1,30 @@
 {{ define "main" }}
-{{ $label := dict "area" "エリアから探す" "purpose" "目的から探す" }}
-{{ $h := index $label .Data.Singular | default .Title }}
-<section class="hero-home"><div class="in">
-  <h1>{{ $h }}</h1>
-  <p class="sub">口コミの集合知で選ぶ、子連れにやさしい宿。</p>
-</div></section>
-<div class="wrap">
-  <div class="chips" style="margin-top:18px">
-  {{ range $name, $taxo := (index .Site.Taxonomies .Data.Plural) }}
-    <a class="fchip{{ if eq $.Data.Singular "area" }} area{{ end }}" href="{{ $taxo.Page.RelPermalink }}">{{ $name }} <b>{{ len $taxo.Pages }}</b></a>
-  {{ end }}
+{{ if eq .Kind "term" }}
+  {{/* 個別タグ/エリアの宿一覧 */}}
+  <section class="hero-home"><div class="in">
+    <h1>{{ .Title }}の子連れ宿</h1>
+    <p class="sub">口コミの集合知で選ぶ、子連れにやさしい宿。{{ len .Pages }}軒</p>
+  </div></section>
+  <div class="wrap"><div class="chips scroll" style="margin-top:14px">
+    {{ $cur := .Title }}
+    {{ range $name, $taxo := (index .Site.Taxonomies .Data.Plural) }}
+      <a class="fchip{{ if eq $.Data.Singular "area" }} area{{ end }}{{ if eq $name $cur }} on{{ end }}" href="{{ $taxo.Page.RelPermalink }}">{{ $name }}</a>
+    {{ end }}
+  </div></div>
+  <div class="list">
+    {{ range .Pages.ByDate.Reverse }}{{ partial "hotel-card.html" . }}{{ end }}
   </div>
-</div>
+{{ else }}
+  {{/* タクソノミー一覧（タグ/エリアのハブ） */}}
+  {{ $label := dict "area" "エリアから探す" "purpose" "目的から探す" }}
+  <section class="hero-home"><div class="in">
+    <h1>{{ index $label .Data.Singular | default .Title }}</h1>
+    <p class="sub">口コミの集合知で選ぶ、子連れにやさしい宿。</p>
+  </div></section>
+  <div class="wrap"><div class="chips" style="margin-top:18px">
+    {{ range $name, $taxo := (index .Site.Taxonomies .Data.Plural) }}
+      <a class="fchip{{ if eq $.Data.Singular "area" }} area{{ end }}" href="{{ $taxo.Page.RelPermalink }}">{{ $name }} <b>{{ len $taxo.Pages }}</b></a>
+    {{ end }}
+  </div></div>
+{{ end }}
 {{ end }}
