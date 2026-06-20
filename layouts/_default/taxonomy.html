@@ -1,0 +1,15 @@
+{{ define "main" }}
+{{ $label := dict "area" "エリアから探す" "purpose" "目的から探す" }}
+{{ $h := index $label .Data.Singular | default .Title }}
+<section class="hero-home"><div class="in">
+  <h1>{{ $h }}</h1>
+  <p class="sub">口コミの集合知で選ぶ、子連れにやさしい宿。</p>
+</div></section>
+<div class="wrap">
+  <div class="chips" style="margin-top:18px">
+  {{ range $name, $taxo := (index .Site.Taxonomies .Data.Plural) }}
+    <a class="fchip{{ if eq $.Data.Singular "area" }} area{{ end }}" href="{{ $taxo.Page.RelPermalink }}">{{ $name }} <b>{{ len $taxo.Pages }}</b></a>
+  {{ end }}
+  </div>
+</div>
+{{ end }}

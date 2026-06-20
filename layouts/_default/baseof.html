@@ -4,13 +4,28 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ if .IsHome }}{{ .Site.Title }}｜{{ .Site.Params.tagline }}{{ else }}{{ .Title }}{{ end }}</title>
 {{ partial "head-seo.html" . }}
+<link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ "/index.xml" | absURL }}">
+<link rel="icon" href="{{ "/favicon.svg" | relURL }}" type="image/svg+xml">
+<link rel="apple-touch-icon" href="{{ "/favicon.svg" | relURL }}">
 <link rel="stylesheet" href="{{ "css/site.css" | relURL }}">
+{{- with .Site.Params.googleAnalyticsId }}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','{{ . }}')</script>
+{{- end }}
 </head><body>
-<header class="topbar"><a href="{{ "/" | relURL }}">🏠 子連れ宿ナビ</a></header>
+<header class="topbar"><div class="in">
+  <a class="brand" href="{{ "/" | relURL }}"><span class="em">🏡</span> 子連れ宿ナビ</a>
+</div></header>
 {{ block "main" . }}{{ end }}
-<footer class="site-foot">
+<footer class="site-foot"><div class="in">
+  <div class="fnav">
+    <a href="{{ "/" | relURL }}">ホーム</a>
+    <a href="{{ "/areas/" | relURL }}">エリアから探す</a>
+    <a href="{{ "/purposes/" | relURL }}">目的から探す</a>
+    <a href="{{ "/about/" | relURL }}">このサイトについて</a>
+  </div>
   <p>{{ .Site.Params.closing }}</p>
   <p>※当サイトは楽天トラベルのアフィリエイトプログラムを利用しています。</p>
   <p>&copy; {{ now.Year }} 子連れ宿ナビ</p>
-</footer>
+</div></footer>
 </body></html>

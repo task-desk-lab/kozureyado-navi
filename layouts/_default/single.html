@@ -2,4 +2,22 @@
 <article>
 {{ .Content }}
 </article>
+{{ if eq .Section "hotels" }}
+<div class="sticky-cta"><div class="in">
+  <div class="sc-info">
+    <span class="sc-rate">★{{ .Params.ratingValue }}</span>
+    {{ if gt (.Param "priceFrom" | default 0) 0 }}<span class="sc-price">1泊 {{ lang.FormatNumber 0 .Params.priceFrom }}円〜</span>{{ end }}
+  </div>
+  <a class="sc-btn" href="{{ .Params.affUrl }}" target="_blank" rel="nofollow sponsored">空室・料金を見る</a>
+</div></div>
+{{ end }}
+{{ with .Params.areas }}
+{{ $area := index . 0 }}
+{{ $rel := where (where $.Site.RegularPages "Section" "hotels") "Permalink" "!=" $.Permalink }}
+{{ $rel = where $rel "Params.areas" "intersect" (slice $area) }}
+{{ with first 3 $rel }}
+<div class="wrap"><h2 class="sec-h"><span class="em">📍</span>{{ $area }}の子連れ宿をもっと見る</h2></div>
+<div class="list related">{{ range . }}{{ partial "hotel-card.html" . }}{{ end }}</div>
+{{ end }}
+{{ end }}
 {{ end }}

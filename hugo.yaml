@@ -27,6 +27,7 @@ outputs:
 
 taxonomies:
   area: areas
+  purpose: purposes
 
 sitemap:
   changeFreq: weekly

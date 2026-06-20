@@ -1,16 +1,9 @@
 {{ define "main" }}
-<section class="home-hero">
-  <h1>{{ if .Data.Term }}{{ .Data.Term }}の子連れ宿{{ else }}{{ .Title }}{{ end }}</h1>
-</section>
+<section class="hero-home"><div class="in">
+  <h1>{{ .Title }}</h1>
+  <p class="sub">口コミの集合知で選ぶ、子連れにやさしい宿。{{ len .Pages }}軒</p>
+</div></section>
 <div class="list">
-{{ range .Pages.ByDate.Reverse }}
-  <a class="card" href="{{ .RelPermalink }}">
-    {{ with .Params.ogImage }}<img src="{{ . }}" alt="{{ $.Param "hotelName" }}" loading="lazy">{{ end }}
-    <div class="cb">
-      <div class="ct">{{ .Params.hotelName }}</div>
-      <div class="cm">★{{ .Params.ratingValue }}（口コミ{{ .Params.reviewCount }}件）</div>
-    </div>
-  </a>
-{{ end }}
+{{ range .Pages.ByDate.Reverse }}{{ partial "hotel-card.html" . }}{{ end }}
 </div>
 {{ end }}

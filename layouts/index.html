@@ -1,17 +1,39 @@
 {{ define "main" }}
-<section class="home-hero">
-  <h1>口コミの集合知で選ぶ、<br>子連れにやさしい宿</h1>
-  <p>{{ .Site.Params.description }}</p>
-</section>
+{{ $hotels := where .Site.RegularPages "Section" "hotels" }}
+{{ $total := 0 }}{{ range $hotels }}{{ $total = add $total (.Param "reviewCount" | default 0) }}{{ end }}
+<section class="hero-home"><div class="in">
+  <h1>口コミの集合知で選ぶ、<br>子連れにやさしい宿。</h1>
+  <p class="sub">{{ .Site.Params.description }}</p>
+  <div class="kpi">
+    <span class="n">{{ lang.FormatNumber 0 $total }}</span>
+    <span class="l">件のリアルな口コミから<br>子連れOKの宿を厳選</span>
+  </div>
+</div></section>
+
+<div class="wrap">
+  <div class="how">
+    <div class="step"><div class="ic">💬</div><div class="t">口コミを集約</div><div class="d">楽天トラベルの声を宿ごとに分析</div></div>
+    <div class="step"><div class="ic">👶</div><div class="t">子連れ目線で評価</div><div class="d">子供・パパママに嬉しい点を抽出</div></div>
+    <div class="step"><div class="ic">✈️</div><div class="t">そのまま予約</div><div class="d">気になった宿は楽天トラベルへ</div></div>
+  </div>
+
+  {{ with .Site.Taxonomies.purposes }}
+  <h2 class="sec-h"><span class="em">🎯</span>目的から探す</h2>
+  <div class="chips scroll">
+    {{ range $name, $taxo := . }}<a class="fchip" href="{{ $taxo.Page.RelPermalink }}">{{ $name }}</a>{{ end }}
+  </div>
+  {{ end }}
+
+  {{ with .Site.Taxonomies.areas }}
+  <h2 class="sec-h"><span class="em">📍</span>エリアから探す</h2>
+  <div class="chips scroll">
+    {{ range $name, $taxo := . }}<a class="fchip area" href="{{ $taxo.Page.RelPermalink }}">{{ $name }}</a>{{ end }}
+  </div>
+  {{ end }}
+
+  <h2 class="sec-h"><span class="em">🏨</span>新着の子連れ宿</h2>
+</div>
 <div class="list">
-{{ range (where .Site.RegularPages "Section" "hotels").ByDate.Reverse }}
-  <a class="card" href="{{ .RelPermalink }}">
-    {{ with .Params.ogImage }}<img src="{{ . }}" alt="{{ $.Param "hotelName" }}" loading="lazy">{{ end }}
-    <div class="cb">
-      <div class="ct">{{ .Params.hotelName }}</div>
-      <div class="cm">★{{ .Params.ratingValue }}（口コミ{{ .Params.reviewCount }}件）／{{ delimit .Params.areas "・" }}</div>
-    </div>
-  </a>
-{{ end }}
+{{ range $hotels.ByDate.Reverse }}{{ partial "hotel-card.html" . }}{{ end }}
 </div>
 {{ end }}
