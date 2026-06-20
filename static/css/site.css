@@ -32,6 +32,10 @@ img{max-width:100%}
 .fchip b{opacity:.55;font-size:.78rem;margin-left:2px}
 .fchip.on{background:var(--accent);border-color:var(--accent);color:#fff}
 .fchip.area.on{background:var(--sky);border-color:var(--sky);color:#fff}
+.region{margin:10px 0 14px}
+.region-name{display:inline-block;font-weight:900;font-size:.84rem;color:var(--sub);
+  background:#fff;border:1px solid var(--line);border-radius:8px;padding:3px 10px;margin-bottom:8px}
+.region .chips{margin:6px 0 0}
 
 /* ---- hero ---- */
 .hero-home{background:linear-gradient(160deg,#fff5f2 0%,#fff9f4 55%,#eaf7f8 100%);

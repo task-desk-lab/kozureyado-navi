@@ -1,0 +1,11 @@
+{{ define "main" }}
+<section class="hero-home"><div class="in">
+  <h1>目的×エリアで探す</h1>
+  <p class="sub">「{県} × {目的}」で、子連れにやさしい宿をピンポイントに。</p>
+</div></section>
+<div class="wrap"><div class="chips" style="margin-top:18px">
+  {{ range .Pages.ByTitle }}
+    <a class="fchip" href="{{ .RelPermalink }}">{{ .Params.comboArea }}×{{ .Params.comboPurpose }} <b>{{ .Params.hotelCount }}</b></a>
+  {{ end }}
+</div></div>
+{{ end }}

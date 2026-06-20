@@ -19,21 +19,36 @@
 
   {{ with .Site.Taxonomies.purposes }}
   <h2 class="sec-h"><span class="em">🎯</span>目的から探す</h2>
-  <div class="chips scroll">
-    {{ range $name, $taxo := . }}<a class="fchip" href="{{ $taxo.Page.RelPermalink }}">{{ $name }}</a>{{ end }}
+  <div class="chips">
+    {{ range $name, $taxo := . }}<a class="fchip" href="{{ $taxo.Page.RelPermalink }}">{{ $name }} <b>{{ len $taxo.Pages }}</b></a>{{ end }}
   </div>
   {{ end }}
 
-  {{ with .Site.Taxonomies.areas }}
+  {{ $areas := .Site.Taxonomies.areas }}
+  {{ if $areas }}
   <h2 class="sec-h"><span class="em">📍</span>エリアから探す</h2>
-  <div class="chips scroll">
-    {{ range $name, $taxo := . }}<a class="fchip area" href="{{ $taxo.Page.RelPermalink }}">{{ $name }}</a>{{ end }}
-  </div>
+  {{ range hugo.Data.regions }}
+    {{ $region := . }}
+    {{ $present := slice }}
+    {{ range .prefs }}{{ if index $areas . }}{{ $present = $present | append . }}{{ end }}{{ end }}
+    {{ if $present }}
+    <div class="region">
+      <span class="region-name">{{ $region.name }}</span>
+      <div class="chips">
+        {{ range $present }}<a class="fchip area" href="{{ (index $areas .).Page.RelPermalink }}">{{ . }} <b>{{ len (index $areas .) }}</b></a>{{ end }}
+      </div>
+    </div>
+    {{ end }}
+  {{ end }}
   {{ end }}
 
-  <h2 class="sec-h"><span class="em">🏨</span>新着の子連れ宿</h2>
+  <h2 class="sec-h"><span class="em">🏨</span>口コミが多い人気の子連れ宿</h2>
 </div>
 <div class="list">
-{{ range $hotels.ByDate.Reverse }}{{ partial "hotel-card.html" . }}{{ end }}
+  {{ range first 12 (sort $hotels "Params.reviewCount" "desc") }}{{ partial "hotel-card.html" . }}{{ end }}
 </div>
+<div class="wrap"><div class="chips" style="margin:6px 0 8px">
+  <a class="fchip" href="{{ "/hotels/" | relURL }}">すべての宿を見る（{{ len $hotels }}軒）→</a>
+  <a class="fchip" href="{{ "/combos/" | relURL }}">目的×エリアで探す →</a>
+</div></div>
 {{ end }}
