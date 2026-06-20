@@ -36,7 +36,7 @@ reviewCount: 254
 
 <h2>泊まった人の声</h2><blockquote class="rev">「スタッフの方々の対応、サービス、施設、目の前の富士山どれも素晴らしく日常とかけ離れた体験に子供達も喜んでくれ最高の思い出となり感謝の気持ちでいっぱいです」<cite>— 楽天トラベルの口コミより</cite></blockquote>
 
-<h2>このエリアの雰囲気</h2><figure class="ph"><img src="area_lake_fuji.jpg" alt="エリアイメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure>
+<h2>このエリアの雰囲気</h2><figure class="ph"><img src="area_lake_fuji_2.jpg" alt="エリアイメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure>
 
 <div class="cta">
 <a class="btn" href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D184648" target="_blank" rel="nofollow sponsored">
@@ -44,4 +44,4 @@ reviewCount: 254
 <p class="note">※当サイトは楽天トラベルのアフィリエイトプログラムを利用しています。</p>
 <p class="tags">#子連れ旅行 #子連れ温泉 #子連れ宿 #家族旅行 #赤ちゃん連れ旅行 #子連れ旅 #温泉旅行 #子連れお出かけ #ファミリー旅行 #子連れ宿ナビ #山梨</p>
 </div>
-<footer class="credits"><h3>イメージ写真クレジット</h3><ul><li>Breakfast at Tamahan Ryokan, Kyoto.jpg by MichaelMaggs / CC BY-SA 3.0（<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Breakfast_at_Tamahan_Ryokan%2C_Kyoto.jpg/1280px-Breakfast_at_Tamahan_Ryokan%2C_Kyoto.jpg" rel="nofollow">出典</a>）</li><li>Bokido of Hotel Urashima01o4592.jpg by 663highland / CC BY 2.5（<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bokido_of_Hotel_Urashima01o4592.jpg/1280px-Bokido_of_Hotel_Urashima01o4592.jpg" rel="nofollow">出典</a>）</li><li>Mount Fuji and Lake Yamanaka (5767436265).jpg by Wikimedia Commons（著者要確認） / CC BY 2.0（<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mount_Fuji_and_Lake_Yamanaka_%285767436265%29.jpg/1280px-Mount_Fuji_and_Lake_Yamanaka_%285767436265%29.jpg" rel="nofollow">出典</a>）</li></ul></footer>
+<footer class="credits"><h3>イメージ写真クレジット</h3><ul><li>Breakfast at Tamahan Ryokan, Kyoto.jpg by MichaelMaggs / CC BY-SA 3.0（<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Breakfast_at_Tamahan_Ryokan%2C_Kyoto.jpg/1280px-Breakfast_at_Tamahan_Ryokan%2C_Kyoto.jpg" rel="nofollow">出典</a>）</li><li>Bokido of Hotel Urashima01o4592.jpg by 663highland / CC BY 2.5（<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bokido_of_Hotel_Urashima01o4592.jpg/1280px-Bokido_of_Hotel_Urashima01o4592.jpg" rel="nofollow">出典</a>）</li><li>Lake Kawaguchiko Sakura Mount Fuji 1.JPG by Midori / CC BY 3.0（<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Lake_Kawaguchiko_Sakura_Mount_Fuji_1.JPG/1280px-Lake_Kawaguchiko_Sakura_Mount_Fuji_1.JPG" rel="nofollow">出典</a>）</li></ul></footer>
