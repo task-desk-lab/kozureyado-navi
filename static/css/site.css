@@ -110,6 +110,16 @@ article h2{font-size:1.2rem;margin:1.7em 0 .6em;padding-left:.55em;font-weight:8
 .safe .s .t{font-weight:800;font-size:.82rem;margin-top:3px}
 .safe .s .d{font-size:.72rem;color:#3f7a81;margin-top:2px;line-height:1.4}
 
+/* 口コミでわかる おすすめ理由 */
+.reasons{display:flex;flex-direction:column;gap:10px;margin:.5em 0 .3em}
+.reason{background:var(--cream);border:1px solid #f1e3da;border-radius:14px;padding:13px 15px;position:relative}
+.reason .rt{display:inline-block;background:var(--accent);color:#fff;font-size:.72rem;font-weight:800;
+  border-radius:8px;padding:2px 9px;margin-right:8px;vertical-align:2px}
+.reason .rx{font-size:.97rem;color:#46403b;font-weight:500}
+.reason-src{font-size:.76rem;color:var(--sub);margin:.3em 0 0;text-align:right}
+.cross{background:#fff;border:1px dashed var(--line);border-radius:14px;padding:12px 14px;margin:8px 0 2px}
+.cross .cl{font-size:.82rem;font-weight:800;color:var(--sub);margin-bottom:8px}
+
 .pt{border:1px solid var(--line);border-radius:16px;padding:13px 16px;margin:.5em 0;background:#fff}
 .pt-t{font-weight:800;font-size:1.05rem}
 .pt-b{color:#5b524c;margin-top:.2em}

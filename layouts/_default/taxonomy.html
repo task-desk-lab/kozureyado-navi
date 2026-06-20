@@ -11,6 +11,23 @@
       <a class="fchip{{ if eq $.Data.Singular "area" }} area{{ end }}{{ if eq $name $cur }} on{{ end }}" href="{{ $taxo.Page.RelPermalink }}">{{ $name }}</a>
     {{ end }}
   </div></div>
+
+  {{/* 掛け合わせ絞り込み: 目的→エリア / エリア→目的（comboページへ） */}}
+  {{ $combos := where .Site.RegularPages "Section" "combos" }}
+  {{ if eq .Data.Singular "purpose" }}
+    {{ with sort (where $combos "Params.comboPurpose" .Title) "Params.hotelCount" "desc" }}
+    <div class="wrap"><div class="cross"><div class="cl">📍 エリアでさらに絞り込む</div>
+      <div class="chips scroll">{{ range . }}<a class="fchip area" href="{{ .RelPermalink }}">{{ .Params.comboArea }} <b>{{ .Params.hotelCount }}</b></a>{{ end }}</div>
+    </div></div>
+    {{ end }}
+  {{ else if eq .Data.Singular "area" }}
+    {{ with sort (where $combos "Params.comboArea" .Title) "Params.hotelCount" "desc" }}
+    <div class="wrap"><div class="cross"><div class="cl">🎯 目的でさらに絞り込む</div>
+      <div class="chips">{{ range . }}<a class="fchip" href="{{ .RelPermalink }}">{{ .Params.comboPurpose }} <b>{{ .Params.hotelCount }}</b></a>{{ end }}</div>
+    </div></div>
+    {{ end }}
+  {{ end }}
+
   <div class="list">
     {{ range .Pages.ByDate.Reverse }}{{ partial "hotel-card.html" . }}{{ end }}
   </div>

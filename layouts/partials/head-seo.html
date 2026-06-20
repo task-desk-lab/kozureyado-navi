@@ -1,7 +1,7 @@
 {{ $desc := cond (ne .Description "") .Description .Site.Params.description }}
 <meta name="description" content="{{ $desc }}">
 <link rel="canonical" href="{{ .Permalink }}">
-<meta name="robots" content="index,follow,max-image-preview:large">
+<meta name="robots" content="{{ if .Params.noindex }}noindex,follow{{ else }}index,follow,max-image-preview:large{{ end }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
 <meta property="og:description" content="{{ $desc }}">

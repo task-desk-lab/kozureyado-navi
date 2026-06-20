@@ -4,7 +4,7 @@
   <p class="sub">「{県} × {目的}」で、子連れにやさしい宿をピンポイントに。</p>
 </div></section>
 <div class="wrap"><div class="chips" style="margin-top:18px">
-  {{ range .Pages.ByTitle }}
+  {{ range where .Pages.ByTitle "Params.noindex" "!=" true }}
     <a class="fchip" href="{{ .RelPermalink }}">{{ .Params.comboArea }}×{{ .Params.comboPurpose }} <b>{{ .Params.hotelCount }}</b></a>
   {{ end }}
 </div></div>
