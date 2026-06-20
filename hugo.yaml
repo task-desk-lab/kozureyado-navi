@@ -1,0 +1,34 @@
+baseURL: https://kozureyado-navi.com/
+languageCode: ja
+defaultContentLanguage: ja
+title: 子連れ宿ナビ
+buildFuture: true
+enableRobotsTXT: true
+
+params:
+  description: 子連れ・赤ちゃん連れに本当に優しい宿だけを、楽天トラベルの口コミ（集合知）で紹介。部屋食・貸切風呂・ベビーグッズ…「子供にいい」「親に嬉しい」を実際の声つきで。
+  author: 子連れ宿ナビ
+  tagline: 口コミの集合知で選ぶ、子連れにやさしい宿
+  closing: 家族の旅が、もっと楽しくなりますように
+  googleAnalyticsId: ""
+  googleSiteVerification: ""
+
+pagination:
+  pagerSize: 24
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+  home: [HTML, RSS]
+  section: [HTML, RSS]
+
+taxonomies:
+  area: areas
+
+sitemap:
+  changeFreq: weekly
+  filename: sitemap.xml
+  priority: 0.6

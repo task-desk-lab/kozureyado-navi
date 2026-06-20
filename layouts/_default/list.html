@@ -1,0 +1,16 @@
+{{ define "main" }}
+<section class="home-hero">
+  <h1>{{ if .Data.Term }}{{ .Data.Term }}の子連れ宿{{ else }}{{ .Title }}{{ end }}</h1>
+</section>
+<div class="list">
+{{ range .Pages.ByDate.Reverse }}
+  <a class="card" href="{{ .RelPermalink }}">
+    {{ with .Params.ogImage }}<img src="{{ . }}" alt="{{ $.Param "hotelName" }}" loading="lazy">{{ end }}
+    <div class="cb">
+      <div class="ct">{{ .Params.hotelName }}</div>
+      <div class="cm">★{{ .Params.ratingValue }}（口コミ{{ .Params.reviewCount }}件）</div>
+    </div>
+  </a>
+{{ end }}
+</div>
+{{ end }}

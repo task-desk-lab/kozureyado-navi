@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ja"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ if .IsHome }}{{ .Site.Title }}｜{{ .Site.Params.tagline }}{{ else }}{{ .Title }}{{ end }}</title>
+{{ partial "head-seo.html" . }}
+<link rel="stylesheet" href="{{ "css/site.css" | relURL }}">
+</head><body>
+<header class="topbar"><a href="{{ "/" | relURL }}">🏠 子連れ宿ナビ</a></header>
+{{ block "main" . }}{{ end }}
+<footer class="site-foot">
+  <p>{{ .Site.Params.closing }}</p>
+  <p>※当サイトは楽天トラベルのアフィリエイトプログラムを利用しています。</p>
+  <p>&copy; {{ now.Year }} 子連れ宿ナビ</p>
+</footer>
+</body></html>

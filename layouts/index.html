@@ -1,0 +1,17 @@
+{{ define "main" }}
+<section class="home-hero">
+  <h1>口コミの集合知で選ぶ、<br>子連れにやさしい宿</h1>
+  <p>{{ .Site.Params.description }}</p>
+</section>
+<div class="list">
+{{ range (where .Site.RegularPages "Section" "hotels").ByDate.Reverse }}
+  <a class="card" href="{{ .RelPermalink }}">
+    {{ with .Params.ogImage }}<img src="{{ . }}" alt="{{ $.Param "hotelName" }}" loading="lazy">{{ end }}
+    <div class="cb">
+      <div class="ct">{{ .Params.hotelName }}</div>
+      <div class="cm">★{{ .Params.ratingValue }}（口コミ{{ .Params.reviewCount }}件）／{{ delimit .Params.areas "・" }}</div>
+    </div>
+  </a>
+{{ end }}
+</div>
+{{ end }}
