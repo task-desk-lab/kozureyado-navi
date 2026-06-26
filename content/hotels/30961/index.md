@@ -1,7 +1,7 @@
 ---
 title: "山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ） 子連れ宿の口コミ・評判【2026】"
-description: "山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ）（中津川市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ223件・★4.41から、「スタッフが子供に優しい」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-21"
+description: "山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ）（中津川市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ224件・★4.42から、「スタッフが子供に優しい」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
+date: "2026-06-26"
 hotelNo: 30961
 hotelName: "山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ）"
 areas: ["岐阜県"]
@@ -11,25 +11,27 @@ priceFrom: 9750
 facilities: ["🏓卓球"]
 ogImage: "https://img.travel.rakuten.co.jp/share/HOTEL/30961/30961.jpg"
 affUrl: "https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D30961"
-ratingValue: 4.41
-reviewCount: 223
+ratingValue: 4.42
+reviewCount: 224
 ---
 
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ）", "url": "https://kozureyado-navi.com/hotels/30961/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "岐阜県中津川市蛭川4467-4"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/30961/30961.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.41, "reviewCount": 223, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ）", "item": "https://kozureyado-navi.com/hotels/30961/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "夕食は個室・広間でいただけます。食事の口コミ評価は★4.4と高めです。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "大浴場・露天風呂・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ）", "url": "https://kozureyado-navi.com/hotels/30961/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "岐阜県中津川市蛭川4467-4"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/30961/30961.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.42, "reviewCount": 224, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ）", "item": "https://kozureyado-navi.com/hotels/30961/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ）の夕食は個室・広間でいただけます。食事の口コミ評価は★4.42です。口コミには「マス釣りで釣った魚を夕食に塩焼きで出してもらい、子供達も美味しい」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ）には大浴場・露天風呂・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ）は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "中津川市にある山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ）は、楽天トラベルの口コミ224件で総合★4.42。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
 <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/岐阜県/">岐阜県</a> <span>›</span> 中津川市</nav>
 <header class="hero">
 <figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30961/30961.jpg" alt="山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ）の外観（中津川市の子連れ向け宿）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D30961" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ）｜中津川市の子連れにやさしい宿</h1>
 <p class="meta">岐阜県中津川市蛭川4467-4 ・ 1泊 9,750円〜</p>
-<p class="rating">★4.41 <span>（楽天トラベル 口コミ223件）</span></p>
+<p class="rating">★4.42 <span>（楽天トラベル 口コミ224件）</span></p>
 </header>
 
 <p class="lead">【山の恵み　星の輝き　川のせせらぎ】森の中の一軒宿。飛騨牛料理指定店◆貸切風呂、貸切露天風呂無料◆</p>
 
+<p class="intro">山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ）は、中津川市にある総合★4.42（楽天トラベルの口コミ224件）の宿です。子連れ・赤ちゃん連れのご家族からは、「スタッフが子供に優しい」・「貸切・家族風呂」といった点が口コミで支持されています。このページでは、楽天トラベルの口コミから子連れ目線のポイントをまとめました（1泊 9,750円〜）。</p>
+
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
-<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">設備</span><span class="rx">「赤ちゃんもいてオムツ用のゴミ箱を貸してくれたのも助かりました」</span></div><div class="reason"><span class="rt">接客</span><span class="rx">「旅館の方の対応も皆子供にも優しく素敵でした」</span></div><div class="reason"><span class="rt">お風呂</span><span class="rx">「貸し切りの家族風呂もあり、子連れに便利だと思います」</span></div><div class="reason"><span class="rt">子連れ歓迎</span><span class="rx">「子連れで行くと好きなタイミングで、時間も気にせず、周りも気にせず入れるのが本当にありがたかったです」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
+<h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">設備</span><span class="rx">「赤ちゃんもいてオムツ用のゴミ箱を貸してくれたのも助かりました」</span></div><div class="reason"><span class="rt">接客</span><span class="rx">「旅館の方の対応も皆子供にも優しく素敵でした」</span></div><div class="reason"><span class="rt">お風呂</span><span class="rx">「貸し切りの家族風呂もあり、子連れに便利だと思います」</span></div><div class="reason"><span class="rt">子連れ歓迎</span><span class="rx">「・子供浴衣あると嬉しいです」</span></div><div class="reason"><span class="rt">遊び</span><span class="rx">「子どももとても喜んでいました」</span></div><div class="reason"><span class="rt">食事</span><span class="rx">「到着のドリンク、釣り、お風呂、食事、部屋、虫取りと子連れには安心して過ごせる宿です」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
 
 <h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 スタッフが子供に優しい</div><div class="pt-b">子供にも気さくに接してくれる、あたたかい宿</div></div><div class="pt"><div class="pt-t">👶 子供のごはんも本格的</div><div class="pt-b">子供用の食事まで手を抜かない献立</div></div>
 <h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 貸切・家族風呂</div><div class="pt-b">人目を気にせず、子供と一緒にゆっくり入れる</div></div><div class="pt"><div class="pt-t">☺️ お部屋・個室で部屋食</div><div class="pt-b">人目を気にせず、子供を見ながらゆっくり食べられる</div></div>
@@ -37,20 +39,22 @@ reviewCount: 223
 
 <h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30961/30961_kan.jpg" alt="山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ）の客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D30961" target="_blank" rel="nofollow sponsored">▶ 客室つきプランを見る（楽天トラベルで見る）</a></p>
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">湯沸かしポット</span><span class="chip">卓球</span></div>
-<h2>お食事</h2><figure class="ph"><img src="meal_kaiseki.jpg" alt="お食事イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">夕食は個室・広間で。食事の口コミ評価は★4.4</p>
-<h2>お風呂</h2><figure class="ph"><img src="bath_rotenburo.jpg" alt="お風呂イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">大浴場・露天風呂・サウナ・家族風呂など。お風呂の口コミ評価は★4.24</p>
+<h2>お食事</h2><figure class="ph"><img src="meal_kaiseki.jpg" alt="お食事イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">夕食は個室・広間で。食事の口コミ評価は★4.42</p>
+<h2>お風呂</h2><figure class="ph"><img src="bath_rotenburo.jpg" alt="お風呂イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">大浴場・露天風呂・サウナ・家族風呂など。お風呂の口コミ評価は★4.29</p>
 
 <h2>子連れ目線の評価</h2>
-<div class="scores"><div class="bar"><span class="lab">食事</span><span class="track"><span class="fill" style="width:88%"></span></span><span class="num">4.4</span></div><div class="bar"><span class="lab">お風呂</span><span class="track"><span class="fill" style="width:85%"></span></span><span class="num">4.24</span></div><div class="bar"><span class="lab">客室</span><span class="track"><span class="fill" style="width:84%"></span></span><span class="num">4.22</span></div><div class="bar"><span class="lab">接客</span><span class="track"><span class="fill" style="width:89%"></span></span><span class="num">4.44</span></div><div class="bar"><span class="lab">立地</span><span class="track"><span class="fill" style="width:86%"></span></span><span class="num">4.3</span></div><div class="bar"><span class="lab">設備</span><span class="track"><span class="fill" style="width:78%"></span></span><span class="num">3.89</span></div></div>
+<div class="scores"><div class="bar"><span class="lab">食事</span><span class="track"><span class="fill" style="width:88%"></span></span><span class="num">4.42</span></div><div class="bar"><span class="lab">お風呂</span><span class="track"><span class="fill" style="width:86%"></span></span><span class="num">4.29</span></div><div class="bar"><span class="lab">客室</span><span class="track"><span class="fill" style="width:85%"></span></span><span class="num">4.27</span></div><div class="bar"><span class="lab">接客</span><span class="track"><span class="fill" style="width:89%"></span></span><span class="num">4.44</span></div><div class="bar"><span class="lab">立地</span><span class="track"><span class="fill" style="width:86%"></span></span><span class="num">4.31</span></div><div class="bar"><span class="lab">設備</span><span class="track"><span class="fill" style="width:79%"></span></span><span class="num">3.95</span></div></div>
 
 <h2>泊まった人の声</h2><blockquote class="rev">「赤ちゃんもいてオムツ用のゴミ箱を貸してくれたのも助かりました」<cite>— 楽天トラベルの口コミより</cite></blockquote>
 
-<h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>夕食は個室・広間でいただけます。食事の口コミ評価は★4.4と高めです。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>大浴場・露天風呂・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details></div>
+<h2>ほかにも、こんな口コミがありました</h2><ul class="voices"><li><span class="vt">お風呂</span><span class="vx">「ます釣り、焼きマシュマロ体験は子どもがとても楽しめ、お風呂も家族風呂がいろいろ入れ、良かったです」</span></li><li><span class="vt">設備</span><span class="vx">「２段ベッドがあり子供と楽しめる部屋でかなり快適に過ごせました」</span></li><li><span class="vt">お部屋</span><span class="vx">「お部屋の炬燵子供たちが喜んでいました」</span></li><li><span class="vt">子連れ歓迎</span><span class="vx">「子ども向けのイベントが楽しく、大変満足しました」</span></li><li><span class="vt">子連れ歓迎</span><span class="vx">「現在はパジャマの持参が必要ですが、もし子供用浴衣の導入をご検討いただければ、より快適に利用できると思います」</span></li><li><span class="vt">お風呂</span><span class="vx">「お風呂も赤ちゃんが入れるグッズが色々用意してあり良かったです」</span></li></ul><p class="reason-src">— いずれも楽天トラベルに寄せられた、実際に泊まったご家族の声です。</p>
+
+<h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ）の夕食は個室・広間でいただけます。食事の口コミ評価は★4.42です。口コミには「マス釣りで釣った魚を夕食に塩焼きで出してもらい、子供達も美味しい」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ）には大浴場・露天風呂・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details><details><summary>山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ）は子連れ・赤ちゃん連れにおすすめですか？</summary><p>中津川市にある山×星×川の温泉宿　岩寿荘（ＩＷＡＳＵＳＯ）は、楽天トラベルの口コミ224件で総合★4.42。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。</p></details></div>
 
 <h2>このエリアの雰囲気</h2><figure class="ph"><img src="area_onsen_town.jpg" alt="エリアイメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure>
 
 <div class="cta">
-<p class="pre">★4.41・口コミ223件のこの宿、空いてる日をチェック</p>
+<p class="pre">★4.42・口コミ224件のこの宿、空いてる日をチェック</p>
 <a class="btn" href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D30961" target="_blank" rel="nofollow sponsored">
 空室・料金を楽天トラベルで見る →</a>
 <span class="sub-link"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D30961" target="_blank" rel="nofollow sponsored">料金・割引クーポンも見る →</a></span>

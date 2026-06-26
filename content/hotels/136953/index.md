@@ -1,7 +1,7 @@
 ---
 title: "湯岐温泉　山形屋旅館 子連れ宿の口コミ・評判【2026】"
 description: "湯岐温泉　山形屋旅館（塙町）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ254件・★4.5から、「ゆったりした客室」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-21"
+date: "2026-06-26"
 hotelNo: 136953
 hotelName: "湯岐温泉　山形屋旅館"
 areas: ["福島県"]
@@ -16,7 +16,7 @@ reviewCount: 254
 ---
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "湯岐温泉　山形屋旅館", "url": "https://kozureyado-navi.com/hotels/136953/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "福島県東白川郡塙町湯岐湯岐31"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/136953/136953.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.5, "reviewCount": 254, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "湯岐温泉　山形屋旅館", "item": "https://kozureyado-navi.com/hotels/136953/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "夕食はお部屋（部屋食）・個室でいただけます。食事の口コミ評価は★4.69と高めです。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "大浴場・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "湯岐温泉　山形屋旅館", "item": "https://kozureyado-navi.com/hotels/136953/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "湯岐温泉　山形屋旅館の夕食はお部屋（部屋食）・個室でいただけます。食事の口コミ評価は★4.69です。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "湯岐温泉　山形屋旅館には大浴場・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "湯岐温泉　山形屋旅館は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "塙町にある湯岐温泉　山形屋旅館は、楽天トラベルの口コミ254件で総合★4.5。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
 <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/福島県/">福島県</a> <span>›</span> 塙町</nav>
 <header class="hero">
 <figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/136953/136953.jpg" alt="湯岐温泉　山形屋旅館の外観（塙町の子連れ向け宿）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D136953" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
@@ -26,6 +26,8 @@ reviewCount: 254
 </header>
 
 <p class="lead">心と体をととのえる宿【よく眠れる】と好評です！もう一つの古里山形屋。開湯500年、足元直下の岩風呂へ</p>
+
+<p class="intro">湯岐温泉　山形屋旅館は、塙町にある総合★4.5（楽天トラベルの口コミ254件）の宿です。子連れ・赤ちゃん連れのご家族からは、「ゆったりした客室」・「お部屋・個室で部屋食」といった点が口コミで支持されています。このページでは、楽天トラベルの口コミから子連れ目線のポイントをまとめました（1泊 11,000円〜）。</p>
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
@@ -45,7 +47,9 @@ reviewCount: 254
 
 <h2>泊まった人の声</h2><blockquote class="rev">「子連れとしては家族で一緒に入れるので子どもは喜んでました」<cite>— 楽天トラベルの口コミより</cite></blockquote>
 
-<h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>夕食はお部屋（部屋食）・個室でいただけます。食事の口コミ評価は★4.69と高めです。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>大浴場・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details></div>
+
+
+<h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>湯岐温泉　山形屋旅館の夕食はお部屋（部屋食）・個室でいただけます。食事の口コミ評価は★4.69です。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>湯岐温泉　山形屋旅館には大浴場・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details><details><summary>湯岐温泉　山形屋旅館は子連れ・赤ちゃん連れにおすすめですか？</summary><p>塙町にある湯岐温泉　山形屋旅館は、楽天トラベルの口コミ254件で総合★4.5。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。</p></details></div>
 
 <h2>このエリアの雰囲気</h2><figure class="ph"><img src="area_onsen_town.jpg" alt="エリアイメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure>
 

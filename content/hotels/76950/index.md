@@ -1,7 +1,7 @@
 ---
 title: "池田屋旅館 子連れ宿の口コミ・評判【2026】"
 description: "池田屋旅館（氷見市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ81件・★4.66から、「ゆったりした客室」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
-date: "2026-06-21"
+date: "2026-06-26"
 hotelNo: 76950
 hotelName: "池田屋旅館"
 areas: ["富山県"]
@@ -16,7 +16,7 @@ reviewCount: 81
 ---
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "池田屋旅館", "url": "https://kozureyado-navi.com/hotels/76950/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "富山県氷見市北大町7-10"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/76950/76950.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.66, "reviewCount": 81, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "池田屋旅館", "item": "https://kozureyado-navi.com/hotels/76950/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "夕食は食事処・食堂でいただけます。食事の口コミ評価は★4.86と高めです。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "池田屋旅館", "item": "https://kozureyado-navi.com/hotels/76950/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "池田屋旅館の夕食は食事処・食堂でいただけます。食事の口コミ評価は★4.86です。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "池田屋旅館には家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "池田屋旅館は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "氷見市にある池田屋旅館は、楽天トラベルの口コミ81件で総合★4.66。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
 <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/富山県/">富山県</a> <span>›</span> 氷見市</nav>
 <header class="hero">
 <figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76950/76950.jpg" alt="池田屋旅館の外観（氷見市の子連れ向け宿）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D76950" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
@@ -26,6 +26,8 @@ reviewCount: 81
 </header>
 
 <p class="lead">施設は昭和レトロですが…季節の海の幸を使った料理はピカイチ！氷見駅より車で5分、氷見ICより車で7分</p>
+
+<p class="intro">池田屋旅館は、氷見市にある総合★4.66（楽天トラベルの口コミ81件）の宿です。子連れ・赤ちゃん連れのご家族からは、「ゆったりした客室」・「貸切・家族風呂」といった点が口コミで支持されています。このページでは、楽天トラベルの口コミから子連れ目線のポイントをまとめました（1泊 5,900円〜）。</p>
 
 <div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">○ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
@@ -41,11 +43,13 @@ reviewCount: 81
 <h2>お風呂</h2><figure class="ph"><img src="bath_rotenburo.jpg" alt="お風呂イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">家族風呂など。お風呂の口コミ評価は★3.83</p>
 
 <h2>子連れ目線の評価</h2>
-<div class="scores"><div class="bar"><span class="lab">食事</span><span class="track"><span class="fill" style="width:97%"></span></span><span class="num">4.86</span></div><div class="bar"><span class="lab">お風呂</span><span class="track"><span class="fill" style="width:77%"></span></span><span class="num">3.83</span></div><div class="bar"><span class="lab">客室</span><span class="track"><span class="fill" style="width:77%"></span></span><span class="num">3.83</span></div><div class="bar"><span class="lab">接客</span><span class="track"><span class="fill" style="width:91%"></span></span><span class="num">4.54</span></div><div class="bar"><span class="lab">立地</span><span class="track"><span class="fill" style="width:87%"></span></span><span class="num">4.34</span></div><div class="bar"><span class="lab">設備</span><span class="track"><span class="fill" style="width:79%"></span></span><span class="num">3.94</span></div></div>
+<div class="scores"><div class="bar"><span class="lab">食事</span><span class="track"><span class="fill" style="width:97%"></span></span><span class="num">4.86</span></div><div class="bar"><span class="lab">お風呂</span><span class="track"><span class="fill" style="width:77%"></span></span><span class="num">3.83</span></div><div class="bar"><span class="lab">客室</span><span class="track"><span class="fill" style="width:77%"></span></span><span class="num">3.86</span></div><div class="bar"><span class="lab">接客</span><span class="track"><span class="fill" style="width:91%"></span></span><span class="num">4.54</span></div><div class="bar"><span class="lab">立地</span><span class="track"><span class="fill" style="width:87%"></span></span><span class="num">4.34</span></div><div class="bar"><span class="lab">設備</span><span class="track"><span class="fill" style="width:79%"></span></span><span class="num">3.94</span></div></div>
+
+<h2>泊まった人の声</h2><blockquote class="rev">「幼児のミックスフライもきちんと作られておりとても満足しておりました」<cite>— 楽天トラベルの口コミより</cite></blockquote>
 
 
 
-<h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>夕食は食事処・食堂でいただけます。食事の口コミ評価は★4.86と高めです。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details></div>
+<h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>池田屋旅館の夕食は食事処・食堂でいただけます。食事の口コミ評価は★4.86です。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>池田屋旅館には家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details><details><summary>池田屋旅館は子連れ・赤ちゃん連れにおすすめですか？</summary><p>氷見市にある池田屋旅館は、楽天トラベルの口コミ81件で総合★4.66。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。</p></details></div>
 
 <h2>このエリアの雰囲気</h2><figure class="ph"><img src="area_onsen_town.jpg" alt="エリアイメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure>
 

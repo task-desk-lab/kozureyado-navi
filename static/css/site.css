@@ -117,6 +117,12 @@ article h2{font-size:1.2rem;margin:1.7em 0 .6em;padding-left:.55em;font-weight:8
   border-radius:8px;padding:2px 9px;margin-right:8px;vertical-align:2px}
 .reason .rx{font-size:.97rem;color:#46403b;font-weight:500}
 .reason-src{font-size:.76rem;color:var(--sub);margin:.3em 0 0;text-align:right}
+.intro{font-size:.97rem;color:#46403b;line-height:1.85;margin:.6em 0 1.2em}
+.voices{list-style:none;padding:0;margin:.5em 0 .3em;display:flex;flex-direction:column;gap:8px}
+.voices li{background:#fff;border:1px solid var(--line);border-radius:12px;padding:11px 14px}
+.voices .vt{display:inline-block;background:var(--soft,#fff6f3);color:#b34a40;border:1px solid #f3d9d2;
+  font-size:.72rem;font-weight:800;border-radius:8px;padding:2px 9px;margin-right:8px;vertical-align:2px}
+.voices .vx{font-size:.95rem;color:#46403b}
 .cross{background:#fff;border:1px dashed var(--line);border-radius:14px;padding:12px 14px;margin:8px 0 2px}
 .cross .cl{font-size:.82rem;font-weight:800;color:var(--sub);margin-bottom:8px}
 
