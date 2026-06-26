@@ -59,6 +59,9 @@ def process(md: Path) -> bool:
             return tag
         s = src.group(1)
         if "HIMG/300" in s:
+            # The HIMG/300 image is the hero (LCP). Load it eagerly with high
+            # priority instead of lazily so it isn't deferred behind the fold.
+            tag = tag.replace('loading="lazy"', 'loading="eager" fetchpriority="high"')
             return add_dims(tag, 300, 169)
         if s.startswith("http"):
             return tag  # other remote image, leave as-is
