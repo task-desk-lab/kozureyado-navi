@@ -45,7 +45,7 @@
   <h2 class="sec-h"><span class="em">🏨</span>口コミが多い人気の子連れ宿</h2>
 </div>
 <div class="list">
-  {{ range first 12 (sort $hotels "Params.reviewCount" "desc") }}{{ partial "hotel-card.html" . }}{{ end }}
+  {{ range $i, $h := first 12 (sort $hotels "Params.reviewCount" "desc") }}{{ $h.Store.Set "eagerImg" (lt $i 2) }}{{ partial "hotel-card.html" $h }}{{ end }}
 </div>
 <div class="wrap"><div class="chips" style="margin:6px 0 8px">
   <a class="fchip" href="{{ "/hotels/" | relURL }}">すべての宿を見る（{{ len $hotels }}軒）→</a>

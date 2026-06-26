@@ -2,12 +2,17 @@
 <html lang="ja"><head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+{{/* Warm the connection to Rakuten's image CDN — hotel card/hero images
+     (LCP) are hotlinked from there, so preconnect cuts cross-origin latency. */}}
+<link rel="preconnect" href="https://img.travel.rakuten.co.jp">
+<link rel="dns-prefetch" href="https://img.travel.rakuten.co.jp">
 <title>{{ if .IsHome }}{{ .Site.Title }}｜{{ .Site.Params.tagline }}{{ else }}{{ .Title }}{{ end }}</title>
 {{ partial "head-seo.html" . }}
 <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ "/index.xml" | absURL }}">
 <link rel="icon" href="{{ "/favicon.svg" | relURL }}" type="image/svg+xml">
 <link rel="apple-touch-icon" href="{{ "/favicon.svg" | relURL }}">
-<link rel="stylesheet" href="{{ "css/site.css" | relURL }}">
+{{/* Inline minified CSS to remove the render-blocking external stylesheet. */}}
+{{- with resources.Get "css/site.css" }}<style>{{ (. | minify).Content | safeCSS }}</style>{{ end }}
 {{- with .Site.Params.googleAnalyticsId }}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','{{ . }}')</script>

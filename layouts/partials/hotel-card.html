@@ -5,7 +5,8 @@
              full share image (up to 2MB). Stays hotlinked to Rakuten's CDN. */ -}}
       {{- $no := replaceRE `.*/HOTEL/([0-9]+)/.*` `$1` . -}}
       {{- $src := cond (ne $no .) (printf "https://img.travel.rakuten.co.jp/HIMG/300/%s.jpg" $no) . -}}
-      <img src="{{ $src }}" alt="{{ $.Param "hotelName" }}" width="300" height="169" loading="lazy" decoding="async">
+      {{- $eager := $.Store.Get "eagerImg" -}}
+      <img src="{{ $src }}" alt="{{ $.Param "hotelName" }}" width="300" height="169" decoding="async" {{ if $eager }}loading="eager" fetchpriority="high"{{ else }}loading="lazy"{{ end }}>
     {{ end }}
     {{ if gt (.Param "priceFrom" | default 0) 0 }}<span class="price">1泊 {{ lang.FormatNumber 0 .Params.priceFrom }}円〜</span>{{ end }}
   </div>
