@@ -9,17 +9,17 @@ areaShort: "津南町"
 purposes: ["貸切風呂", "温泉"]
 priceFrom: 11000
 facilities: []
-ogImage: "https://img.travel.rakuten.co.jp/share/HOTEL/39716/39716.jpg"
+ogImage: "https://img.travel.rakuten.co.jp/HIMG/300/39716.jpg"
 affUrl: "https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D39716"
 ratingValue: 4.68
 reviewCount: 334
 ---
 
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "津南駅前温泉　花とほたる　湯のさと　雪国", "url": "https://kozureyado-navi.com/hotels/39716/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "新潟県中魚沼郡津南町外丸丁2274"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/39716/39716.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.68, "reviewCount": 334, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "津南駅前温泉　花とほたる　湯のさと　雪国", "url": "https://kozureyado-navi.com/hotels/39716/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "新潟県中魚沼郡津南町外丸丁2274"}, "image": "https://img.travel.rakuten.co.jp/HIMG/300/39716.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.68, "reviewCount": 334, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "津南駅前温泉　花とほたる　湯のさと　雪国", "item": "https://kozureyado-navi.com/hotels/39716/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "津南駅前温泉　花とほたる　湯のさと　雪国の夕食は個室・食事処でいただけます。食事の口コミ評価は★4.69です。口コミには「ご飯もとても美味しく、子供の卵アレルギーにもご配慮くださり、本当に助かりました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "津南駅前温泉　花とほたる　湯のさと　雪国には大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "津南駅前温泉　花とほたる　湯のさと　雪国は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "津南町にある津南駅前温泉　花とほたる　湯のさと　雪国は、楽天トラベルの口コミ334件で総合★4.68。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
 <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/新潟県/">新潟県</a> <span>›</span> 津南町</nav>
 <header class="hero">
-<figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39716/39716.jpg" alt="津南駅前温泉　花とほたる　湯のさと　雪国の外観（津南町の子連れ向け宿）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D39716" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
+<figure class="ph"><img width="300" height="169" src="https://img.travel.rakuten.co.jp/HIMG/300/39716.jpg" alt="津南駅前温泉　花とほたる　湯のさと　雪国の外観（津南町の子連れ向け宿）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D39716" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>津南駅前温泉　花とほたる　湯のさと　雪国｜津南町の子連れにやさしい宿</h1>
 <p class="meta">新潟県中魚沼郡津南町外丸丁2274 ・ 1泊 11,000円〜</p>
 <p class="rating">★4.68 <span>（楽天トラベル 口コミ334件）</span></p>
@@ -39,8 +39,8 @@ reviewCount: 334
 
 <h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39716/39716_ro.jpg" alt="津南駅前温泉　花とほたる　湯のさと　雪国の客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D39716" target="_blank" rel="nofollow sponsored">▶ 客室つきプランを見る（楽天トラベルで見る）</a></p>
 
-<h2>お食事</h2><figure class="ph"><img src="meal_kaiseki.jpg" alt="お食事イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">夕食は個室・食事処で。食事の口コミ評価は★4.69</p>
-<h2>お風呂</h2><figure class="ph"><img src="bath_rotenburo.jpg" alt="お風呂イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">大浴場・露天風呂・天然温泉など。お風呂の口コミ評価は★4.58</p>
+<h2>お食事</h2><figure class="ph"><img width="720" height="424" src="meal_kaiseki.jpg" alt="お食事イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">夕食は個室・食事処で。食事の口コミ評価は★4.69</p>
+<h2>お風呂</h2><figure class="ph"><img width="720" height="480" src="bath_rotenburo.jpg" alt="お風呂イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">大浴場・露天風呂・天然温泉など。お風呂の口コミ評価は★4.58</p>
 
 <h2>子連れ目線の評価</h2>
 <div class="scores"><div class="bar"><span class="lab">食事</span><span class="track"><span class="fill" style="width:94%"></span></span><span class="num">4.69</span></div><div class="bar"><span class="lab">お風呂</span><span class="track"><span class="fill" style="width:92%"></span></span><span class="num">4.58</span></div><div class="bar"><span class="lab">客室</span><span class="track"><span class="fill" style="width:90%"></span></span><span class="num">4.51</span></div><div class="bar"><span class="lab">接客</span><span class="track"><span class="fill" style="width:95%"></span></span><span class="num">4.73</span></div><div class="bar"><span class="lab">立地</span><span class="track"><span class="fill" style="width:87%"></span></span><span class="num">4.35</span></div><div class="bar"><span class="lab">設備</span><span class="track"><span class="fill" style="width:90%"></span></span><span class="num">4.52</span></div></div>
@@ -51,7 +51,7 @@ reviewCount: 334
 
 <h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>津南駅前温泉　花とほたる　湯のさと　雪国の夕食は個室・食事処でいただけます。食事の口コミ評価は★4.69です。口コミには「ご飯もとても美味しく、子供の卵アレルギーにもご配慮くださり、本当に助かりました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>津南駅前温泉　花とほたる　湯のさと　雪国には大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details><details><summary>津南駅前温泉　花とほたる　湯のさと　雪国は子連れ・赤ちゃん連れにおすすめですか？</summary><p>津南町にある津南駅前温泉　花とほたる　湯のさと　雪国は、楽天トラベルの口コミ334件で総合★4.68。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。</p></details></div>
 
-<h2>このエリアの雰囲気</h2><figure class="ph"><img src="area_snow_onsen.jpg" alt="エリアイメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure>
+<h2>このエリアの雰囲気</h2><figure class="ph"><img width="720" height="479" src="area_snow_onsen.jpg" alt="エリアイメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure>
 
 <div class="cta">
 <p class="pre">★4.68・口コミ334件のこの宿、空いてる日をチェック</p>

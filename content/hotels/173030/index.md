@@ -9,17 +9,17 @@ areaShort: "府京都市"
 purposes: []
 priceFrom: 6175
 facilities: ["💧加湿器"]
-ogImage: "https://img.travel.rakuten.co.jp/share/HOTEL/173030/173030.jpg"
+ogImage: "https://img.travel.rakuten.co.jp/HIMG/300/173030.jpg"
 affUrl: "https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D173030"
 ratingValue: 4.55
 reviewCount: 838
 ---
 
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "ダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲ", "url": "https://kozureyado-navi.com/hotels/173030/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "京都府京都市南区東九条東山王町14-1"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/173030/173030.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.55, "reviewCount": 838, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "ダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲ", "url": "https://kozureyado-navi.com/hotels/173030/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "京都府京都市南区東九条東山王町14-1"}, "image": "https://img.travel.rakuten.co.jp/HIMG/300/173030.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.55, "reviewCount": 838, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "ダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲ", "item": "https://kozureyado-navi.com/hotels/173030/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "ダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲの夕食は館内のお食事処でいただけます。食事の口コミ評価は★4.43です。口コミには「朝食のフレンチトーストはとても美味しく子供も喜んでいました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "ダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲは子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "府京都市にあるダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲは、楽天トラベルの口コミ838件で総合★4.55。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
 <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/京都/">京都</a> <span>›</span> 府京都市</nav>
 <header class="hero">
-<figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/173030/173030.jpg" alt="ダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲの外観（府京都市の子連れ向け宿）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D173030" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
+<figure class="ph"><img width="300" height="169" src="https://img.travel.rakuten.co.jp/HIMG/300/173030.jpg" alt="ダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲの外観（府京都市の子連れ向け宿）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D173030" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>ダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲ｜府京都市の子連れにやさしい宿</h1>
 <p class="meta">京都府京都市南区東九条東山王町14-1 ・ 1泊 6,175円〜</p>
 <p class="rating">★4.55 <span>（楽天トラベル 口コミ838件）</span></p>
@@ -39,7 +39,7 @@ reviewCount: 838
 
 
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">湯沸かしポット</span><span class="chip">加湿器</span><span class="chip">加湿器(貸出)</span></div>
-<h2>お食事</h2><figure class="ph"><img src="meal_kaiseki.jpg" alt="お食事イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">食事の口コミ評価は★4.43</p>
+<h2>お食事</h2><figure class="ph"><img width="720" height="424" src="meal_kaiseki.jpg" alt="お食事イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">食事の口コミ評価は★4.43</p>
 
 
 <h2>子連れ目線の評価</h2>
@@ -51,7 +51,7 @@ reviewCount: 838
 
 <h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>ダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲの夕食は館内のお食事処でいただけます。食事の口コミ評価は★4.43です。口コミには「朝食のフレンチトーストはとても美味しく子供も喜んでいました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>ダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲは子連れ・赤ちゃん連れにおすすめですか？</summary><p>府京都市にあるダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲは、楽天トラベルの口コミ838件で総合★4.55。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。</p></details></div>
 
-<h2>このエリアの雰囲気</h2><figure class="ph"><img src="area_onsen_town.jpg" alt="エリアイメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure>
+<h2>このエリアの雰囲気</h2><figure class="ph"><img width="720" height="480" src="area_onsen_town.jpg" alt="エリアイメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure>
 
 <div class="cta">
 <p class="pre">★4.55・口コミ838件のこの宿、空いてる日をチェック</p>

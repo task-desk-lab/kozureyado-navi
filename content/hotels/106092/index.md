@@ -9,17 +9,17 @@ areaShort: "いわき市"
 purposes: []
 priceFrom: 14800
 facilities: ["🏊プール", "🎮ゲーム", "💧加湿器"]
-ogImage: "https://img.travel.rakuten.co.jp/share/HOTEL/106092/106092.jpg"
+ogImage: "https://img.travel.rakuten.co.jp/HIMG/300/106092.jpg"
 affUrl: "https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D106092"
 ratingValue: 4.46
 reviewCount: 679
 ---
 
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "スパリゾートハワイアンズ　ウイルポート", "url": "https://kozureyado-navi.com/hotels/106092/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "福島県いわき市常磐藤原町蕨平50"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/106092/106092.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.46, "reviewCount": 679, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "スパリゾートハワイアンズ　ウイルポート", "url": "https://kozureyado-navi.com/hotels/106092/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "福島県いわき市常磐藤原町蕨平50"}, "image": "https://img.travel.rakuten.co.jp/HIMG/300/106092.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.46, "reviewCount": 679, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "スパリゾートハワイアンズ　ウイルポート", "item": "https://kozureyado-navi.com/hotels/106092/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "スパリゾートハワイアンズ　ウイルポートの夕食はレストラン(バイキング)でいただけます。食事の口コミ評価は★4.44です。口コミには「離乳食もおかゆとおかずが用意されていたので助かりました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "スパリゾートハワイアンズ　ウイルポートには大浴場などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "スパリゾートハワイアンズ　ウイルポートは子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "いわき市にあるスパリゾートハワイアンズ　ウイルポートは、楽天トラベルの口コミ679件で総合★4.46。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
 <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/福島県/">福島県</a> <span>›</span> いわき市</nav>
 <header class="hero">
-<figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/106092/106092.jpg" alt="スパリゾートハワイアンズ　ウイルポートの外観（いわき市の子連れ向け宿）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D106092" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
+<figure class="ph"><img width="300" height="169" src="https://img.travel.rakuten.co.jp/HIMG/300/106092.jpg" alt="スパリゾートハワイアンズ　ウイルポートの外観（いわき市の子連れ向け宿）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D106092" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>スパリゾートハワイアンズ　ウイルポート｜いわき市の子連れにやさしい宿</h1>
 <p class="meta">福島県いわき市常磐藤原町蕨平50 ・ 1泊 14,800円〜</p>
 <p class="rating">★4.46 <span>（楽天トラベル 口コミ679件）</span></p>
@@ -39,7 +39,7 @@ reviewCount: 679
 
 
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">湯沸かしポット</span><span class="chip">加湿器(貸出)</span><span class="chip">プール(通年)</span><span class="chip">屋外プール</span><span class="chip">ゲームコーナー</span></div>
-<h2>お食事</h2><figure class="ph"><img src="meal_kaiseki.jpg" alt="お食事イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">夕食はレストラン(バイキング)で。食事の口コミ評価は★4.44</p>
+<h2>お食事</h2><figure class="ph"><img width="720" height="424" src="meal_kaiseki.jpg" alt="お食事イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">夕食はレストラン(バイキング)で。食事の口コミ評価は★4.44</p>
 
 
 <h2>子連れ目線の評価</h2>
@@ -51,7 +51,7 @@ reviewCount: 679
 
 <h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>スパリゾートハワイアンズ　ウイルポートの夕食はレストラン(バイキング)でいただけます。食事の口コミ評価は★4.44です。口コミには「離乳食もおかゆとおかずが用意されていたので助かりました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>スパリゾートハワイアンズ　ウイルポートには大浴場などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details><details><summary>スパリゾートハワイアンズ　ウイルポートは子連れ・赤ちゃん連れにおすすめですか？</summary><p>いわき市にあるスパリゾートハワイアンズ　ウイルポートは、楽天トラベルの口コミ679件で総合★4.46。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。</p></details></div>
 
-<h2>このエリアの雰囲気</h2><figure class="ph"><img src="area_mountain.jpg" alt="エリアイメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure>
+<h2>このエリアの雰囲気</h2><figure class="ph"><img width="720" height="480" src="area_mountain.jpg" alt="エリアイメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure>
 
 <div class="cta">
 <p class="pre">★4.46・口コミ679件のこの宿、空いてる日をチェック</p>

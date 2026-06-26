@@ -9,17 +9,17 @@ areaShort: "那須町"
 purposes: ["貸切風呂", "ベビーベッドあり", "温泉"]
 priceFrom: 8400
 facilities: ["🛏️ベビーベッド", "🏊プール", "🏓卓球"]
-ogImage: "https://img.travel.rakuten.co.jp/share/HOTEL/7335/7335.jpg"
+ogImage: "https://img.travel.rakuten.co.jp/HIMG/300/7335.jpg"
 affUrl: "https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D7335"
 ratingValue: 4.45
 reviewCount: 8154
 ---
 
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "那須温泉　ホテルエピナール那須", "url": "https://kozureyado-navi.com/hotels/7335/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "栃木県那須郡那須町大字高久丙１番地"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/7335/7335.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.45, "reviewCount": 8154, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "那須温泉　ホテルエピナール那須", "url": "https://kozureyado-navi.com/hotels/7335/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "栃木県那須郡那須町大字高久丙１番地"}, "image": "https://img.travel.rakuten.co.jp/HIMG/300/7335.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.45, "reviewCount": 8154, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "那須温泉　ホテルエピナール那須", "item": "https://kozureyado-navi.com/hotels/7335/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "那須温泉　ホテルエピナール那須の夕食はレストラン・レストラン(バイキング)でいただけます。食事の口コミ評価は★4.51です。口コミには「プールもありゲームセンターもありキッズ用バイキングもあり子連れにはありがたかったです」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "ベビーベッドは借りられますか？", "acceptedAnswer": {"@type": "Answer", "text": "那須温泉　ホテルエピナール那須は客室設備にベビーベッドの記載があります。台数に限りがある場合があるので、予約時のリクエストがおすすめです。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "那須温泉　ホテルエピナール那須には大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "那須温泉　ホテルエピナール那須は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "那須町にある那須温泉　ホテルエピナール那須は、楽天トラベルの口コミ8154件で総合★4.45。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
 <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/栃木県/">栃木県</a> <span>›</span> 那須町</nav>
 <header class="hero">
-<figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7335/7335.jpg" alt="那須温泉　ホテルエピナール那須の外観（那須町の子連れ向け宿）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D7335" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
+<figure class="ph"><img width="300" height="169" src="https://img.travel.rakuten.co.jp/HIMG/300/7335.jpg" alt="那須温泉　ホテルエピナール那須の外観（那須町の子連れ向け宿）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D7335" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>那須温泉　ホテルエピナール那須｜那須町の子連れにやさしい宿</h1>
 <p class="meta">栃木県那須郡那須町大字高久丙１番地 ・ 1泊 8,400円〜</p>
 <p class="rating">★4.45 <span>（楽天トラベル 口コミ8154件）</span></p>
@@ -39,8 +39,8 @@ reviewCount: 8154
 
 <h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7335/7335_poor.jpg" alt="那須温泉　ホテルエピナール那須の客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D7335" target="_blank" rel="nofollow sponsored">▶ 客室つきプランを見る（楽天トラベルで見る）</a></p>
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">湯沸かしポット</span><span class="chip">加湿器</span><span class="chip">加湿器(貸出)</span><span class="chip">ベビーベッド</span><span class="chip">湯沸かしポット(貸出)</span><span class="chip">プール(通年)</span><span class="chip">ゲームコーナー</span><span class="chip">卓球</span></div>
-<h2>お食事</h2><figure class="ph"><img src="meal_kaiseki.jpg" alt="お食事イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">夕食はレストラン・レストラン(バイキング)で。食事の口コミ評価は★4.51</p>
-<h2>お風呂</h2><figure class="ph"><img src="bath_rotenburo.jpg" alt="お風呂イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">大浴場・露天風呂・サウナ・天然温泉など。お風呂の口コミ評価は★4.38</p>
+<h2>お食事</h2><figure class="ph"><img width="720" height="424" src="meal_kaiseki.jpg" alt="お食事イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">夕食はレストラン・レストラン(バイキング)で。食事の口コミ評価は★4.51</p>
+<h2>お風呂</h2><figure class="ph"><img width="720" height="480" src="bath_rotenburo.jpg" alt="お風呂イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">大浴場・露天風呂・サウナ・天然温泉など。お風呂の口コミ評価は★4.38</p>
 
 <h2>子連れ目線の評価</h2>
 <div class="scores"><div class="bar"><span class="lab">食事</span><span class="track"><span class="fill" style="width:90%"></span></span><span class="num">4.51</span></div><div class="bar"><span class="lab">お風呂</span><span class="track"><span class="fill" style="width:88%"></span></span><span class="num">4.38</span></div><div class="bar"><span class="lab">客室</span><span class="track"><span class="fill" style="width:88%"></span></span><span class="num">4.4</span></div><div class="bar"><span class="lab">接客</span><span class="track"><span class="fill" style="width:90%"></span></span><span class="num">4.48</span></div><div class="bar"><span class="lab">立地</span><span class="track"><span class="fill" style="width:89%"></span></span><span class="num">4.46</span></div><div class="bar"><span class="lab">設備</span><span class="track"><span class="fill" style="width:87%"></span></span><span class="num">4.37</span></div></div>
@@ -51,7 +51,7 @@ reviewCount: 8154
 
 <h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>那須温泉　ホテルエピナール那須の夕食はレストラン・レストラン(バイキング)でいただけます。食事の口コミ評価は★4.51です。口コミには「プールもありゲームセンターもありキッズ用バイキングもあり子連れにはありがたかったです」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>ベビーベッドは借りられますか？</summary><p>那須温泉　ホテルエピナール那須は客室設備にベビーベッドの記載があります。台数に限りがある場合があるので、予約時のリクエストがおすすめです。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>那須温泉　ホテルエピナール那須には大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details><details><summary>那須温泉　ホテルエピナール那須は子連れ・赤ちゃん連れにおすすめですか？</summary><p>那須町にある那須温泉　ホテルエピナール那須は、楽天トラベルの口コミ8154件で総合★4.45。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。</p></details></div>
 
-<h2>このエリアの雰囲気</h2><figure class="ph"><img src="area_mountain.jpg" alt="エリアイメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure>
+<h2>このエリアの雰囲気</h2><figure class="ph"><img width="720" height="480" src="area_mountain.jpg" alt="エリアイメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure>
 
 <div class="cta">
 <p class="pre">★4.45・口コミ8154件のこの宿、空いてる日をチェック</p>

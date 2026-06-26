@@ -9,17 +9,17 @@ areaShort: "伊勢市"
 purposes: ["貸切風呂"]
 priceFrom: 8250
 facilities: ["🏊プール", "🏓卓球", "💧加湿器"]
-ogImage: "https://img.travel.rakuten.co.jp/share/HOTEL/70313/70313.jpg"
+ogImage: "https://img.travel.rakuten.co.jp/HIMG/300/70313.jpg"
 affUrl: "https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D70313"
 ratingValue: 4.49
 reviewCount: 1265
 ---
 
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "伊勢かぐらばリゾート　千の杜", "url": "https://kozureyado-navi.com/hotels/70313/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "三重県伊勢市佐八町池の上1165-1"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/70313/70313.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.49, "reviewCount": 1265, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "伊勢かぐらばリゾート　千の杜", "url": "https://kozureyado-navi.com/hotels/70313/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "三重県伊勢市佐八町池の上1165-1"}, "image": "https://img.travel.rakuten.co.jp/HIMG/300/70313.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.49, "reviewCount": 1265, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "伊勢かぐらばリゾート　千の杜", "item": "https://kozureyado-navi.com/hotels/70313/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "伊勢かぐらばリゾート　千の杜の夕食はレストラン・広間でいただけます。食事の口コミ評価は★4.57です。口コミには「ご飯も美味しく、子供と一緒だったのでお部屋でゆっくりできたので、よかったです」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "伊勢かぐらばリゾート　千の杜には大浴場・露天風呂・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "伊勢かぐらばリゾート　千の杜は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "伊勢市にある伊勢かぐらばリゾート　千の杜は、楽天トラベルの口コミ1265件で総合★4.49。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
 <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/三重県/">三重県</a> <span>›</span> 伊勢市</nav>
 <header class="hero">
-<figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70313/70313.jpg" alt="伊勢かぐらばリゾート　千の杜の外観（伊勢市の子連れ向け宿）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D70313" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
+<figure class="ph"><img width="300" height="169" src="https://img.travel.rakuten.co.jp/HIMG/300/70313.jpg" alt="伊勢かぐらばリゾート　千の杜の外観（伊勢市の子連れ向け宿）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D70313" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>伊勢かぐらばリゾート　千の杜｜伊勢市の子連れにやさしい宿</h1>
 <p class="meta">三重県伊勢市佐八町池の上1165-1 ・ 1泊 8,250円〜</p>
 <p class="rating">★4.49 <span>（楽天トラベル 口コミ1265件）</span></p>
@@ -39,8 +39,8 @@ reviewCount: 1265
 
 <h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70313/70313_da.jpg" alt="伊勢かぐらばリゾート　千の杜の客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D70313" target="_blank" rel="nofollow sponsored">▶ 客室つきプランを見る（楽天トラベルで見る）</a></p>
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">加湿器(貸出)</span><span class="chip">ツインルーム・ダブルベットのお部屋は湯沸かしポット等お入れしておりません。</span><span class="chip">プール(夏期のみ)</span><span class="chip">屋外プール</span><span class="chip">卓球</span></div>
-<h2>お食事</h2><figure class="ph"><img src="meal_kaiseki.jpg" alt="お食事イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">夕食はレストラン・広間で。食事の口コミ評価は★4.57</p>
-<h2>お風呂</h2><figure class="ph"><img src="bath_rotenburo.jpg" alt="お風呂イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">大浴場・露天風呂・サウナ・家族風呂など。お風呂の口コミ評価は★4.59</p>
+<h2>お食事</h2><figure class="ph"><img width="720" height="424" src="meal_kaiseki.jpg" alt="お食事イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">夕食はレストラン・広間で。食事の口コミ評価は★4.57</p>
+<h2>お風呂</h2><figure class="ph"><img width="720" height="480" src="bath_rotenburo.jpg" alt="お風呂イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">大浴場・露天風呂・サウナ・家族風呂など。お風呂の口コミ評価は★4.59</p>
 
 <h2>子連れ目線の評価</h2>
 <div class="scores"><div class="bar"><span class="lab">食事</span><span class="track"><span class="fill" style="width:91%"></span></span><span class="num">4.57</span></div><div class="bar"><span class="lab">お風呂</span><span class="track"><span class="fill" style="width:92%"></span></span><span class="num">4.59</span></div><div class="bar"><span class="lab">客室</span><span class="track"><span class="fill" style="width:90%"></span></span><span class="num">4.49</span></div><div class="bar"><span class="lab">接客</span><span class="track"><span class="fill" style="width:92%"></span></span><span class="num">4.62</span></div><div class="bar"><span class="lab">立地</span><span class="track"><span class="fill" style="width:89%"></span></span><span class="num">4.45</span></div><div class="bar"><span class="lab">設備</span><span class="track"><span class="fill" style="width:88%"></span></span><span class="num">4.4</span></div></div>
@@ -51,7 +51,7 @@ reviewCount: 1265
 
 <h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>伊勢かぐらばリゾート　千の杜の夕食はレストラン・広間でいただけます。食事の口コミ評価は★4.57です。口コミには「ご飯も美味しく、子供と一緒だったのでお部屋でゆっくりできたので、よかったです」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>伊勢かぐらばリゾート　千の杜には大浴場・露天風呂・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details><details><summary>伊勢かぐらばリゾート　千の杜は子連れ・赤ちゃん連れにおすすめですか？</summary><p>伊勢市にある伊勢かぐらばリゾート　千の杜は、楽天トラベルの口コミ1265件で総合★4.49。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。</p></details></div>
 
-<h2>このエリアの雰囲気</h2><figure class="ph"><img src="area_mountain.jpg" alt="エリアイメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure>
+<h2>このエリアの雰囲気</h2><figure class="ph"><img width="720" height="480" src="area_mountain.jpg" alt="エリアイメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure>
 
 <div class="cta">
 <p class="pre">★4.49・口コミ1265件のこの宿、空いてる日をチェック</p>

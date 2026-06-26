@@ -9,17 +9,17 @@ areaShort: "阿智村"
 purposes: ["貸切風呂", "温泉"]
 priceFrom: 12650
 facilities: ["💧加湿器"]
-ogImage: "https://img.travel.rakuten.co.jp/share/HOTEL/37440/37440.jpg"
+ogImage: "https://img.travel.rakuten.co.jp/HIMG/300/37440.jpg"
 affUrl: "https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D37440"
 ratingValue: 4.45
 reviewCount: 2760
 ---
 
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "昼神温泉　ユルイの宿　恵山", "url": "https://kozureyado-navi.com/hotels/37440/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "長野県下伊那郡阿智村智里407"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/37440/37440.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.45, "reviewCount": 2760, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "昼神温泉　ユルイの宿　恵山", "url": "https://kozureyado-navi.com/hotels/37440/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "長野県下伊那郡阿智村智里407"}, "image": "https://img.travel.rakuten.co.jp/HIMG/300/37440.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.45, "reviewCount": 2760, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "昼神温泉　ユルイの宿　恵山", "item": "https://kozureyado-navi.com/hotels/37440/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "昼神温泉　ユルイの宿　恵山の夕食は個室・食事処でいただけます。食事の口コミ評価は★4.5です。口コミには「子連れでも広々としたお部屋、食事会場、お風呂でとても良かったです」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "昼神温泉　ユルイの宿　恵山には大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "昼神温泉　ユルイの宿　恵山は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "阿智村にある昼神温泉　ユルイの宿　恵山は、楽天トラベルの口コミ2760件で総合★4.45。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
 <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/長野県/">長野県</a> <span>›</span> 阿智村</nav>
 <header class="hero">
-<figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/37440/37440.jpg" alt="昼神温泉　ユルイの宿　恵山の外観（阿智村の子連れ向け宿）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D37440" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
+<figure class="ph"><img width="300" height="169" src="https://img.travel.rakuten.co.jp/HIMG/300/37440.jpg" alt="昼神温泉　ユルイの宿　恵山の外観（阿智村の子連れ向け宿）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D37440" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>昼神温泉　ユルイの宿　恵山｜阿智村の子連れにやさしい宿</h1>
 <p class="meta">長野県下伊那郡阿智村智里407 ・ 1泊 12,650円〜</p>
 <p class="rating">★4.45 <span>（楽天トラベル 口コミ2760件）</span></p>
@@ -39,8 +39,8 @@ reviewCount: 2760
 
 <h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/37440/37440_he.jpg" alt="昼神温泉　ユルイの宿　恵山の客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D37440" target="_blank" rel="nofollow sponsored">▶ 客室つきプランを見る（楽天トラベルで見る）</a></p>
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">湯沸かしポット</span><span class="chip">加湿器(貸出)</span></div>
-<h2>お食事</h2><figure class="ph"><img src="meal_kaiseki.jpg" alt="お食事イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">夕食は個室・食事処で。食事の口コミ評価は★4.5</p>
-<h2>お風呂</h2><figure class="ph"><img src="bath_rotenburo.jpg" alt="お風呂イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">大浴場・露天風呂・サウナ・天然温泉など。お風呂の口コミ評価は★4.52</p>
+<h2>お食事</h2><figure class="ph"><img width="720" height="424" src="meal_kaiseki.jpg" alt="お食事イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">夕食は個室・食事処で。食事の口コミ評価は★4.5</p>
+<h2>お風呂</h2><figure class="ph"><img width="720" height="480" src="bath_rotenburo.jpg" alt="お風呂イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">大浴場・露天風呂・サウナ・天然温泉など。お風呂の口コミ評価は★4.52</p>
 
 <h2>子連れ目線の評価</h2>
 <div class="scores"><div class="bar"><span class="lab">食事</span><span class="track"><span class="fill" style="width:90%"></span></span><span class="num">4.5</span></div><div class="bar"><span class="lab">お風呂</span><span class="track"><span class="fill" style="width:90%"></span></span><span class="num">4.52</span></div><div class="bar"><span class="lab">客室</span><span class="track"><span class="fill" style="width:86%"></span></span><span class="num">4.3</span></div><div class="bar"><span class="lab">接客</span><span class="track"><span class="fill" style="width:92%"></span></span><span class="num">4.58</span></div><div class="bar"><span class="lab">立地</span><span class="track"><span class="fill" style="width:89%"></span></span><span class="num">4.45</span></div><div class="bar"><span class="lab">設備</span><span class="track"><span class="fill" style="width:84%"></span></span><span class="num">4.22</span></div></div>
@@ -51,7 +51,7 @@ reviewCount: 2760
 
 <h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>昼神温泉　ユルイの宿　恵山の夕食は個室・食事処でいただけます。食事の口コミ評価は★4.5です。口コミには「子連れでも広々としたお部屋、食事会場、お風呂でとても良かったです」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>昼神温泉　ユルイの宿　恵山には大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details><details><summary>昼神温泉　ユルイの宿　恵山は子連れ・赤ちゃん連れにおすすめですか？</summary><p>阿智村にある昼神温泉　ユルイの宿　恵山は、楽天トラベルの口コミ2760件で総合★4.45。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。</p></details></div>
 
-<h2>このエリアの雰囲気</h2><figure class="ph"><img src="area_onsen_town.jpg" alt="エリアイメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure>
+<h2>このエリアの雰囲気</h2><figure class="ph"><img width="720" height="480" src="area_onsen_town.jpg" alt="エリアイメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure>
 
 <div class="cta">
 <p class="pre">★4.45・口コミ2760件のこの宿、空いてる日をチェック</p>

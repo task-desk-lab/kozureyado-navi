@@ -9,17 +9,17 @@ areaShort: "中央区"
 purposes: []
 priceFrom: 10750
 facilities: ["💧加湿器"]
-ogImage: "https://img.travel.rakuten.co.jp/share/HOTEL/76496/76496.jpg"
+ogImage: "https://img.travel.rakuten.co.jp/HIMG/300/76496.jpg"
 affUrl: "https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D76496"
 ratingValue: 4.41
 reviewCount: 1871
 ---
 
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "ホテル龍名館東京", "url": "https://kozureyado-navi.com/hotels/76496/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "東京都中央区八重洲1-3-22"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/76496/76496.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.41, "reviewCount": 1871, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "ホテル龍名館東京", "url": "https://kozureyado-navi.com/hotels/76496/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "東京都中央区八重洲1-3-22"}, "image": "https://img.travel.rakuten.co.jp/HIMG/300/76496.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.41, "reviewCount": 1871, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "ホテル龍名館東京", "item": "https://kozureyado-navi.com/hotels/76496/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "ホテル龍名館東京の夕食はレストランでいただけます。食事の口コミ評価は★4.51です。口コミには「朝食会場では若い男性スタッフが子どもに折り紙とストローで作ったクマをプレゼントしてくれて、子どもが喜んでいました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "ホテル龍名館東京は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "中央区にあるホテル龍名館東京は、楽天トラベルの口コミ1871件で総合★4.41。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
 <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/東京都/">東京都</a> <span>›</span> 中央区</nav>
 <header class="hero">
-<figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76496/76496.jpg" alt="ホテル龍名館東京の外観（中央区の子連れ向け宿）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D76496" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
+<figure class="ph"><img width="300" height="169" src="https://img.travel.rakuten.co.jp/HIMG/300/76496.jpg" alt="ホテル龍名館東京の外観（中央区の子連れ向け宿）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D76496" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>ホテル龍名館東京｜中央区の子連れにやさしい宿</h1>
 <p class="meta">東京都中央区八重洲1-3-22 ・ 1泊 10,750円〜</p>
 <p class="rating">★4.41 <span>（楽天トラベル 口コミ1871件）</span></p>
@@ -39,7 +39,7 @@ reviewCount: 1871
 
 <h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76496/76496_sin.jpg" alt="ホテル龍名館東京の客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D76496" target="_blank" rel="nofollow sponsored">▶ 客室つきプランを見る（楽天トラベルで見る）</a></p>
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">湯沸かしポット</span><span class="chip">加湿器(貸出)</span></div>
-<h2>お食事</h2><figure class="ph"><img src="meal_kaiseki.jpg" alt="お食事イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">夕食はレストランで。食事の口コミ評価は★4.51</p>
+<h2>お食事</h2><figure class="ph"><img width="720" height="424" src="meal_kaiseki.jpg" alt="お食事イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">夕食はレストランで。食事の口コミ評価は★4.51</p>
 
 
 <h2>子連れ目線の評価</h2>
@@ -51,7 +51,7 @@ reviewCount: 1871
 
 <h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>ホテル龍名館東京の夕食はレストランでいただけます。食事の口コミ評価は★4.51です。口コミには「朝食会場では若い男性スタッフが子どもに折り紙とストローで作ったクマをプレゼントしてくれて、子どもが喜んでいました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>ホテル龍名館東京は子連れ・赤ちゃん連れにおすすめですか？</summary><p>中央区にあるホテル龍名館東京は、楽天トラベルの口コミ1871件で総合★4.41。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。</p></details></div>
 
-<h2>このエリアの雰囲気</h2><figure class="ph"><img src="area_onsen_town.jpg" alt="エリアイメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure>
+<h2>このエリアの雰囲気</h2><figure class="ph"><img width="720" height="480" src="area_onsen_town.jpg" alt="エリアイメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure>
 
 <div class="cta">
 <p class="pre">★4.41・口コミ1871件のこの宿、空いてる日をチェック</p>
