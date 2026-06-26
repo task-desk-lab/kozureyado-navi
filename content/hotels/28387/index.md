@@ -9,7 +9,7 @@ areaShort: "大町"
 purposes: ["貸切風呂", "温泉"]
 priceFrom: 12100
 facilities: []
-ogImage: "https://img.travel.rakuten.co.jp/HIMG/300/28387.jpg"
+ogImage: "https://img.travel.rakuten.co.jp/share/HOTEL/28387/28387.jpg"
 affUrl: "https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D28387"
 ratingValue: 4.55
 reviewCount: 774

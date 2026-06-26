@@ -9,7 +9,7 @@ areaShort: "玉名市"
 purposes: ["部屋食", "貸切風呂", "赤ちゃん歓迎", "温泉"]
 priceFrom: 22800
 facilities: ["💧加湿器"]
-ogImage: "https://img.travel.rakuten.co.jp/HIMG/300/13909.jpg"
+ogImage: "https://img.travel.rakuten.co.jp/share/HOTEL/13909/13909.jpg"
 affUrl: "https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D13909"
 ratingValue: 4.66
 reviewCount: 389

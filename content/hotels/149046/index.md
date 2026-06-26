@@ -9,7 +9,7 @@ areaShort: "伊達市"
 purposes: ["貸切風呂", "温泉"]
 priceFrom: 19700
 facilities: ["🏓卓球", "🎮ゲーム", "💧加湿器"]
-ogImage: "https://img.travel.rakuten.co.jp/HIMG/300/149046.jpg"
+ogImage: "https://img.travel.rakuten.co.jp/share/HOTEL/149046/149046.jpg"
 affUrl: "https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D149046"
 ratingValue: 4.42
 reviewCount: 1059

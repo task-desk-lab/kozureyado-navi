@@ -9,7 +9,7 @@ areaShort: "米子市"
 purposes: ["貸切風呂", "温泉"]
 priceFrom: 7260
 facilities: []
-ogImage: "https://img.travel.rakuten.co.jp/HIMG/300/12537.jpg"
+ogImage: "https://img.travel.rakuten.co.jp/share/HOTEL/12537/12537.jpg"
 affUrl: "https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D12537"
 ratingValue: 4.48
 reviewCount: 1095

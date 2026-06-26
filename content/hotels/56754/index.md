@@ -9,7 +9,7 @@ areaShort: "八代市"
 purposes: ["部屋食", "貸切風呂"]
 priceFrom: 7700
 facilities: []
-ogImage: "https://img.travel.rakuten.co.jp/HIMG/300/56754.jpg"
+ogImage: "https://img.travel.rakuten.co.jp/share/HOTEL/56754/56754.jpg"
 affUrl: "https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D56754"
 ratingValue: 4.65
 reviewCount: 1445

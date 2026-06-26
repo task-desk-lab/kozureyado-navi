@@ -48,16 +48,18 @@ def process(md: Path) -> bool:
     text = md.read_text()
     orig = text
 
-    # 1. hero: share -> HIMG/300, dims 300x169
-    text = hero_share.sub(r"\1HIMG/300/\2.jpg", text)
-
-    # 2. walk every <img ...> and size it
+    # Walk every <img ...> and size it. The hero share URL is rewritten to
+    # HIMG/300 INSIDE the tag only — never touch the `ogImage:` front matter,
+    # which must keep the full share image for social cards.
     def repl(m: re.Match) -> str:
         tag = m.group(0)
         src = re.search(r'src="([^"]+)"', tag)
         if not src:
             return tag
         s = src.group(1)
+        if hero_share.fullmatch(s):
+            tag = tag.replace(s, hero_share.sub(r"\1HIMG/300/\2.jpg", s), 1)
+            s = "HIMG/300"
         if "HIMG/300" in s:
             # The HIMG/300 image is the hero (LCP). Load it eagerly with high
             # priority instead of lazily so it isn't deferred behind the fold.

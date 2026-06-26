@@ -9,7 +9,7 @@ areaShort: "府京都市"
 purposes: []
 priceFrom: 6175
 facilities: ["💧加湿器"]
-ogImage: "https://img.travel.rakuten.co.jp/HIMG/300/173030.jpg"
+ogImage: "https://img.travel.rakuten.co.jp/share/HOTEL/173030/173030.jpg"
 affUrl: "https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D173030"
 ratingValue: 4.55
 reviewCount: 838

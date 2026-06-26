@@ -9,7 +9,7 @@ areaShort: "みなかみ町"
 purposes: ["部屋食", "貸切風呂", "赤ちゃん歓迎", "温泉"]
 priceFrom: 8800
 facilities: ["🎮ゲーム", "💧加湿器"]
-ogImage: "https://img.travel.rakuten.co.jp/HIMG/300/2370.jpg"
+ogImage: "https://img.travel.rakuten.co.jp/share/HOTEL/2370/2370.jpg"
 affUrl: "https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D2370"
 ratingValue: 4.61
 reviewCount: 499

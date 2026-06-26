@@ -9,7 +9,7 @@ areaShort: "奈良市"
 purposes: ["部屋食", "貸切風呂", "ベビーベッドあり"]
 priceFrom: 14300
 facilities: ["🛏️ベビーベッド", "💧加湿器"]
-ogImage: "https://img.travel.rakuten.co.jp/HIMG/300/16815.jpg"
+ogImage: "https://img.travel.rakuten.co.jp/share/HOTEL/16815/16815.jpg"
 affUrl: "https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D16815"
 ratingValue: 4.44
 reviewCount: 1013

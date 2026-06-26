@@ -9,7 +9,7 @@ areaShort: "伊勢市"
 purposes: ["貸切風呂"]
 priceFrom: 8250
 facilities: ["🏊プール", "🏓卓球", "💧加湿器"]
-ogImage: "https://img.travel.rakuten.co.jp/HIMG/300/70313.jpg"
+ogImage: "https://img.travel.rakuten.co.jp/share/HOTEL/70313/70313.jpg"
 affUrl: "https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D70313"
 ratingValue: 4.49
 reviewCount: 1265

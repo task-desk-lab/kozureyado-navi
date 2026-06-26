@@ -9,7 +9,7 @@ areaShort: "松本市"
 purposes: ["貸切風呂", "温泉"]
 priceFrom: 12100
 facilities: ["💧加湿器"]
-ogImage: "https://img.travel.rakuten.co.jp/HIMG/300/32173.jpg"
+ogImage: "https://img.travel.rakuten.co.jp/share/HOTEL/32173/32173.jpg"
 affUrl: "https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D32173"
 ratingValue: 4.71
 reviewCount: 499
