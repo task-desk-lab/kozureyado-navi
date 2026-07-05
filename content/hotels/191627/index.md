@@ -19,7 +19,7 @@ reviewCount: 52
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "Ｓｔａｙ　Ｋｕｍａｎｏ　Ｋｕｓｈｉｍｏｔｏ．", "item": "https://kozureyado-navi.com/hotels/191627/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "Ｓｔａｙ　Ｋｕｍａｎｏ　Ｋｕｓｈｉｍｏｔｏ．の夕食は館内のお食事処でいただけます。食事の口コミ評価は★4.82です。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "Ｓｔａｙ　Ｋｕｍａｎｏ　Ｋｕｓｈｉｍｏｔｏ．は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "串本町にあるＳｔａｙ　Ｋｕｍａｎｏ　Ｋｕｓｈｉｍｏｔｏ．は、楽天トラベルの口コミ52件で総合★4.86。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
 <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/和歌山県/">和歌山県</a> <span>›</span> 串本町</nav>
 <header class="hero">
-<figure class="ph"><img width="300" height="169" src="https://img.travel.rakuten.co.jp/HIMG/300/191627.jpg" alt="Ｓｔａｙ　Ｋｕｍａｎｏ　Ｋｕｓｈｉｍｏｔｏ．の外観（串本町の子連れ向け宿）" loading="eager" fetchpriority="high"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D191627" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
+<figure class="ph"><img width="300" height="169" src="https://img.travel.rakuten.co.jp/HIMG/300/191627.jpg" alt="Ｓｔａｙ　Ｋｕｍａｎｏ　Ｋｕｓｈｉｍｏｔｏ．の外観（串本町の子連れ向け宿）" loading="eager" fetchpriority="high"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D191627" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>Ｓｔａｙ　Ｋｕｍａｎｏ　Ｋｕｓｈｉｍｏｔｏ．｜串本町の子連れにやさしい宿</h1>
 <p class="meta">和歌山県東牟婁郡串本町潮岬1003 ・ 1泊 6,600円〜</p>
 <p class="rating">★4.86 <span>（楽天トラベル 口コミ52件）</span></p>
@@ -29,12 +29,12 @@ reviewCount: 52
 
 <p class="intro">Ｓｔａｙ　Ｋｕｍａｎｏ　Ｋｕｓｈｉｍｏｔｏ．は、串本町にある総合★4.86（楽天トラベルの口コミ52件）の宿です。子連れ・赤ちゃん連れのご家族からは、「焚き火や花火で大はしゃぎ」・「子連れに優しい接客」といった点が口コミで支持されています。このページでは、楽天トラベルの口コミから子連れ目線のポイントをまとめました（1泊 6,600円〜）。</p>
 
-<div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">○ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
+<div class="safe"><div class="s"><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="t">○ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
 <h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">設備</span><span class="rx">「子供は海の方へ散歩に行ったり、虫取り網を貸していただいて、蝶を追いかけたり、夜は焚き火で花火や焼きマシュマロをしたりと大喜びでした」</span></div><div class="reason"><span class="rt">遊び</span><span class="rx">「焚火でのマシュマロ焼き体験は、子ども達がとても喜んでいました」</span></div><div class="reason"><span class="rt">子連れ歓迎</span><span class="rx">「いずれにせよ、ゆっくり海を眺めたり子供と遊んだりとゆったりとした時間が過ごせる施設だと思います」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
 
-<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 焚き火や花火で大はしゃぎ</div><div class="pt-b">外遊びや花火で、子供がとびきりの笑顔に</div></div><div class="pt"><div class="pt-t">👶 グランピング体験</div><div class="pt-b">テント泊やBBQが、忘れられない思い出に</div></div>
-<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 子連れに優しい接客</div><div class="pt-b">口コミでも子連れへの心配りが高評価</div></div>
+<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">焚き火や花火で大はしゃぎ</div><div class="pt-b">外遊びや花火で、子供がとびきりの笑顔に</div></div><div class="pt"><div class="pt-t">グランピング体験</div><div class="pt-b">テント泊やBBQが、忘れられない思い出に</div></div>
+<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">子連れに優しい接客</div><div class="pt-b">口コミでも子連れへの心配りが高評価</div></div>
 <details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>焚火でのマシュマロ焼き体験は、子ども達がとても喜んでいました</li><li><span class="src">公式</span>公式: 【2024年4月OPEN】本州最南端のオーシャンビューと満天の星空を感じるグラン</li><li><span class="src">公式</span>総合★4.86（52件）</li></ul></details>
 
 

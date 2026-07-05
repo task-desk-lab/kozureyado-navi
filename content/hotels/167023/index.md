@@ -19,7 +19,7 @@ reviewCount: 336
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "ルグラン軽井沢ホテル＆リゾート（グランベルホテルズ＆リゾーツ）", "item": "https://kozureyado-navi.com/hotels/167023/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "ルグラン軽井沢ホテル＆リゾート（グランベルホテルズ＆リゾーツ）の夕食はレストランでいただけます。食事の口コミ評価は★4.58です。口コミには「朝食も美味しくて一歳半の子供も食べれるものもあり助かりました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "ルグラン軽井沢ホテル＆リゾート（グランベルホテルズ＆リゾーツ）には大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "ルグラン軽井沢ホテル＆リゾート（グランベルホテルズ＆リゾーツ）は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "軽井沢町にあるルグラン軽井沢ホテル＆リゾート（グランベルホテルズ＆リゾーツ）は、楽天トラベルの口コミ336件で総合★4.57。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
 <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/長野県/">長野県</a> <span>›</span> 軽井沢町</nav>
 <header class="hero">
-<figure class="ph"><img width="300" height="169" src="https://img.travel.rakuten.co.jp/HIMG/300/167023.jpg" alt="ルグラン軽井沢ホテル＆リゾート（グランベルホテルズ＆リゾーツ）の外観（軽井沢町の子連れ向け宿）" loading="eager" fetchpriority="high"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D167023" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
+<figure class="ph"><img width="300" height="169" src="https://img.travel.rakuten.co.jp/HIMG/300/167023.jpg" alt="ルグラン軽井沢ホテル＆リゾート（グランベルホテルズ＆リゾーツ）の外観（軽井沢町の子連れ向け宿）" loading="eager" fetchpriority="high"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D167023" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>ルグラン軽井沢ホテル＆リゾート（グランベルホテルズ＆リゾーツ）｜軽井沢町の子連れにやさしい宿</h1>
 <p class="meta">長野県北佐久郡軽井沢町発地864-4 ・ 1泊 20,900円〜</p>
 <p class="rating">★4.57 <span>（楽天トラベル 口コミ336件）</span></p>
@@ -29,12 +29,12 @@ reviewCount: 336
 
 <p class="intro">ルグラン軽井沢ホテル＆リゾート（グランベルホテルズ＆リゾーツ）は、軽井沢町にある総合★4.57（楽天トラベルの口コミ336件）の宿です。子連れ・赤ちゃん連れのご家族からは、「ゆったりした客室」・「子連れに優しい接客」といった点が口コミで支持されています。このページでは、楽天トラベルの口コミから子連れ目線のポイントをまとめました（1泊 20,900円〜）。</p>
 
-<div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">○ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
+<div class="safe"><div class="s"><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="t">○ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
 <h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">接客</span><span class="rx">「チェックアウト後、カートで敷地内をドライブしてくださったスタッフの方、ご親切にありがとうございました♪子供がとても喜んでいました」</span></div><div class="reason"><span class="rt">食事</span><span class="rx">「朝食も美味しくて一歳半の子供も食べれるものもあり助かりました」</span></div><div class="reason"><span class="rt">設備</span><span class="rx">「また子供用のスプーンやフォークなどをデフォルトで用意して頂きたいです」</span></div><div class="reason"><span class="rt">遊び</span><span class="rx">「レストランにも子供用の椅子もありますし、従業員の方も笑顔で接客してくれます」</span></div><div class="reason"><span class="rt">子連れ歓迎</span><span class="rx">「ビュッフェで取る際はマスクとビニール手袋をと言われたが、子どもはしていなくても注意してくれない」</span></div><div class="reason"><span class="rt">食事</span><span class="rx">「朝の朝食ビュッフェもベビーチェアとチェアベルトを用意して頂きとても快適にご飯を食べれました」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
 
-<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 ゆったりした客室</div><div class="pt-b">お部屋が広くて、子供ものびのび過ごせる</div></div>
-<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 子連れに優しい接客</div><div class="pt-b">口コミでも子連れへの心配りが高評価</div></div>
+<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">ゆったりした客室</div><div class="pt-b">お部屋が広くて、子供ものびのび過ごせる</div></div>
+<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">子連れに優しい接客</div><div class="pt-b">口コミでも子連れへの心配りが高評価</div></div>
 <details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">公式</span>総合★4.57（336件）</li><li><span class="src">公式</span>総合★4.57（336件）</li></ul></details>
 
 

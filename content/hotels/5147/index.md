@@ -19,7 +19,7 @@ reviewCount: 1970
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "ジャスマックプラザホテル", "item": "https://kozureyado-navi.com/hotels/5147/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "ジャスマックプラザホテルの夕食はレストラン・広間でいただけます。食事の口コミ評価は★4.21です。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "ベビーベッドは借りられますか？", "acceptedAnswer": {"@type": "Answer", "text": "ジャスマックプラザホテルは客室設備にベビーベッドの記載があります。台数に限りがある場合があるので、予約時のリクエストがおすすめです。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "ジャスマックプラザホテルには露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "ジャスマックプラザホテルは子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "札幌市にあるジャスマックプラザホテルは、楽天トラベルの口コミ1970件で総合★4.41。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
 <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/北海道/">北海道</a> <span>›</span> 札幌市</nav>
 <header class="hero">
-<figure class="ph"><img width="300" height="169" src="https://img.travel.rakuten.co.jp/HIMG/300/5147.jpg" alt="ジャスマックプラザホテルの外観（札幌市の子連れ向け宿）" loading="eager" fetchpriority="high"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D5147" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
+<figure class="ph"><img width="300" height="169" src="https://img.travel.rakuten.co.jp/HIMG/300/5147.jpg" alt="ジャスマックプラザホテルの外観（札幌市の子連れ向け宿）" loading="eager" fetchpriority="high"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D5147" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>ジャスマックプラザホテル｜札幌市の子連れにやさしい宿</h1>
 <p class="meta">北海道札幌市中央区南7条西3 ・ 1泊 9,500円〜</p>
 <p class="rating">★4.41 <span>（楽天トラベル 口コミ1970件）</span></p>
@@ -29,15 +29,15 @@ reviewCount: 1970
 
 <p class="intro">ジャスマックプラザホテルは、札幌市にある総合★4.41（楽天トラベルの口コミ1970件）の宿です。子連れ・赤ちゃん連れのご家族からは、「お部屋が広くてのびのび」・「ベビーベッド完備」といった点が口コミで支持されています。このページでは、楽天トラベルの口コミから子連れ目線のポイントをまとめました（1泊 9,500円〜）。</p>
 
-<div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
+<div class="safe"><div class="s"><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
 
 
-<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 お部屋が広くてのびのび</div><div class="pt-b">端から端まで動き回れる広さで、子供ものびのび</div></div>
-<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ ベビーベッド完備</div><div class="pt-b">持ち込み不要で、赤ちゃん連れも身軽に泊まれる</div></div>
+<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">お部屋が広くてのびのび</div><div class="pt-b">端から端まで動き回れる広さで、子供ものびのび</div></div>
+<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">ベビーベッド完備</div><div class="pt-b">持ち込み不要で、赤ちゃん連れも身軽に泊まれる</div></div>
 <details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>お部屋を指定できない安いプランで申し込んだのですが、幼児も一緒だったのも考慮いただいたのか、とても広い和室でした</li><li><span class="src">公式</span>公式: 客室設備にベビーベッド</li></ul></details>
 
-<h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5147/5147_ro.jpg" alt="ジャスマックプラザホテルの客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D5147" target="_blank" rel="nofollow sponsored">▶ 客室つきプランを見る（楽天トラベルで見る）</a></p>
+<h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5147/5147_ro.jpg" alt="ジャスマックプラザホテルの客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D5147" target="_blank" rel="nofollow sponsored">客室つきプランを見る（楽天トラベルで見る）</a></p>
 <h2>子連れにうれしい設備</h2><div class="chips"><span class="chip">湯沸かしポット</span><span class="chip">ベビーベッド</span></div>
 <h2>お食事</h2><figure class="ph"><img width="720" height="540" src="meal_kaisen.jpg" alt="お食事イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">夕食はレストラン・広間で。食事の口コミ評価は★4.21</p>
 <h2>お風呂</h2><figure class="ph"><img width="720" height="480" src="bath_rotenburo.jpg" alt="お風呂イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">露天風呂・サウナ・天然温泉など。お風呂の口コミ評価は★4.5</p>

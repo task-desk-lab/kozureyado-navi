@@ -1,182 +1,247 @@
-/* 子連れ宿ナビ — design system (round 1) */
+/* 子連れ宿ナビ — design system (round 2: 和モダン × 編集的信頼)
+   方針: オフホワイト地・和明朝の見出し・大きな実写真・彫刻的余白。
+   影で浮かせず罫線と余白で階層をつくる。装飾でなくタイポで見出しを立てる。 */
 :root{
-  --ink:#33302e;--sub:#857d77;--line:#efe9e4;
-  --accent:#ff6f61;--accent-d:#e8584e;--soft:#fff5f2;
-  --sky:#56b6c2;--sky-soft:#eaf7f8;
-  --sun:#ffb23e;--cream:#fffaf5;--bg:#fbf7f3;
-  --shadow:0 6px 22px rgba(120,90,70,.10);
-  --radius:18px;
+  /* ---- palette ---- */
+  --paper:#faf7f2;        /* 暖色オフホワイト背景 */
+  --paper-2:#f4efe6;      /* パネル/セクション地 */
+  --ink:#2b2622;          /* 温かい墨（純黒を避ける） */
+  --ink-2:#4d453e;        /* 本文の濃いめグレー */
+  --sub:#8a7f74;          /* 補助テキスト */
+  --line:#e7ddcf;         /* 暖色ヘアライン */
+  --line-2:#d8ccba;      /* やや濃い罫線 */
+  --terra:#b25b3a;        /* テラコッタ（アクセント/リンク/CTA） */
+  --terra-d:#8f4529;      /* テラコッタ濃（hover/文字） */
+  --pine:#5e7c6b;         /* くすんだ深緑（サブ=湯・自然） */
+  --pine-d:#456153;
+  --pine-soft:#eef2ee;    /* 緑のパネル地 */
+  --gold:#b98a3e;         /* 評点の★（低彩度ゴールド） */
+  --radius:10px;
+  --radius-s:8px;
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
-body{margin:0;font-family:-apple-system,'Hiragino Sans','Noto Sans JP',sans-serif;
-  color:var(--ink);line-height:1.8;background:var(--bg);-webkit-font-smoothing:antialiased}
+body{margin:0;
+  font-family:-apple-system,BlinkMacSystemFont,'Hiragino Sans','Noto Sans JP',sans-serif;
+  color:var(--ink);line-height:1.85;background:var(--paper);
+  -webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
 img{max-width:100%}
-.wrap{max-width:680px;margin:0 auto;padding:0 18px}
+
+/* 見出し用の和明朝スタック（Webフォント不使用＝LCPを守る） */
+.serif,h1,h2,.sec-h,.hero-home h1,.kpi .n,.rating .v,.card .rate .v,.bignum{
+  font-family:'Hiragino Mincho ProN','Yu Mincho',YuMincho,'Noto Serif JP',serif;
+  font-feature-settings:"palt" 1;
+}
+.tnum{font-variant-numeric:tabular-nums}
+
+.wrap{max-width:700px;margin:0 auto;padding:0 20px}
 
 /* ---- header ---- */
-.topbar{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.92);
-  backdrop-filter:saturate(160%) blur(8px);border-bottom:1px solid var(--line)}
-.topbar .in{max-width:680px;margin:0 auto;padding:12px 18px;display:flex;align-items:center;gap:10px}
-.topbar .brand{color:var(--accent-d);font-weight:900;text-decoration:none;font-size:1.12rem;letter-spacing:.02em}
-.topbar .brand .em{font-size:1.2rem}
+.topbar{position:sticky;top:0;z-index:20;background:rgba(250,247,242,.9);
+  backdrop-filter:saturate(150%) blur(8px);border-bottom:1px solid var(--line)}
+.topbar .in{max-width:700px;margin:0 auto;padding:14px 20px;display:flex;align-items:center;gap:10px}
+.topbar .brand{font-family:'Hiragino Mincho ProN','Yu Mincho',serif;color:var(--ink);
+  font-weight:700;text-decoration:none;font-size:1.16rem;letter-spacing:.04em}
+.topbar .brand .em{display:none}
 
 /* ---- chips (filter/nav) ---- */
 .chips{display:flex;flex-wrap:wrap;gap:8px;margin:.6em 0}
 .chips.scroll{flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:4px}
-.fchip{display:inline-flex;align-items:center;gap:4px;white-space:nowrap;background:#fff;
-  border:1.5px solid var(--line);color:var(--ink);border-radius:22px;padding:7px 14px;
-  font-size:.88rem;font-weight:700;text-decoration:none;transition:.15s}
-.fchip:hover{border-color:var(--accent);color:var(--accent-d)}
-.fchip.area{background:var(--sky-soft);border-color:#cde9ec;color:#2a7c85}
-.fchip b{opacity:.55;font-size:.78rem;margin-left:2px}
-.fchip.on{background:var(--accent);border-color:var(--accent);color:#fff}
-.fchip.area.on{background:var(--sky);border-color:var(--sky);color:#fff}
-.region{margin:10px 0 14px}
-.region-name{display:inline-block;font-weight:900;font-size:.84rem;color:var(--sub);
-  background:#fff;border:1px solid var(--line);border-radius:8px;padding:3px 10px;margin-bottom:8px}
-.region .chips{margin:6px 0 0}
+.fchip{display:inline-flex;align-items:center;gap:5px;white-space:nowrap;background:transparent;
+  border:1px solid var(--line-2);color:var(--ink-2);border-radius:999px;padding:7px 15px;
+  font-size:.88rem;font-weight:600;text-decoration:none;transition:.15s}
+.fchip:hover{border-color:var(--terra);color:var(--terra-d)}
+.fchip.area{color:var(--pine-d);border-color:#cfe0d5}
+.fchip.area:hover{border-color:var(--pine);color:var(--pine-d)}
+.fchip b{font-weight:600;color:var(--sub);font-size:.78rem;margin-left:1px;font-variant-numeric:tabular-nums}
+.fchip.on{background:var(--terra);border-color:var(--terra);color:#fff}
+.fchip.area.on{background:var(--pine);border-color:var(--pine);color:#fff}
+.region{margin:14px 0 18px}
+.region-name{display:block;font-weight:700;font-size:.8rem;color:var(--sub);letter-spacing:.06em;
+  margin-bottom:8px;padding-left:2px}
+.region .chips{margin:0}
 
-/* ---- hero ---- */
-.hero-home{background:linear-gradient(160deg,#fff5f2 0%,#fff9f4 55%,#eaf7f8 100%);
-  border-bottom:1px solid var(--line)}
-.hero-home .in{max-width:680px;margin:0 auto;padding:30px 18px 22px}
-.hero-home h1{font-size:1.7rem;line-height:1.45;margin:.1em 0 .4em;font-weight:900}
-.hero-home p.sub{color:var(--sub);font-size:.98rem;margin:0 0 16px}
-.kpi{display:inline-flex;align-items:center;gap:10px;background:#fff;border:1.5px solid #ffe0d9;
-  border-radius:16px;padding:10px 16px;box-shadow:var(--shadow)}
-.kpi .n{font-size:1.5rem;font-weight:900;color:var(--accent-d);line-height:1}
-.kpi .l{font-size:.78rem;color:var(--sub);line-height:1.3}
+/* ---- hero (home) ---- */
+.hero-home{background:var(--paper);border-bottom:1px solid var(--line)}
+.hero-home .in{max-width:700px;margin:0 auto;padding:44px 20px 34px}
+.hero-home h1{font-size:2rem;line-height:1.5;margin:0 0 .5em;font-weight:700;letter-spacing:.02em}
+.hero-home p.sub{color:var(--sub);font-size:.98rem;margin:0 0 22px;max-width:38em}
+.kpi{display:inline-flex;align-items:baseline;gap:12px;border-top:2px solid var(--terra);
+  padding:12px 2px 0}
+.kpi .n{font-size:2.1rem;font-weight:700;color:var(--ink);line-height:1;font-variant-numeric:tabular-nums}
+.kpi .l{font-size:.8rem;color:var(--sub);line-height:1.4}
 
-/* ---- how it works ---- */
-.how{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:18px 0 4px}
-.how .step{background:#fff;border:1px solid var(--line);border-radius:14px;padding:14px 10px;text-align:center}
-.how .ic{font-size:1.6rem}
-.how .t{font-weight:800;font-size:.9rem;margin-top:4px}
-.how .d{font-size:.74rem;color:var(--sub);margin-top:2px;line-height:1.4}
+/* ---- how it works (本当に3ステップの手順なので序数を許容) ---- */
+.how{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--line);
+  border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;margin:26px 0 6px}
+.how .step{background:var(--paper);padding:18px 14px;text-align:left;counter-increment:how}
+.how .step .ic{display:none}
+.how .step .t{font-weight:700;font-size:.94rem;margin-top:2px}
+.how .step .t::before{content:"0" counter(how);display:block;
+  font-family:'Hiragino Mincho ProN','Yu Mincho',serif;color:var(--terra);
+  font-size:.9rem;letter-spacing:.1em;margin-bottom:6px;font-weight:700}
+.how{counter-reset:how}
+.how .step .d{font-size:.78rem;color:var(--sub);margin-top:4px;line-height:1.5}
 
 /* ---- section heading ---- */
-.sec-h{display:flex;align-items:center;gap:8px;font-size:1.22rem;font-weight:900;margin:28px 0 12px}
-.sec-h .em{font-size:1.3rem}
+.sec-h{display:flex;align-items:baseline;gap:10px;font-size:1.34rem;font-weight:700;
+  margin:44px 0 16px;letter-spacing:.02em;padding-bottom:10px;border-bottom:1px solid var(--line)}
+.sec-h .em{display:none}
 
 /* ---- hotel card ---- */
-.list{max-width:680px;margin:0 auto;padding:0 18px 8px}
-.card{display:block;background:#fff;border:1px solid var(--line);border-radius:var(--radius);
-  overflow:hidden;margin:14px 0;text-decoration:none;color:var(--ink);box-shadow:var(--shadow);
-  transition:transform .15s,box-shadow .15s}
-.card:hover{transform:translateY(-3px);box-shadow:0 12px 30px rgba(120,90,70,.16)}
-.card .ph{position:relative;margin:0}
-.card .ph img{width:100%;height:184px;object-fit:cover;display:block}
-.card .price{position:absolute;right:10px;bottom:10px;background:rgba(255,255,255,.95);
-  color:var(--accent-d);font-weight:900;font-size:.92rem;padding:5px 12px;border-radius:20px;box-shadow:var(--shadow)}
-.card .cb{padding:13px 16px 15px}
-.card .ct{font-weight:800;font-size:1.06rem;line-height:1.4;
+.list{max-width:700px;margin:0 auto;padding:0 20px 8px}
+.card{display:block;background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);
+  overflow:hidden;margin:18px 0;text-decoration:none;color:var(--ink);
+  transition:border-color .18s,transform .18s}
+.card:hover{border-color:var(--line-2);transform:translateY(-2px)}
+.card .ph{position:relative;margin:0;background:var(--paper-2)}
+.card .ph img{width:100%;height:200px;object-fit:cover;display:block}
+.card .price{position:absolute;right:12px;bottom:12px;background:rgba(43,38,34,.82);
+  color:#fff;font-weight:600;font-size:.86rem;padding:5px 12px;border-radius:999px;
+  font-variant-numeric:tabular-nums;backdrop-filter:blur(2px)}
+.card .cb{padding:15px 18px 18px}
+.card .ct{font-family:'Hiragino Mincho ProN','Yu Mincho',serif;font-weight:600;font-size:1.12rem;
+  line-height:1.5;letter-spacing:.01em;
   display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.card .rate{color:var(--sun);font-weight:900;font-size:1rem;margin:.25em 0}
-.card .rate .cnt{color:var(--sub);font-weight:600;font-size:.8rem}
-.card .area{color:var(--sky);font-weight:700}
-.card .badges{display:flex;flex-wrap:wrap;gap:6px;margin-top:9px}
-.badge{background:var(--soft);color:var(--accent-d);border:1px solid #ffe0d9;
-  border-radius:14px;padding:3px 10px;font-size:.76rem;font-weight:700}
-.card .fac{color:var(--sub);font-size:.82rem;margin-top:8px}
+.card .rate{display:flex;align-items:baseline;gap:8px;margin:.5em 0 .1em}
+.card .rate .v{font-family:'Hiragino Mincho ProN','Yu Mincho',serif;color:var(--ink);
+  font-weight:700;font-size:1.35rem;line-height:1;font-variant-numeric:tabular-nums}
+.card .rate .star{color:var(--gold);font-size:.9rem;letter-spacing:-.05em}
+.card .rate .cnt{color:var(--sub);font-weight:500;font-size:.78rem;font-variant-numeric:tabular-nums}
+.card .area{color:var(--pine-d);font-weight:600;font-size:.86rem;margin-top:.1em}
+.card .area::before{content:"";display:inline-block;width:5px;height:5px;border-radius:50%;
+  background:var(--pine);margin-right:7px;vertical-align:middle}
+.card .badges{display:flex;flex-wrap:wrap;gap:7px;margin-top:11px}
+.badge{background:transparent;color:var(--terra-d);border:1px solid #e6d3c9;
+  border-radius:999px;padding:3px 11px;font-size:.75rem;font-weight:600}
+.card .fac{color:var(--sub);font-size:.8rem;margin-top:9px;letter-spacing:.02em}
 
 /* ---- footer ---- */
-.site-foot{background:#fff;border-top:1px solid var(--line);margin-top:30px}
-.site-foot .in{max-width:680px;margin:0 auto;padding:24px 18px;color:var(--sub);font-size:.82rem;text-align:center}
-.site-foot .fnav{display:flex;justify-content:center;gap:18px;margin-bottom:12px;flex-wrap:wrap}
-.site-foot .fnav a{color:var(--accent-d);text-decoration:none;font-weight:700;font-size:.86rem}
+.site-foot{background:var(--paper-2);border-top:1px solid var(--line);margin-top:56px}
+.site-foot .in{max-width:700px;margin:0 auto;padding:32px 20px;color:var(--sub);font-size:.82rem;text-align:center;line-height:1.7}
+.site-foot .fnav{display:flex;justify-content:center;gap:22px;margin-bottom:16px;flex-wrap:wrap}
+.site-foot .fnav a{color:var(--ink-2);text-decoration:none;font-weight:600;font-size:.86rem}
+.site-foot .fnav a:hover{color:var(--terra-d)}
 
 /* ===================== article (hotel page) ===================== */
-article{max-width:680px;margin:0 auto;background:#fff;padding:0 18px 44px}
-article h1{font-size:1.46rem;margin:.5em 0 .2em;line-height:1.5;font-weight:900}
-article h2{font-size:1.2rem;margin:1.7em 0 .6em;padding-left:.55em;font-weight:800;
-  border-left:5px solid var(--accent);border-radius:2px}
-.crumb{font-size:.76rem;color:var(--sub);padding:12px 0 6px}
+article{max-width:700px;margin:0 auto;background:var(--paper);padding:0 20px 48px}
+article h1{font-size:1.62rem;margin:.5em 0 .25em;line-height:1.55;font-weight:700;letter-spacing:.01em}
+article h2{font-family:'Hiragino Mincho ProN','Yu Mincho',YuMincho,'Noto Serif JP',serif;
+  font-size:1.28rem;margin:2em 0 .7em;padding-bottom:.4em;font-weight:600;letter-spacing:.02em;
+  border-bottom:1px solid var(--line)}
+.crumb{font-size:.76rem;color:var(--sub);padding:14px 0 8px;letter-spacing:.02em}
 .crumb a{color:var(--sub);text-decoration:none}
-.crumb span{color:#d8cfc8;margin:0 5px}
-.hero{margin:0 -18px}
+.crumb a:hover{color:var(--terra-d)}
+.crumb span{color:#cbbfb2;margin:0 6px}
+.hero{margin:0 -20px}
+.hero .ph img{width:100%;height:auto;max-height:60vh;object-fit:cover;display:block}
 .ph{margin:0 0 .4em}
-.ph img{width:100%;display:block}
-.credit{font-size:.72rem;color:var(--sub);text-align:right;padding:4px 8px;background:#faf6f3}
-.meta{color:var(--sub);font-size:.9rem;margin:.2em 0}
-.rating{font-size:1.2rem;color:var(--sun);font-weight:900;margin:.2em 0 .5em}
-.rating span{color:var(--sub);font-size:.85rem;font-weight:500}
-.lead{font-size:1.02rem;background:var(--soft);padding:15px 17px;border-radius:14px;border:1px solid #ffe7e1}
+.ph img{width:100%;display:block;border-radius:var(--radius-s)}
+.hero .ph img{border-radius:0}
+.credit{font-size:.7rem;color:var(--sub);text-align:right;padding:5px 4px}
+.meta{color:var(--sub);font-size:.9rem;margin:.3em 0;font-variant-numeric:tabular-nums}
+.rating{font-size:1rem;color:var(--sub);margin:.3em 0 .6em;display:flex;align-items:baseline;gap:9px}
+.rating .star{color:var(--gold);letter-spacing:-.04em}
+.rating span{color:var(--sub);font-size:.85rem}
+.lead{font-size:1.06rem;color:var(--ink);line-height:1.9;background:transparent;padding:0;
+  border:0;border-left:3px solid var(--terra);padding-left:16px;margin:1.2em 0}
 
-/* 安心チェック 3軸 */
-.safe{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:.6em 0 .4em}
-.safe .s{background:var(--sky-soft);border:1px solid #d4edef;border-radius:14px;padding:12px 8px;text-align:center}
-.safe .s .ic{font-size:1.5rem}
-.safe .s .t{font-weight:800;font-size:.82rem;margin-top:3px}
-.safe .s .d{font-size:.72rem;color:#3f7a81;margin-top:2px;line-height:1.4}
+/* 安心チェック 3軸（絵文字を排し、罫線＋余白のクリーンなカードに） */
+.safe{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:1.2em 0 .6em}
+.safe .s{background:var(--pine-soft);border:1px solid #dbe6dd;border-radius:var(--radius-s);
+  padding:14px 12px;text-align:left}
+.safe .s .ic{display:none}
+.safe .s .t{font-weight:700;font-size:.86rem;margin-top:0;color:var(--pine-d)}
+.safe .s .d{font-size:.74rem;color:var(--ink-2);margin-top:5px;line-height:1.55}
 
 /* 口コミでわかる おすすめ理由 */
-.reasons{display:flex;flex-direction:column;gap:10px;margin:.5em 0 .3em}
-.reason{background:var(--cream);border:1px solid #f1e3da;border-radius:14px;padding:13px 15px;position:relative}
-.reason .rt{display:inline-block;background:var(--accent);color:#fff;font-size:.72rem;font-weight:800;
-  border-radius:8px;padding:2px 9px;margin-right:8px;vertical-align:2px}
-.reason .rx{font-size:.97rem;color:#46403b;font-weight:500}
-.reason-src{font-size:.76rem;color:var(--sub);margin:.3em 0 0;text-align:right}
-.intro{font-size:.97rem;color:#46403b;line-height:1.85;margin:.6em 0 1.2em}
-.voices{list-style:none;padding:0;margin:.5em 0 .3em;display:flex;flex-direction:column;gap:8px}
-.voices li{background:#fff;border:1px solid var(--line);border-radius:12px;padding:11px 14px}
-.voices .vt{display:inline-block;background:var(--soft,#fff6f3);color:#b34a40;border:1px solid #f3d9d2;
-  font-size:.72rem;font-weight:800;border-radius:8px;padding:2px 9px;margin-right:8px;vertical-align:2px}
-.voices .vx{font-size:.95rem;color:#46403b}
-.cross{background:#fff;border:1px dashed var(--line);border-radius:14px;padding:12px 14px;margin:8px 0 2px}
-.cross .cl{font-size:.82rem;font-weight:800;color:var(--sub);margin-bottom:8px}
+.reasons{display:flex;flex-direction:column;gap:0;margin:.6em 0 .4em}
+.reason{background:transparent;border:0;border-bottom:1px solid var(--line);border-radius:0;
+  padding:15px 2px;position:relative}
+.reason:last-child{border-bottom:0}
+.reason .rt{display:inline-block;background:transparent;color:var(--terra-d);
+  border:1px solid #e6d3c9;font-size:.7rem;font-weight:700;letter-spacing:.04em;
+  border-radius:999px;padding:2px 10px;margin-right:10px;vertical-align:1px}
+.reason .rx{font-size:.98rem;color:var(--ink-2);font-weight:400;line-height:1.8}
+.reason-src{font-size:.76rem;color:var(--sub);margin:.5em 0 0;text-align:right}
+.intro{font-size:.98rem;color:var(--ink-2);line-height:1.9;margin:.7em 0 1.3em}
 
-.pt{border:1px solid var(--line);border-radius:16px;padding:13px 16px;margin:.5em 0;background:#fff}
-.pt-t{font-weight:800;font-size:1.05rem}
-.pt-b{color:#5b524c;margin-top:.2em}
-.textlink{margin:.2em 0 1.4em}
-.textlink a{color:var(--accent-d);font-weight:700;text-decoration:none;font-size:.95rem}
-.amb-t{color:#5b524c;font-size:.95rem;margin:.3em 0 1.2em}
-.chips-fac{display:flex;flex-wrap:wrap;gap:8px;margin:.6em 0 1.2em}
-.chip{background:var(--cream);border:1px solid #f1e3da;color:#b3503f;
-  border-radius:20px;padding:7px 14px;font-size:.88rem;font-weight:700}
-.scores{margin:.5em 0}
-.bar{display:flex;align-items:center;gap:10px;margin:.45em 0}
-.bar .lab{width:3.5em;font-size:.9rem;color:#5b524c}
-.bar .track{flex:1;height:11px;background:#f1ece8;border-radius:6px;overflow:hidden}
-.bar .fill{display:block;height:100%;background:linear-gradient(90deg,var(--sun),var(--accent))}
-.bar .num{width:2.6em;text-align:right;font-weight:800;font-size:.9rem;color:var(--sun)}
-.rev{background:var(--sky-soft);border-left:4px solid var(--sky);margin:0;
-  padding:15px 18px;border-radius:0 12px 12px 0;font-size:1rem}
-.rev cite{display:block;color:var(--sub);font-size:.82rem;font-style:normal;margin-top:.5em}
-.evi{margin:1em 0;font-size:.9rem;color:#5b524c}
-.evi summary{cursor:pointer;color:var(--accent-d);font-weight:700}
-.evi li{margin:.3em 0}
-.evi .src{display:inline-block;background:var(--accent);color:#fff;font-size:.7rem;
-  border-radius:5px;padding:1px 7px;margin-right:6px}
-.faq details{border:1px solid var(--line);border-radius:12px;padding:2px 14px;margin:.5em 0;background:#fff}
-.faq summary{cursor:pointer;font-weight:800;padding:10px 0}
-.faq p{margin:0 0 12px;color:#5b524c}
-.cta{text-align:center;margin-top:2em;background:var(--soft);border:1px solid #ffe7e1;
-  border-radius:18px;padding:22px 16px}
-.cta .pre{font-weight:800;margin:0 0 10px}
-.btn{display:inline-block;background:linear-gradient(135deg,var(--accent),var(--accent-d));
-  color:#fff;font-weight:900;font-size:1.12rem;padding:16px 30px;border-radius:40px;
-  text-decoration:none;box-shadow:0 8px 20px rgba(232,88,78,.32)}
-.cta .sub-link{display:block;margin-top:12px}
-.cta .sub-link a{color:var(--accent-d);font-weight:700;font-size:.9rem}
-.note{font-size:.75rem;color:var(--sub);margin-top:1em}
-.tags{font-size:.82rem;color:#b7a99f;margin-top:.8em}
-.related .card{margin:10px 0}
-.credits{margin-top:2.4em;padding-top:1em;border-top:1px solid var(--line)}
-.credits h3{font-size:.82rem;color:var(--sub);font-weight:700;margin:0 0 .4em}
+.voices{list-style:none;padding:0;margin:.6em 0 .3em;display:flex;flex-direction:column;gap:0}
+.voices li{background:transparent;border:0;border-bottom:1px solid var(--line);border-radius:0;padding:13px 2px}
+.voices li:last-child{border-bottom:0}
+.voices .vt{display:inline-block;background:transparent;color:var(--terra-d);border:1px solid #e6d3c9;
+  font-size:.7rem;font-weight:700;letter-spacing:.04em;border-radius:999px;padding:2px 10px;margin-right:10px;vertical-align:1px}
+.voices .vx{font-size:.95rem;color:var(--ink-2);line-height:1.8}
+.cross{background:var(--paper-2);border:1px solid var(--line);border-radius:var(--radius-s);padding:14px 16px;margin:10px 0 2px}
+.cross .cl{font-size:.82rem;font-weight:700;color:var(--sub);margin-bottom:8px}
+
+/* 「子供にうれしい / パパママにうれしい」ポイント */
+.pt{border:0;border-left:2px solid var(--line-2);border-radius:0;padding:2px 0 2px 16px;margin:.7em 0;background:transparent}
+.pt-t{font-family:'Hiragino Mincho ProN','Yu Mincho',serif;font-weight:600;font-size:1.06rem;color:var(--ink)}
+.pt-b{color:var(--ink-2);margin-top:.25em;font-size:.95rem}
+.textlink{margin:.4em 0 1.5em}
+.textlink a{color:var(--terra-d);font-weight:600;text-decoration:none;font-size:.95rem;
+  border-bottom:1px solid #e6d3c9;padding-bottom:1px}
+.textlink a:hover{border-bottom-color:var(--terra)}
+.amb-t{color:var(--ink-2);font-size:.95rem;margin:.4em 0 1.3em}
+.chips-fac{display:flex;flex-wrap:wrap;gap:8px;margin:.6em 0 1.3em}
+.chip{background:transparent;border:1px solid var(--line-2);color:var(--ink-2);
+  border-radius:999px;padding:6px 14px;font-size:.86rem;font-weight:500}
+
+/* 子連れ目線の評価（カテゴリ別バー＝集合知の可視化） */
+.scores{margin:.7em 0;padding:4px 0}
+.bar{display:flex;align-items:center;gap:12px;margin:.6em 0}
+.bar .lab{width:3.5em;font-size:.88rem;color:var(--ink-2);font-weight:600}
+.bar .track{flex:1;height:7px;background:var(--paper-2);border-radius:999px;overflow:hidden}
+.bar .fill{display:block;height:100%;background:var(--pine);border-radius:999px}
+.bar .num{width:2.8em;text-align:right;font-weight:700;font-size:.9rem;color:var(--ink);
+  font-variant-numeric:tabular-nums}
+
+.rev{background:transparent;border-left:3px solid var(--terra);margin:1em 0;
+  padding:6px 0 6px 18px;border-radius:0;font-size:1.04rem;color:var(--ink);line-height:1.9;
+  font-family:'Hiragino Mincho ProN','Yu Mincho',serif}
+.rev cite{display:block;color:var(--sub);font-size:.8rem;font-style:normal;margin-top:.6em;
+  font-family:-apple-system,'Hiragino Sans',sans-serif}
+.evi{margin:1.2em 0;font-size:.9rem;color:var(--ink-2)}
+.evi summary{cursor:pointer;color:var(--terra-d);font-weight:600}
+.evi li{margin:.35em 0}
+.evi .src{display:inline-block;background:var(--pine);color:#fff;font-size:.68rem;
+  border-radius:4px;padding:1px 7px;margin-right:7px;letter-spacing:.04em}
+
+.faq details{border:0;border-bottom:1px solid var(--line);border-radius:0;padding:2px 0;margin:0;background:transparent}
+.faq summary{cursor:pointer;font-weight:600;padding:14px 0;font-size:.98rem}
+.faq p{margin:0 0 14px;color:var(--ink-2)}
+
+/* ---- CTA ---- */
+.cta{text-align:center;margin-top:2.4em;background:var(--paper-2);border:1px solid var(--line);
+  border-radius:var(--radius);padding:28px 20px}
+.cta .pre{font-family:'Hiragino Mincho ProN','Yu Mincho',serif;font-weight:600;font-size:1.04rem;margin:0 0 16px;color:var(--ink)}
+.btn{display:inline-block;background:var(--terra);color:#fff;font-weight:700;font-size:1.06rem;
+  padding:15px 34px;border-radius:999px;text-decoration:none;letter-spacing:.02em;
+  transition:background .15s}
+.btn:hover{background:var(--terra-d)}
+.cta .sub-link{display:block;margin-top:14px}
+.cta .sub-link a{color:var(--terra-d);font-weight:600;font-size:.9rem;text-decoration:none;
+  border-bottom:1px solid #e6d3c9;padding-bottom:1px}
+.note{font-size:.74rem;color:var(--sub);margin-top:1.2em}
+.tags{font-size:.8rem;color:#b7a99f;margin-top:1em;letter-spacing:.02em}
+.related{margin-top:0}
+.related .card{margin:14px 0}
+.credits{margin-top:2.6em;padding-top:1.2em;border-top:1px solid var(--line)}
+.credits h3{font-size:.8rem;color:var(--sub);font-weight:700;margin:0 0 .5em;letter-spacing:.04em}
 .credits ul{list-style:none;padding:0;margin:0}
-.credits li{font-size:.72rem;color:#a99e96;line-height:1.5}
+.credits li{font-size:.72rem;color:#a99e96;line-height:1.6}
 .credits a{color:#a99e96}
 
 /* ---- sticky booking bar (mobile conversion) ---- */
-.sticky-cta{position:fixed;left:0;right:0;bottom:0;z-index:30;background:rgba(255,255,255,.97);
-  backdrop-filter:blur(8px);border-top:1px solid var(--line);box-shadow:0 -4px 18px rgba(120,90,70,.12)}
-.sticky-cta .in{max-width:680px;margin:0 auto;padding:10px 16px;display:flex;align-items:center;gap:12px}
-.sc-info{display:flex;flex-direction:column;line-height:1.2}
-.sc-rate{color:var(--sun);font-weight:900;font-size:1.05rem}
-.sc-price{color:var(--accent-d);font-weight:800;font-size:.82rem}
-.sc-btn{margin-left:auto;background:linear-gradient(135deg,var(--accent),var(--accent-d));
-  color:#fff;font-weight:900;font-size:1rem;padding:13px 26px;border-radius:30px;text-decoration:none;
-  box-shadow:0 6px 16px rgba(232,88,78,.3);white-space:nowrap}
-body:has(.sticky-cta){padding-bottom:74px}
+.sticky-cta{position:fixed;left:0;right:0;bottom:0;z-index:30;background:rgba(250,247,242,.97);
+  backdrop-filter:blur(8px);border-top:1px solid var(--line-2)}
+.sticky-cta .in{max-width:700px;margin:0 auto;padding:11px 18px;display:flex;align-items:center;gap:14px}
+.sc-info{display:flex;flex-direction:column;line-height:1.25}
+.sc-rate{font-family:'Hiragino Mincho ProN','Yu Mincho',serif;color:var(--ink);font-weight:700;font-size:1.1rem;font-variant-numeric:tabular-nums}
+.sc-rate .star{color:var(--gold);font-size:.82rem}
+.sc-price{color:var(--sub);font-weight:500;font-size:.8rem;font-variant-numeric:tabular-nums}
+.sc-btn{margin-left:auto;background:var(--terra);color:#fff;font-weight:700;font-size:1rem;
+  padding:13px 28px;border-radius:999px;text-decoration:none;white-space:nowrap;transition:background .15s}
+.sc-btn:hover{background:var(--terra-d)}
+body:has(.sticky-cta){padding-bottom:76px}

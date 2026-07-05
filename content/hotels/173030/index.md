@@ -19,7 +19,7 @@ reviewCount: 838
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "ダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲ", "item": "https://kozureyado-navi.com/hotels/173030/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "ダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲの夕食は館内のお食事処でいただけます。食事の口コミ評価は★4.43です。口コミには「朝食のフレンチトーストはとても美味しく子供も喜んでいました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "ダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲは子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "府京都市にあるダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲは、楽天トラベルの口コミ838件で総合★4.55。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
 <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/京都/">京都</a> <span>›</span> 府京都市</nav>
 <header class="hero">
-<figure class="ph"><img width="300" height="169" src="https://img.travel.rakuten.co.jp/HIMG/300/173030.jpg" alt="ダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲの外観（府京都市の子連れ向け宿）" loading="eager" fetchpriority="high"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D173030" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
+<figure class="ph"><img width="300" height="169" src="https://img.travel.rakuten.co.jp/HIMG/300/173030.jpg" alt="ダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲの外観（府京都市の子連れ向け宿）" loading="eager" fetchpriority="high"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D173030" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>ダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲ｜府京都市の子連れにやさしい宿</h1>
 <p class="meta">京都府京都市南区東九条東山王町14-1 ・ 1泊 6,175円〜</p>
 <p class="rating">★4.55 <span>（楽天トラベル 口コミ838件）</span></p>
@@ -29,12 +29,12 @@ reviewCount: 838
 
 <p class="intro">ダイワロイネットホテル京都テラス八条　ＰＲＥＭＩＥＲは、府京都市にある総合★4.55（楽天トラベルの口コミ838件）の宿です。子連れ・赤ちゃん連れのご家族からは、「お部屋が広くてのびのび」・「子連れに優しい接客」といった点が口コミで支持されています。このページでは、楽天トラベルの口コミから子連れ目線のポイントをまとめました（1泊 6,175円〜）。</p>
 
-<div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
+<div class="safe"><div class="s"><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
 <h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">お部屋</span><span class="rx">「サービスもよく、たまたまでしたが、新幹線が見えるお部屋で子供は喜んでました」</span></div><div class="reason"><span class="rt">接客</span><span class="rx">「子連れで利用したが、対応、サービスが悪くガッカリした」</span></div><div class="reason"><span class="rt">設備</span><span class="rx">「受付のお姉さんが、子ども達に貸出用品の絵本を勧めて下さったり、アメニティの案内など大変丁寧で分かりやすかったです」</span></div><div class="reason"><span class="rt">お風呂</span><span class="rx">「子供がいるのでお風呂とお手洗いが別なのも助かります」</span></div><div class="reason"><span class="rt">子連れ歓迎</span><span class="rx">「京都駅からも近く、子連れにはとても便利でした」</span></div><div class="reason"><span class="rt">食事</span><span class="rx">「朝食のフレンチトーストはとても美味しく子供も喜んでいました」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
 
-<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 お部屋が広くてのびのび</div><div class="pt-b">端から端まで動き回れる広さで、子供ものびのび</div></div>
-<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 子連れに優しい接客</div><div class="pt-b">口コミでも子連れへの心配りが高評価</div></div>
+<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">お部屋が広くてのびのび</div><div class="pt-b">端から端まで動き回れる広さで、子供ものびのび</div></div>
+<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">子連れに優しい接客</div><div class="pt-b">口コミでも子連れへの心配りが高評価</div></div>
 <details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">口コミ</span>上のフロアかな、子供が部屋を走り回ってたんでしょうけど、ドタバタうるさかった</li><li><span class="src">公式</span>総合★4.55（838件）</li></ul></details>
 
 

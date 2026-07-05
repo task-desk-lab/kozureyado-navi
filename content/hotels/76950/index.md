@@ -19,7 +19,7 @@ reviewCount: 81
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "池田屋旅館", "item": "https://kozureyado-navi.com/hotels/76950/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "池田屋旅館の夕食は食事処・食堂でいただけます。食事の口コミ評価は★4.86です。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "池田屋旅館には家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "池田屋旅館は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "氷見市にある池田屋旅館は、楽天トラベルの口コミ81件で総合★4.66。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
 <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/富山県/">富山県</a> <span>›</span> 氷見市</nav>
 <header class="hero">
-<figure class="ph"><img width="300" height="169" src="https://img.travel.rakuten.co.jp/HIMG/300/76950.jpg" alt="池田屋旅館の外観（氷見市の子連れ向け宿）" loading="eager" fetchpriority="high"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D76950" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
+<figure class="ph"><img width="300" height="169" src="https://img.travel.rakuten.co.jp/HIMG/300/76950.jpg" alt="池田屋旅館の外観（氷見市の子連れ向け宿）" loading="eager" fetchpriority="high"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D76950" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>池田屋旅館｜氷見市の子連れにやさしい宿</h1>
 <p class="meta">富山県氷見市北大町7-10 ・ 1泊 5,900円〜</p>
 <p class="rating">★4.66 <span>（楽天トラベル 口コミ81件）</span></p>
@@ -29,15 +29,15 @@ reviewCount: 81
 
 <p class="intro">池田屋旅館は、氷見市にある総合★4.66（楽天トラベルの口コミ81件）の宿です。子連れ・赤ちゃん連れのご家族からは、「ゆったりした客室」・「貸切・家族風呂」といった点が口コミで支持されています。このページでは、楽天トラベルの口コミから子連れ目線のポイントをまとめました（1泊 5,900円〜）。</p>
 
-<div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">○ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
+<div class="safe"><div class="s"><div class="t">○ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
 
 
-<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 ゆったりした客室</div><div class="pt-b">お部屋が広くて、子供ものびのび過ごせる</div></div>
-<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 貸切・家族風呂</div><div class="pt-b">人目を気にせず、子供と一緒にゆっくり入れる</div></div>
+<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">ゆったりした客室</div><div class="pt-b">お部屋が広くて、子供ものびのび過ごせる</div></div>
+<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">貸切・家族風呂</div><div class="pt-b">人目を気にせず、子供と一緒にゆっくり入れる</div></div>
 <details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">公式</span>総合★4.66（81件）</li><li><span class="src">公式</span>公式: 風呂種別に家族風呂あり</li></ul></details>
 
-<h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76950/76950_ru.jpg" alt="池田屋旅館の客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D76950" target="_blank" rel="nofollow sponsored">▶ 客室つきプランを見る（楽天トラベルで見る）</a></p>
+<h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76950/76950_ru.jpg" alt="池田屋旅館の客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D76950" target="_blank" rel="nofollow sponsored">客室つきプランを見る（楽天トラベルで見る）</a></p>
 
 <h2>お食事</h2><figure class="ph"><img width="720" height="540" src="meal_kaisen.jpg" alt="お食事イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">夕食は食事処・食堂で。食事の口コミ評価は★4.86</p>
 <h2>お風呂</h2><figure class="ph"><img width="720" height="480" src="bath_rotenburo.jpg" alt="お風呂イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">家族風呂など。お風呂の口コミ評価は★3.83</p>

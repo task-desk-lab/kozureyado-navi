@@ -12,9 +12,9 @@
   </div>
   <div class="cb">
     <div class="ct">{{ .Params.hotelName }}</div>
-    <div class="rate">★{{ .Params.ratingValue }} <span class="cnt">口コミ{{ .Params.reviewCount }}件</span></div>
-    <div class="area">📍 {{ .Params.areaShort }}</div>
+    <div class="rate"><span class="star">★</span><span class="v tnum">{{ .Params.ratingValue }}</span> <span class="cnt">口コミ{{ .Params.reviewCount }}件</span></div>
+    <div class="area">{{ .Params.areaShort }}</div>
     {{ with .Params.purposes }}<div class="badges">{{ range first 3 . }}<span class="badge">{{ . }}</span>{{ end }}</div>{{ end }}
-    {{ with .Params.facilities }}<div class="fac">{{ delimit . "　" }}</div>{{ end }}
+    {{ with .Params.facilities }}<div class="fac">{{ delimit (apply . "replaceRE" "[\\x{1F000}-\\x{1FAFF}\\x{2600}-\\x{27BF}\\x{2190}-\\x{21FF}\\x{2B00}-\\x{2BFF}\\x{FE0F}]" "" ".") "・" }}</div>{{ end }}
   </div>
 </a>

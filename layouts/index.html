@@ -17,13 +17,13 @@
 
 <div class="wrap">
   <div class="how">
-    <div class="step"><div class="ic">💬</div><div class="t">口コミを集約</div><div class="d">楽天トラベルの声を宿ごとに分析</div></div>
-    <div class="step"><div class="ic">👶</div><div class="t">子連れ目線で評価</div><div class="d">子供・パパママに嬉しい点を抽出</div></div>
-    <div class="step"><div class="ic">✈️</div><div class="t">そのまま予約</div><div class="d">気になった宿は楽天トラベルへ</div></div>
+    <div class="step"><div class="t">口コミを集約</div><div class="d">楽天トラベルの声を宿ごとに分析</div></div>
+    <div class="step"><div class="t">子連れ目線で評価</div><div class="d">子供・パパママに嬉しい点を抽出</div></div>
+    <div class="step"><div class="t">そのまま予約</div><div class="d">気になった宿は楽天トラベルへ</div></div>
   </div>
 
   {{ with .Site.Taxonomies.purposes }}
-  <h2 class="sec-h"><span class="em">🎯</span>目的から探す</h2>
+  <h2 class="sec-h">目的から探す</h2>
   <div class="chips">
     {{ range $name, $taxo := . }}<a class="fchip" href="{{ $taxo.Page.RelPermalink }}">{{ $name }} <b>{{ len $taxo.Pages }}</b></a>{{ end }}
   </div>
@@ -31,7 +31,7 @@
 
   {{ $areas := .Site.Taxonomies.areas }}
   {{ if $areas }}
-  <h2 class="sec-h"><span class="em">📍</span>エリアから探す</h2>
+  <h2 class="sec-h">エリアから探す</h2>
   {{ range hugo.Data.regions }}
     {{ $region := . }}
     {{ $present := slice }}
@@ -47,7 +47,7 @@
   {{ end }}
   {{ end }}
 
-  <h2 class="sec-h"><span class="em">🏨</span>口コミが多い人気の子連れ宿</h2>
+  <h2 class="sec-h">口コミが多い人気の子連れ宿</h2>
 </div>
 <div class="list">
   {{ range $i, $h := first 12 (sort $hotels "Params.reviewCount" "desc") }}{{ $h.Store.Set "eagerImg" (lt $i 2) }}{{ partial "hotel-card.html" $h }}{{ end }}

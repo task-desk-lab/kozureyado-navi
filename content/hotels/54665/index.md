@@ -19,7 +19,7 @@ reviewCount: 711
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "熱海温泉　さくらや旅館", "item": "https://kozureyado-navi.com/hotels/54665/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "熱海温泉　さくらや旅館の夕食はお部屋（部屋食）・食事処でいただけます。食事の口コミ評価は★4.63です。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "熱海温泉　さくらや旅館には大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "熱海温泉　さくらや旅館は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "熱海市にある熱海温泉　さくらや旅館は、楽天トラベルの口コミ711件で総合★4.46。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
 <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/静岡県/">静岡県</a> <span>›</span> 熱海市</nav>
 <header class="hero">
-<figure class="ph"><img width="300" height="169" src="https://img.travel.rakuten.co.jp/HIMG/300/54665.jpg" alt="熱海温泉　さくらや旅館の外観（熱海市の子連れ向け宿）" loading="eager" fetchpriority="high"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D54665" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
+<figure class="ph"><img width="300" height="169" src="https://img.travel.rakuten.co.jp/HIMG/300/54665.jpg" alt="熱海温泉　さくらや旅館の外観（熱海市の子連れ向け宿）" loading="eager" fetchpriority="high"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D54665" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>熱海温泉　さくらや旅館｜熱海市の子連れにやさしい宿</h1>
 <p class="meta">静岡県熱海市東海岸町9-11 ・ 1泊 18,150円〜</p>
 <p class="rating">★4.46 <span>（楽天トラベル 口コミ711件）</span></p>
@@ -29,15 +29,15 @@ reviewCount: 711
 
 <p class="intro">熱海温泉　さくらや旅館は、熱海市にある総合★4.46（楽天トラベルの口コミ711件）の宿です。子連れ・赤ちゃん連れのご家族からは、「ゆったりした客室」・「お部屋・個室で部屋食」といった点が口コミで支持されています。このページでは、楽天トラベルの口コミから子連れ目線のポイントをまとめました（1泊 18,150円〜）。</p>
 
-<div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">○ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
+<div class="safe"><div class="s"><div class="t">○ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
 <h2>口コミでわかる、子連れにおすすめな理由</h2><div class="reasons"><div class="reason"><span class="rt">接客</span><span class="rx">「赤ちゃん(11ヶ月)と行く旅行が初めてで不安でしたが、従業員の方が優しく心置きなく楽しめました」</span></div></div><p class="reason-src">— 楽天トラベルの口コミより（実際に泊まったご家族の声）</p>
 
-<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 ゆったりした客室</div><div class="pt-b">お部屋が広くて、子供ものびのび過ごせる</div></div>
-<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ お部屋・個室で部屋食</div><div class="pt-b">人目を気にせず、子供を見ながらゆっくり食べられる</div></div>
+<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">ゆったりした客室</div><div class="pt-b">お部屋が広くて、子供ものびのび過ごせる</div></div>
+<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">お部屋・個室で部屋食</div><div class="pt-b">人目を気にせず、子供を見ながらゆっくり食べられる</div></div>
 <details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">公式</span>総合★4.46（711件）</li><li><span class="src">公式</span>公式: 夕食/朝食=部屋・個室（部屋食）</li></ul></details>
 
-<h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54665/54665_k1.jpg" alt="熱海温泉　さくらや旅館の客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D54665" target="_blank" rel="nofollow sponsored">▶ 客室つきプランを見る（楽天トラベルで見る）</a></p>
+<h2>お部屋</h2><figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54665/54665_k1.jpg" alt="熱海温泉　さくらや旅館の客室（子連れにうれしい広さ）" loading="lazy"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D54665" target="_blank" rel="nofollow sponsored">客室つきプランを見る（楽天トラベルで見る）</a></p>
 
 <h2>お食事</h2><figure class="ph"><img width="720" height="540" src="meal_kaisen.jpg" alt="お食事イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">夕食はお部屋（部屋食）・食事処で。食事の口コミ評価は★4.63</p>
 <h2>お風呂</h2><figure class="ph"><img width="720" height="480" src="bath_rotenburo.jpg" alt="お風呂イメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure><p class="amb-t">大浴場・露天風呂・サウナ・天然温泉など。お風呂の口コミ評価は★4.27</p>

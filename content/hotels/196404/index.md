@@ -19,7 +19,7 @@ reviewCount: 65
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "ＨＯＴＥＬ星取テラスせきがね", "item": "https://kozureyado-navi.com/hotels/196404/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "ＨＯＴＥＬ星取テラスせきがねの夕食は館内のお食事処でいただけます。食事の口コミ評価は★4.81です。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "ＨＯＴＥＬ星取テラスせきがねには大浴場・露天風呂・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "ＨＯＴＥＬ星取テラスせきがねは子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "倉吉市にあるＨＯＴＥＬ星取テラスせきがねは、楽天トラベルの口コミ65件で総合★4.62。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
 <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/鳥取県/">鳥取県</a> <span>›</span> 倉吉市</nav>
 <header class="hero">
-<figure class="ph"><img width="300" height="169" src="https://img.travel.rakuten.co.jp/HIMG/300/196404.jpg" alt="ＨＯＴＥＬ星取テラスせきがねの外観（倉吉市の子連れ向け宿）" loading="eager" fetchpriority="high"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D196404" target="_blank" rel="nofollow sponsored">▶ この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
+<figure class="ph"><img width="300" height="169" src="https://img.travel.rakuten.co.jp/HIMG/300/196404.jpg" alt="ＨＯＴＥＬ星取テラスせきがねの外観（倉吉市の子連れ向け宿）" loading="eager" fetchpriority="high"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D196404" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>ＨＯＴＥＬ星取テラスせきがね｜倉吉市の子連れにやさしい宿</h1>
 <p class="meta">鳥取県倉吉市関金宿1397-3 ・ 1泊 3,630円〜</p>
 <p class="rating">★4.62 <span>（楽天トラベル 口コミ65件）</span></p>
@@ -29,12 +29,12 @@ reviewCount: 65
 
 <p class="intro">ＨＯＴＥＬ星取テラスせきがねは、倉吉市にある総合★4.62（楽天トラベルの口コミ65件）の宿です。子連れ・赤ちゃん連れのご家族からは、「ゆったりした客室」・「貸切・家族風呂」といった点が口コミで支持されています。このページでは、楽天トラベルの口コミから子連れ目線のポイントをまとめました（1泊 3,630円〜）。</p>
 
-<div class="safe"><div class="s"><div class="ic">🍼</div><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="ic">🛡️</div><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="ic">🍚</div><div class="t">○ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
+<div class="safe"><div class="s"><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="t">○ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
 
 
-<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">👶 ゆったりした客室</div><div class="pt-b">お部屋が広くて、子供ものびのび過ごせる</div></div>
-<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">☺️ 貸切・家族風呂</div><div class="pt-b">人目を気にせず、子供と一緒にゆっくり入れる</div></div>
+<h2>この宿、子供にうれしい</h2><div class="pt"><div class="pt-t">ゆったりした客室</div><div class="pt-b">お部屋が広くて、子供ものびのび過ごせる</div></div>
+<h2>パパママにうれしい</h2><div class="pt"><div class="pt-t">貸切・家族風呂</div><div class="pt-b">人目を気にせず、子供と一緒にゆっくり入れる</div></div>
 <details class="evi"><summary>この宿の「子連れにいい」の根拠（口コミ・公式情報）</summary><ul><li><span class="src">公式</span>総合★4.62（65件）</li><li><span class="src">公式</span>公式: 風呂種別に家族風呂あり</li></ul></details>
 
 
