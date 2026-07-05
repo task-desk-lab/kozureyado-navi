@@ -1,12 +1,13 @@
 <a class="card" href="{{ .RelPermalink }}">
   <div class="ph">
     {{ with .Params.ogImage }}
-      {{- /* Use Rakuten's HIMG/300 thumbnail (≈20KB, 300x169) instead of the
-             full share image (up to 2MB). Stays hotlinked to Rakuten's CDN. */ -}}
+      {{- /* Serve the full-res share image (crisp on retina) with a srcset so
+             low-DPR / save-data clients can fall back to the light HIMG/300
+             thumbnail. Off-screen cards stay lazy. Stays hotlinked to Rakuten. */ -}}
       {{- $no := replaceRE `.*/HOTEL/([0-9]+)/.*` `$1` . -}}
-      {{- $src := cond (ne $no .) (printf "https://img.travel.rakuten.co.jp/HIMG/300/%s.jpg" $no) . -}}
+      {{- $thumb := cond (ne $no .) (printf "https://img.travel.rakuten.co.jp/HIMG/300/%s.jpg" $no) . -}}
       {{- $eager := $.Store.Get "eagerImg" -}}
-      <img src="{{ $src }}" alt="{{ $.Param "hotelName" }}" width="300" height="169" decoding="async" {{ if $eager }}loading="eager" fetchpriority="high"{{ else }}loading="lazy"{{ end }}>
+      <img src="{{ . }}" srcset="{{ $thumb }} 300w, {{ . }} 1280w" sizes="(min-width:740px) 680px, 100vw" alt="{{ $.Param "hotelName" }}" decoding="async" {{ if $eager }}loading="eager" fetchpriority="high"{{ else }}loading="lazy"{{ end }}>
     {{ end }}
     {{ if gt (.Param "priceFrom" | default 0) 0 }}<span class="price">1泊 {{ lang.FormatNumber 0 .Params.priceFrom }}円〜</span>{{ end }}
   </div>
