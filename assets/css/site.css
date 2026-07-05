@@ -133,7 +133,8 @@ article h2{font-family:'Hiragino Mincho ProN','Yu Mincho',YuMincho,'Noto Serif J
 .crumb a{color:var(--sub);text-decoration:none}
 .crumb a:hover{color:var(--terra-d)}
 .crumb span{color:#cbbfb2;margin:0 6px}
-.hero{margin:0 -20px}
+.hero{margin:0}
+.hero .ph{margin:0 -20px .5em}/* 画像だけ全幅ブリード。見出し等はarticleの左右paddingを維持 */
 .hero .ph img{width:100%;height:auto;aspect-ratio:16/9;max-height:60vh;object-fit:cover;display:block;background:var(--paper-2)}
 .ph{margin:0 0 .4em}
 .ph img{width:100%;display:block;border-radius:var(--radius-s)}
