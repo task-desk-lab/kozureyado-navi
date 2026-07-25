@@ -14,4 +14,21 @@
   <a class="fchip area" href="/areas/{{ $a }}/">{{ $a }}の宿をすべて見る</a>
   <a class="fchip" href="/purposes/{{ $p }}/">{{ $p }}の宿をすべて見る</a>
 </div></div>
+
+{{/* 兄弟comboへの横リンク（クロール導線の密化・noindexは除外） */}}
+{{ $combos := where (where .Site.RegularPages "Section" "combos") "Params.noindex" "!=" true }}
+{{ $sameArea := first 8 (sort (where (where $combos "Params.comboArea" $a) "Params.comboPurpose" "!=" $p) "Params.hotelCount" "desc") }}
+{{ $samePurpose := first 8 (sort (where (where $combos "Params.comboPurpose" $p) "Params.comboArea" "!=" $a) "Params.hotelCount" "desc") }}
+{{ if or $sameArea $samePurpose }}
+<div class="wrap"><div class="cross">
+  {{ with $sameArea }}
+  <div class="cl">{{ $a }}を別の目的で探す</div>
+  <div class="chips">{{ range . }}<a class="fchip" href="{{ .RelPermalink }}">{{ .Params.comboPurpose }} <b>{{ .Params.hotelCount }}</b></a>{{ end }}</div>
+  {{ end }}
+  {{ with $samePurpose }}
+  <div class="cl"{{ if $sameArea }} style="margin-top:12px"{{ end }}>{{ $p }}を別のエリアで探す</div>
+  <div class="chips scroll">{{ range . }}<a class="fchip area" href="{{ .RelPermalink }}">{{ .Params.comboArea }} <b>{{ .Params.hotelCount }}</b></a>{{ end }}</div>
+  {{ end }}
+</div></div>
+{{ end }}
 {{ end }}

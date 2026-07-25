@@ -11,13 +11,49 @@
   <a class="sc-btn" href="{{ .Params.affUrl }}" target="_blank" rel="nofollow sponsored">空室・料金を見る</a>
 </div></div>
 {{ end }}
-{{ with .Params.areas }}
-{{ $area := index . 0 }}
-{{ $rel := where (where $.Site.RegularPages "Section" "hotels") "Permalink" "!=" $.Permalink }}
-{{ $rel = where $rel "Params.areas" "intersect" (slice $area) }}
-{{ with first 3 $rel }}
-<div class="wrap"><h2 class="sec-h">{{ $area }}の子連れ宿をもっと見る</h2></div>
-<div class="list related">{{ range . }}{{ partial "hotel-card.html" . }}{{ end }}</div>
+{{ if eq .Section "hotels" }}
+{{ $others := where (where .Site.RegularPages "Section" "hotels") "Permalink" "!=" .Permalink }}
+{{ $area := "" }}{{ with .Params.areas }}{{ $area = index . 0 }}{{ end }}
+
+{{/* 同じエリアの宿（カード3件・口コミ数順） */}}
+{{ $areaRel := slice }}
+{{ if $area }}
+  {{ $areaRel = first 3 (sort (where $others "Params.areas" "intersect" (slice $area)) "Params.reviewCount" "desc") }}
+  {{ with $areaRel }}
+  <div class="wrap"><h2 class="sec-h">{{ $area }}の子連れ宿をもっと見る</h2></div>
+  <div class="list related">{{ range . }}{{ partial "hotel-card.html" . }}{{ end }}</div>
+  {{ end }}
 {{ end }}
+
+{{/* 同じ目的の宿（テキストリンク最大6件・エリア関連と重複除外） */}}
+{{ with .Params.purposes }}
+{{ $purpose := index . 0 }}
+{{ $shown := slice }}{{ range $areaRel }}{{ $shown = $shown | append .Permalink }}{{ end }}
+{{ $pRel := where $others "Params.purposes" "intersect" (slice $purpose) }}
+{{ if $shown }}{{ $pRel = where $pRel "Permalink" "not in" $shown }}{{ end }}
+{{ with first 6 (sort $pRel "Params.reviewCount" "desc") }}
+<div class="wrap">
+  <h2 class="sec-h">{{ $purpose }}が人気の宿もチェック</h2>
+  <ul class="rel-list">
+    {{ range . }}<li><a href="{{ .RelPermalink }}">{{ .Params.hotelName }}</a><span class="rm">{{ .Params.areaShort }}・★{{ .Params.ratingValue }}（{{ .Params.reviewCount }}件）</span></li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}
+{{ end }}
+
+{{/* 条件を変えて探す（エリア/目的term・該当comboへのハブリンク） */}}
+{{ $combos := where (where .Site.RegularPages "Section" "combos") "Params.noindex" "!=" true }}
+<div class="wrap"><div class="cross"><div class="cl">条件を変えて探す</div>
+  <div class="chips">
+    {{ if $area }}{{ with .Site.GetPage (printf "/areas/%s" $area) }}<a class="fchip area" href="{{ .RelPermalink }}">{{ $area }}の子連れ宿</a>{{ end }}{{ end }}
+    {{ range .Params.purposes }}
+      {{ $p := . }}
+      {{ with $.Site.GetPage (printf "/purposes/%s" $p) }}<a class="fchip" href="{{ .RelPermalink }}">{{ $p }}の宿</a>{{ end }}
+      {{ if $area }}{{ with index (where (where $combos "Params.comboArea" $area) "Params.comboPurpose" $p) 0 }}<a class="fchip" href="{{ .RelPermalink }}">{{ $area }}×{{ $p }}</a>{{ end }}{{ end }}
+    {{ end }}
+    <a class="fchip" href="{{ "/hotels/" | relURL }}">すべての宿</a>
+  </div>
+</div></div>
 {{ end }}
 {{ end }}
