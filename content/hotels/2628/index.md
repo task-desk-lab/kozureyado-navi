@@ -1,6 +1,6 @@
 ---
-title: "四万温泉　源泉掛け流しの貸切風呂と囲炉裏料理宿　湯の宿　山ばと 子連れ宿の口コミ・評判【2026】"
-description: "四万温泉　源泉掛け流しの貸切風呂と囲炉裏料理宿　湯の宿　山ばと（中之条町）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ226件・★4.56から、「赤ちゃんグッズが充実」など子供にうれしいポイント、設備・お食事・お風呂をまとめました"
+title: "湯の宿 山ばと（四万温泉）子連れ宿の口コミ・評判【2026】"
+description: "四万温泉の湯の宿 山ばと（中之条町・源泉掛け流しの貸切風呂と囲炉裏料理宿）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ226件・★4.56から、「赤ちゃんグッズが充実」など子供にうれしいポイント、設備・お食事・お風呂をまとめました"
 date: "2026-06-26"
 hotelNo: 2628
 hotelName: "四万温泉　源泉掛け流しの貸切風呂と囲炉裏料理宿　湯の宿　山ばと"
@@ -20,7 +20,7 @@ reviewCount: 226
 <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/群馬県/">群馬県</a> <span>›</span> 中之条町</nav>
 <header class="hero">
 <figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2628/2628.jpg" srcset="https://img.travel.rakuten.co.jp/HIMG/300/2628.jpg 300w, https://img.travel.rakuten.co.jp/share/HOTEL/2628/2628.jpg 1280w" sizes="100vw" alt="四万温泉　源泉掛け流しの貸切風呂と囲炉裏料理宿　湯の宿　山ばとの外観（中之条町の子連れ向け宿）" loading="eager" fetchpriority="high"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D2628" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
-<h1>四万温泉　源泉掛け流しの貸切風呂と囲炉裏料理宿　湯の宿　山ばと｜中之条町の子連れにやさしい宿</h1>
+<h1>湯の宿 山ばと（四万温泉）｜中之条町の子連れにやさしい宿</h1>
 <p class="meta">群馬県吾妻郡中之条町四万4358-11 ・ 1泊 12,000円〜</p>
 <p class="rating">★4.56 <span>（楽天トラベル 口コミ226件）</span></p>
 </header>

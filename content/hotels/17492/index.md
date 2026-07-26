@@ -1,5 +1,5 @@
 ---
-title: "美作三湯　湯郷温泉　季譜の里 子連れ宿の口コミ・評判【2026】"
+title: "美作三湯 湯郷温泉 季譜の里 子連れ宿の口コミ・評判【2026】"
 description: "美作三湯　湯郷温泉　季譜の里（美作市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ744件・★4.65から、「赤ちゃんグッズが充実」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
 date: "2026-06-26"
 hotelNo: 17492
@@ -20,7 +20,7 @@ reviewCount: 744
 <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/岡山県/">岡山県</a> <span>›</span> 美作市</nav>
 <header class="hero">
 <figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17492/17492.jpg" srcset="https://img.travel.rakuten.co.jp/HIMG/300/17492.jpg 300w, https://img.travel.rakuten.co.jp/share/HOTEL/17492/17492.jpg 1280w" sizes="100vw" alt="美作三湯　湯郷温泉　季譜の里の外観（美作市の子連れ向け宿）" loading="eager" fetchpriority="high"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D17492" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
-<h1>美作三湯　湯郷温泉　季譜の里｜美作市の子連れにやさしい宿</h1>
+<h1>美作三湯 湯郷温泉 季譜の里｜美作市の子連れにやさしい宿</h1>
 <p class="meta">岡山県美作市湯郷180 ・ 1泊 14,206円〜</p>
 <p class="rating">★4.65 <span>（楽天トラベル 口コミ744件）</span></p>
 </header>

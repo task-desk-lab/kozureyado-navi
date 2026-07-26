@@ -1,6 +1,6 @@
 ---
-title: "あてま温泉　当間高原リゾート　ベルナティオ 子連れ宿の口コミ・評判【2026】"
-description: "あてま温泉　当間高原リゾート　ベルナティオ（十日町）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ4113件・★4.73から、「赤ちゃんグッズが充実」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
+title: "あてま高原リゾート ベルナティオ 子連れ宿の口コミ・評判【2026】"
+description: "あてま高原リゾート ベルナティオ（あてま温泉・十日町）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ4113件・★4.73から、「赤ちゃんグッズが充実」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
 date: "2026-06-26"
 hotelNo: 13487
 hotelName: "あてま温泉　当間高原リゾート　ベルナティオ"
@@ -20,7 +20,7 @@ reviewCount: 4113
 <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/新潟県/">新潟県</a> <span>›</span> 十日町</nav>
 <header class="hero">
 <figure class="ph"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13487/13487.jpg" srcset="https://img.travel.rakuten.co.jp/HIMG/300/13487.jpg 300w, https://img.travel.rakuten.co.jp/share/HOTEL/13487/13487.jpg 1280w" sizes="100vw" alt="あてま温泉　当間高原リゾート　ベルナティオの外観（十日町の子連れ向け宿）" loading="eager" fetchpriority="high"><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D13487" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
-<h1>あてま温泉　当間高原リゾート　ベルナティオ｜十日町の子連れにやさしい宿</h1>
+<h1>あてま高原リゾート ベルナティオ｜十日町の子連れにやさしい宿</h1>
 <p class="meta">新潟県十日町市珠川 ・ 1泊 10,340円〜</p>
 <p class="rating">★4.73 <span>（楽天トラベル 口コミ4113件）</span></p>
 </header>
