@@ -6,7 +6,10 @@
 {{- $top := index (first 1 (sort $hotels "Params.reviewCount" "desc")) 0 -}}
 {{- $og := $top.Params.ogImage | default "" -}}
 {{- $no := replaceRE `.*/HOTEL/([0-9]+)/.*` `$1` $og -}}
-{{- if and $no (ne $no $og) }}<link rel="preload" as="image" href="{{ $og }}" fetchpriority="high" imagesizes="(min-width:740px) 680px, 100vw" imagesrcset="https://img.travel.rakuten.co.jp/HIMG/300/{{ $no }}.jpg 300w, {{ $og }} 1280w">{{ end }}
+{{- /* Media-split preloads mirror the <picture> in hotel-card.html:
+       mobile fetches only the light HIMG/300, desktop only the full image. */ -}}
+{{- if and $no (ne $no $og) }}<link rel="preload" as="image" media="(max-width:739px)" href="https://img.travel.rakuten.co.jp/HIMG/300/{{ $no }}.jpg" fetchpriority="high">
+<link rel="preload" as="image" media="(min-width:740px)" href="{{ $og }}" fetchpriority="high">{{ end }}
 <section class="hero-home"><div class="in">
   <h1>口コミの集合知で選ぶ、<br>子連れにやさしい宿。</h1>
   <p class="sub">{{ .Site.Params.description }}</p>

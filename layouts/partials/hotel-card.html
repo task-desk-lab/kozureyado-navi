@@ -1,13 +1,20 @@
 <a class="card" href="{{ .RelPermalink }}">
   <div class="ph">
     {{ with .Params.ogImage }}
-      {{- /* Serve the full-res share image (crisp on retina) with a srcset so
-             low-DPR / save-data clients can fall back to the light HIMG/300
-             thumbnail. Off-screen cards stay lazy. Stays hotlinked to Rakuten. */ -}}
+      {{- /* Mobile always gets the light HIMG/300 thumbnail (~20-70KB): the
+             full share image can be 2MB and wrecks LCP / mobile data. Desktop
+             (min-width:740px) keeps the crisp full-res share image, which is
+             what the 2026-07-05 retina fix was really about. A media-query
+             <picture> split is used instead of srcset because high-DPR phones
+             compute 100vw x DPR > 300w and always picked the 1280w full image.
+             Stays hotlinked to Rakuten. */ -}}
       {{- $no := replaceRE `.*/HOTEL/([0-9]+)/.*` `$1` . -}}
       {{- $thumb := cond (ne $no .) (printf "https://img.travel.rakuten.co.jp/HIMG/300/%s.jpg" $no) . -}}
       {{- $eager := $.Store.Get "eagerImg" -}}
-      <img src="{{ . }}" srcset="{{ $thumb }} 300w, {{ . }} 1280w" sizes="(min-width:740px) 680px, 100vw" alt="{{ $.Param "hotelName" }}" decoding="async" {{ if $eager }}loading="eager" fetchpriority="high"{{ else }}loading="lazy"{{ end }}>
+      <picture>
+        {{- if ne $no . }}<source media="(max-width:739px)" srcset="{{ $thumb }}">{{ end -}}
+        <img src="{{ . }}" alt="{{ $.Param "hotelName" }}" decoding="async" {{ if $eager }}loading="eager" fetchpriority="high"{{ else }}loading="lazy"{{ end }}>
+      </picture>
     {{ end }}
     {{ if gt (.Param "priceFrom" | default 0) 0 }}<span class="price">1泊 {{ lang.FormatNumber 0 .Params.priceFrom }}円〜</span>{{ end }}
   </div>

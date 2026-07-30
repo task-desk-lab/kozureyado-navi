@@ -14,8 +14,10 @@
 {{- with .Site.Params.googleSiteVerification }}
 <meta name="google-site-verification" content="{{ . }}">
 {{- end }}
-{{- /* Preload the hotel-page hero (full-res LCP image) so it starts loading
-       immediately. Responsive: low-DPR / save-data can take the light 300w. */ -}}
+{{- /* Preload the hotel-page hero (LCP image). Media-split mirrors the hero
+       <picture>: mobile fetches only the light HIMG/300 (~20-70KB), desktop
+       only the crisp full-res share image (can be 2MB). */ -}}
 {{- if eq .Section "hotels" }}{{ with .Params.ogImage }}
-<link rel="preload" as="image" href="{{ . }}" fetchpriority="high" imagesizes="100vw" imagesrcset="{{ replaceRE `share/HOTEL/([0-9]+)/[0-9]+\.jpg` `HIMG/300/$1.jpg` . }} 300w, {{ . }} 1280w">
+<link rel="preload" as="image" media="(max-width:739px)" href="{{ replaceRE `share/HOTEL/([0-9]+)/[0-9]+\.jpg` `HIMG/300/$1.jpg` . }}" fetchpriority="high">
+<link rel="preload" as="image" media="(min-width:740px)" href="{{ . }}" fetchpriority="high">
 {{ end }}{{ end }}

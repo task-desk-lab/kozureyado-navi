@@ -14,8 +14,11 @@
 {{/* Inline minified CSS to remove the render-blocking external stylesheet. */}}
 {{- with resources.Get "css/site.css" }}<style>{{ (. | minify).Content | safeCSS }}</style>{{ end }}
 {{- with .Site.Params.googleAnalyticsId }}
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
-<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','{{ . }}')</script>
+{{- /* gtag.js (167KB) is injected after window load so it never competes with
+       the LCP: loaded from <head>, it lands in the pre-LCP dependency graph
+       and inflates mobile LCP by ~2.5s on PSI. Early gtag() calls are queued
+       in dataLayer and flushed when the script arrives — no data loss. */ -}}
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','{{ . }}');window.addEventListener('load',function(){var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id={{ . }}';document.head.appendChild(s)})</script>
 {{- end }}
 </head><body>
 <header class="topbar"><div class="in">
