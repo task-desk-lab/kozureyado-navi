@@ -1,6 +1,6 @@
 ---
-title: "住友不動産ホテル　ヴィラフォンテーヌグランド東京有明 子連れ宿の口コミ・評判【2026】"
-description: "住友不動産ホテル　ヴィラフォンテーヌグランド東京有明（江東区）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ1292件・★4.4から、「赤ちゃんグッズが充実」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
+title: "ヴィラフォンテーヌグランド東京有明 子連れ・赤ちゃん連れの口コミ・評判【2026】"
+description: "ヴィラフォンテーヌグランド東京有明（住友不動産ホテル・江東区有明）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ1292件・★4.4から、「赤ちゃんグッズが充実」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
 date: "2026-06-26"
 hotelNo: 178230
 hotelName: "住友不動産ホテル　ヴィラフォンテーヌグランド東京有明"
@@ -20,7 +20,7 @@ reviewCount: 1292
 <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/東京都/">東京都</a> <span>›</span> 江東区</nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/178230.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178230/178230.jpg" alt="住友不動産ホテル　ヴィラフォンテーヌグランド東京有明の外観（江東区の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D178230" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
-<h1>住友不動産ホテル　ヴィラフォンテーヌグランド東京有明｜江東区の子連れにやさしい宿</h1>
+<h1>ヴィラフォンテーヌグランド東京有明｜有明（江東区）の子連れにやさしいホテル</h1>
 <p class="meta">東京都江東区有明2-1-5 ・ 1泊 4,240円〜</p>
 <p class="rating">★4.4 <span>（楽天トラベル 口コミ1292件）</span></p>
 </header>
