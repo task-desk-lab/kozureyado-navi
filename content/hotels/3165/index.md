@@ -1,6 +1,6 @@
 ---
-title: "おごと温泉　びわこ緑水亭 子連れ宿の口コミ・評判【2026】"
-description: "おごと温泉　びわこ緑水亭（大津市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ2309件・★4.67から、「子供のごはんも本格的」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
+title: "びわこ緑水亭（おごと温泉） 子連れ・赤ちゃん連れの口コミ・評判【2026】"
+description: "びわこ緑水亭（おごと温泉・大津市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ2309件・★4.67から、「子供のごはんも本格的」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
 date: "2026-06-26"
 hotelNo: 3165
 hotelName: "おごと温泉　びわこ緑水亭"
@@ -20,7 +20,7 @@ reviewCount: 2309
 <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/滋賀県/">滋賀県</a> <span>›</span> 大津市</nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/3165.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/3165/3165.jpg" alt="おごと温泉　びわこ緑水亭の外観（大津市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D3165" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
-<h1>おごと温泉　びわこ緑水亭｜大津市の子連れにやさしい宿</h1>
+<h1>びわこ緑水亭｜おごと温泉（大津市）の子連れにやさしい宿</h1>
 <p class="meta">滋賀県大津市雄琴6-1-6 ・ 1泊 16,675円〜</p>
 <p class="rating">★4.67 <span>（楽天トラベル 口コミ2309件）</span></p>
 </header>
