@@ -6,6 +6,7 @@ hotelNo: 67228
 hotelName: "かみのやま温泉　名月荘"
 areas: ["山形県"]
 areaShort: "上山市"
+cities: ["上山市"]
 purposes: ["部屋食", "貸切風呂", "温泉"]
 priceFrom: 16500
 facilities: ["🍳ミニキッチン", "💧加湿器"]
@@ -17,7 +18,7 @@ reviewCount: 94
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "かみのやま温泉　名月荘", "url": "https://kozureyado-navi.com/hotels/67228/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "山形県上山市葉山5-50"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/67228/67228.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 5.0, "reviewCount": 94, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "かみのやま温泉　名月荘", "item": "https://kozureyado-navi.com/hotels/67228/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "かみのやま温泉　名月荘の夕食はお部屋（部屋食）でいただけます。食事の口コミ評価は★5です。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "かみのやま温泉　名月荘には大浴場・露天風呂・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "かみのやま温泉　名月荘は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "上山市にあるかみのやま温泉　名月荘は、楽天トラベルの口コミ94件で総合★5.0。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/山形県/">山形県</a> <span>›</span> 上山市</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/山形県/">山形県</a> <span>›</span> <a href="/cities/上山市/">上山市</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/67228.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67228/67228.jpg" alt="かみのやま温泉　名月荘の外観（上山市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D67228" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>かみのやま温泉　名月荘｜上山市の子連れにやさしい宿</h1>

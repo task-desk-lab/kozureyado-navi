@@ -6,6 +6,7 @@ hotelNo: 165626
 hotelName: "湖畔の温泉宿くにびき　グランピングベースＩＺＵＭＯ"
 areas: ["島根県"]
 areaShort: "出雲市"
+cities: ["出雲市"]
 purposes: ["貸切風呂", "グランピング", "温泉"]
 priceFrom: 4670
 facilities: ["💧加湿器"]
@@ -17,7 +18,7 @@ reviewCount: 368
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "湖畔の温泉宿くにびき　グランピングベースＩＺＵＭＯ", "url": "https://kozureyado-navi.com/hotels/165626/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "島根県出雲市湖陵町二部1230"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/165626/165626.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.4, "reviewCount": 368, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "湖畔の温泉宿くにびき　グランピングベースＩＺＵＭＯ", "item": "https://kozureyado-navi.com/hotels/165626/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "湖畔の温泉宿くにびき　グランピングベースＩＺＵＭＯの夕食はレストラン・コンベンションホールでいただけます。食事の口コミ評価は★4.6です。口コミには「子供の料理もいい意味でお子様ランチ感なくて、高学年の子供でも満足な内容でした」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "湖畔の温泉宿くにびき　グランピングベースＩＺＵＭＯには大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "湖畔の温泉宿くにびき　グランピングベースＩＺＵＭＯは子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "出雲市にある湖畔の温泉宿くにびき　グランピングベースＩＺＵＭＯは、楽天トラベルの口コミ368件で総合★4.4。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/島根県/">島根県</a> <span>›</span> 出雲市</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/島根県/">島根県</a> <span>›</span> <a href="/cities/出雲市/">出雲市</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/165626.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/165626/165626.jpg" alt="湖畔の温泉宿くにびき　グランピングベースＩＺＵＭＯの外観（出雲市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D165626" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>湖畔の温泉宿くにびき　グランピングベースＩＺＵＭＯ｜出雲市の子連れにやさしい宿</h1>

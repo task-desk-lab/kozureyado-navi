@@ -6,6 +6,7 @@ hotelNo: 4723
 hotelName: "リゾートヒルズ豊浜蒼空の風　〜ＳＯＲＡ　ｎｏ　ＫＡＺＥ〜"
 areas: ["三重県"]
 areaShort: "鳥羽市"
+cities: ["鳥羽市"]
 purposes: ["貸切風呂", "温泉"]
 priceFrom: 10494
 facilities: ["🎮ゲーム", "💧加湿器"]
@@ -17,7 +18,7 @@ reviewCount: 1722
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "リゾートヒルズ豊浜蒼空の風　〜ＳＯＲＡ　ｎｏ　ＫＡＺＥ〜", "url": "https://kozureyado-navi.com/hotels/4723/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "三重県鳥羽市相差町1471 ◆千鳥ヶ浜沿い高台／伊勢神宮３５分"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/4723/4723.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.56, "reviewCount": 1722, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "リゾートヒルズ豊浜蒼空の風　〜ＳＯＲＡ　ｎｏ　ＫＡＺＥ〜", "item": "https://kozureyado-navi.com/hotels/4723/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "リゾートヒルズ豊浜蒼空の風　〜ＳＯＲＡ　ｎｏ　ＫＡＺＥ〜の夕食は食事処・ダイニングルームでいただけます。食事の口コミ評価は★4.63です。口コミには「ご飯は大人も子どもも満足でした🍴」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "リゾートヒルズ豊浜蒼空の風　〜ＳＯＲＡ　ｎｏ　ＫＡＺＥ〜には大浴場・露天風呂・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "リゾートヒルズ豊浜蒼空の風　〜ＳＯＲＡ　ｎｏ　ＫＡＺＥ〜は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "鳥羽市にあるリゾートヒルズ豊浜蒼空の風　〜ＳＯＲＡ　ｎｏ　ＫＡＺＥ〜は、楽天トラベルの口コミ1722件で総合★4.56。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/三重県/">三重県</a> <span>›</span> 鳥羽市</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/三重県/">三重県</a> <span>›</span> <a href="/cities/鳥羽市/">鳥羽市</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/4723.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4723/4723.jpg" alt="リゾートヒルズ豊浜蒼空の風　〜ＳＯＲＡ　ｎｏ　ＫＡＺＥ〜の外観（鳥羽市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D4723" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>リゾートヒルズ豊浜蒼空の風　〜ＳＯＲＡ　ｎｏ　ＫＡＺＥ〜｜鳥羽市の子連れにやさしい宿</h1>

@@ -6,6 +6,7 @@ hotelNo: 144963
 hotelName: "和風旅館扇松園"
 areas: ["北海道"]
 areaShort: "旭川市"
+cities: ["旭川市"]
 purposes: ["貸切風呂", "赤ちゃん歓迎"]
 priceFrom: 5500
 facilities: []
@@ -17,7 +18,7 @@ reviewCount: 107
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "和風旅館扇松園", "url": "https://kozureyado-navi.com/hotels/144963/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "北海道旭川市高砂台3-8-3"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/144963/144963.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.82, "reviewCount": 107, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "和風旅館扇松園", "item": "https://kozureyado-navi.com/hotels/144963/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "和風旅館扇松園の夕食は個室・食事処でいただけます。食事の口コミ評価は★4.67です。口コミには「小さい子どもへの対応がとても良く、部屋や食事場所にバンボを用意してくれていたり、ベビーバスがあったりしたのも好印象です」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "和風旅館扇松園には大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "和風旅館扇松園は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "旭川市にある和風旅館扇松園は、楽天トラベルの口コミ107件で総合★4.82。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/北海道/">北海道</a> <span>›</span> 旭川市</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/北海道/">北海道</a> <span>›</span> <a href="/cities/旭川市/">旭川市</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/144963.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/144963/144963.jpg" alt="和風旅館扇松園の外観（旭川市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D144963" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>和風旅館扇松園｜旭川市の子連れにやさしい宿</h1>

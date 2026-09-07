@@ -6,6 +6,7 @@ hotelNo: 6064
 hotelName: "信州別所温泉　旅宿　上松や"
 areas: ["長野県"]
 areaShort: "上田市"
+cities: ["上田市"]
 purposes: ["部屋食", "貸切風呂", "温泉"]
 priceFrom: 7150
 facilities: ["💧加湿器"]
@@ -17,7 +18,7 @@ reviewCount: 1423
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "信州別所温泉　旅宿　上松や", "url": "https://kozureyado-navi.com/hotels/6064/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "長野県上田市別所温泉1628"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/6064/6064.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.55, "reviewCount": 1423, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "信州別所温泉　旅宿　上松や", "item": "https://kozureyado-navi.com/hotels/6064/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "信州別所温泉　旅宿　上松やの夕食はお部屋（部屋食）・食事処でいただけます。食事の口コミ評価は★4.71です。口コミには「お部屋食、幼児の食事も充分な量、見栄え、味で感激レベル」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "信州別所温泉　旅宿　上松やには大浴場・露天風呂・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "信州別所温泉　旅宿　上松やは子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "上田市にある信州別所温泉　旅宿　上松やは、楽天トラベルの口コミ1423件で総合★4.55。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/長野県/">長野県</a> <span>›</span> 上田市</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/長野県/">長野県</a> <span>›</span> <a href="/cities/上田市/">上田市</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/6064.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6064/6064.jpg" alt="信州別所温泉　旅宿　上松やの外観（上田市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D6064" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>信州別所温泉　旅宿　上松や｜上田市の子連れにやさしい宿</h1>

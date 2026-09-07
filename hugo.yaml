@@ -28,6 +28,7 @@ outputs:
 taxonomies:
   area: areas
   purpose: purposes
+  city: cities
 
 sitemap:
   changeFreq: weekly

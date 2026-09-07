@@ -6,6 +6,7 @@ hotelNo: 149439
 hotelName: "絶景掛け流しの宿　熱海月右衛門"
 areas: ["静岡県"]
 areaShort: "熱海市"
+cities: ["熱海市"]
 purposes: ["部屋食", "貸切風呂"]
 priceFrom: 15700
 facilities: ["💧加湿器"]
@@ -17,7 +18,7 @@ reviewCount: 7804
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "絶景掛け流しの宿　熱海月右衛門", "url": "https://kozureyado-navi.com/hotels/149439/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "静岡県熱海市西熱海町1-5-16"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/149439/149439.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.39, "reviewCount": 7804, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "絶景掛け流しの宿　熱海月右衛門", "item": "https://kozureyado-navi.com/hotels/149439/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "絶景掛け流しの宿　熱海月右衛門の夕食はお部屋（部屋食）・食事処でいただけます。食事の口コミ評価は★4.53です。口コミには「あとは夜ご飯が部屋食で和室で、赤ちゃんを横に寝かせながらゆっくり食べれました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "絶景掛け流しの宿　熱海月右衛門には大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "絶景掛け流しの宿　熱海月右衛門は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "熱海市にある絶景掛け流しの宿　熱海月右衛門は、楽天トラベルの口コミ7804件で総合★4.39。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/静岡県/">静岡県</a> <span>›</span> 熱海市</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/静岡県/">静岡県</a> <span>›</span> <a href="/cities/熱海市/">熱海市</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/149439.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149439/149439.jpg" alt="絶景掛け流しの宿　熱海月右衛門の外観（熱海市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D149439" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>熱海月右衛門（絶景掛け流しの宿）｜熱海市の子連れにやさしい宿</h1>

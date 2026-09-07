@@ -6,6 +6,7 @@ hotelNo: 76822
 hotelName: "割烹旅館　寿美礼"
 areas: ["山口県"]
 areaShort: "下関市"
+cities: ["下関市"]
 purposes: ["部屋食", "貸切風呂", "温泉"]
 priceFrom: 7550
 facilities: []
@@ -17,7 +18,7 @@ reviewCount: 164
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "割烹旅館　寿美礼", "url": "https://kozureyado-navi.com/hotels/76822/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "山口県下関市竹崎町3-13-23"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/76822/76822.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.66, "reviewCount": 164, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "割烹旅館　寿美礼", "item": "https://kozureyado-navi.com/hotels/76822/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "割烹旅館　寿美礼の夕食はお部屋（部屋食）・個室でいただけます。食事の口コミ評価は★4.79です。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "割烹旅館　寿美礼には家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "割烹旅館　寿美礼は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "下関市にある割烹旅館　寿美礼は、楽天トラベルの口コミ164件で総合★4.66。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/山口県/">山口県</a> <span>›</span> 下関市</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/山口県/">山口県</a> <span>›</span> <a href="/cities/下関市/">下関市</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/76822.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76822/76822.jpg" alt="割烹旅館　寿美礼の外観（下関市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D76822" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>割烹旅館　寿美礼｜下関市の子連れにやさしい宿</h1>

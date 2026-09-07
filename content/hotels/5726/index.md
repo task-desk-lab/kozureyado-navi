@@ -6,6 +6,7 @@ hotelNo: 5726
 hotelName: "米と酒興と炉端の宿　高橋屋観山荘"
 areas: ["新潟県"]
 areaShort: "関川村"
+cities: ["関川村"]
 purposes: ["貸切風呂"]
 priceFrom: 6600
 facilities: ["💧加湿器"]
@@ -17,7 +18,7 @@ reviewCount: 210
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "米と酒興と炉端の宿　高橋屋観山荘", "url": "https://kozureyado-navi.com/hotels/5726/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "新潟県岩船郡関川村湯沢228-4"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/5726/5726.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.65, "reviewCount": 210, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "米と酒興と炉端の宿　高橋屋観山荘", "item": "https://kozureyado-navi.com/hotels/5726/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "米と酒興と炉端の宿　高橋屋観山荘の夕食は広間・炉端処でいただけます。食事の口コミ評価は★4.83です。口コミには「どれも丁寧に作られていて、子ども用のお料理もひとつひとつ手作り」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "米と酒興と炉端の宿　高橋屋観山荘には大浴場・露天風呂・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "米と酒興と炉端の宿　高橋屋観山荘は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "関川村にある米と酒興と炉端の宿　高橋屋観山荘は、楽天トラベルの口コミ210件で総合★4.65。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/新潟県/">新潟県</a> <span>›</span> 関川村</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/新潟県/">新潟県</a> <span>›</span> <a href="/cities/関川村/">関川村</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/5726.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5726/5726.jpg" alt="米と酒興と炉端の宿　高橋屋観山荘の外観（関川村の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D5726" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>米と酒興と炉端の宿　高橋屋観山荘｜関川村の子連れにやさしい宿</h1>

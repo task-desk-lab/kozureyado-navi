@@ -6,6 +6,7 @@ hotelNo: 8647
 hotelName: "鳥羽本浦温泉　サン浦島　悠季の里"
 areas: ["三重県"]
 areaShort: "鳥羽市"
+cities: ["鳥羽市"]
 purposes: ["部屋食", "貸切風呂", "ベビーベッドあり", "温泉"]
 priceFrom: 19660
 facilities: ["🛏️ベビーベッド", "🏓卓球", "💧加湿器"]
@@ -17,7 +18,7 @@ reviewCount: 994
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "鳥羽本浦温泉　サン浦島　悠季の里", "url": "https://kozureyado-navi.com/hotels/8647/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "三重県鳥羽市本浦温泉"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8647/8647.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.67, "reviewCount": 994, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "鳥羽本浦温泉　サン浦島　悠季の里", "item": "https://kozureyado-navi.com/hotels/8647/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "鳥羽本浦温泉　サン浦島　悠季の里の夕食はお部屋（部屋食）でいただけます。食事の口コミ評価は★4.69です。口コミには「離乳食を注文すると、おかゆや野菜の硬さを聞いていただけました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "ベビーベッドは借りられますか？", "acceptedAnswer": {"@type": "Answer", "text": "鳥羽本浦温泉　サン浦島　悠季の里は客室設備にベビーベッドの記載があります。台数に限りがある場合があるので、予約時のリクエストがおすすめです。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "鳥羽本浦温泉　サン浦島　悠季の里には大浴場・露天風呂・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "鳥羽本浦温泉　サン浦島　悠季の里は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "鳥羽市にある鳥羽本浦温泉　サン浦島　悠季の里は、楽天トラベルの口コミ994件で総合★4.67。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/三重県/">三重県</a> <span>›</span> 鳥羽市</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/三重県/">三重県</a> <span>›</span> <a href="/cities/鳥羽市/">鳥羽市</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/8647.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8647/8647.jpg" alt="鳥羽本浦温泉　サン浦島　悠季の里の外観（鳥羽市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D8647" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>鳥羽本浦温泉　サン浦島　悠季の里｜鳥羽市の子連れにやさしい宿</h1>

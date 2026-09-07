@@ -6,6 +6,7 @@ hotelNo: 29445
 hotelName: "笹倉温泉　龍雲荘"
 areas: ["新潟県"]
 areaShort: "糸魚川市"
+cities: ["糸魚川市"]
 purposes: ["貸切風呂", "温泉"]
 priceFrom: 5574
 facilities: ["💧加湿器"]
@@ -17,7 +18,7 @@ reviewCount: 362
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "笹倉温泉　龍雲荘", "url": "https://kozureyado-navi.com/hotels/29445/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "新潟県糸魚川市大平5804"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/29445/29445.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.42, "reviewCount": 362, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "笹倉温泉　龍雲荘", "item": "https://kozureyado-navi.com/hotels/29445/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "笹倉温泉　龍雲荘の夕食は個室・食事処でいただけます。食事の口コミ評価は★4.41です。口コミには「ご飯がとてもおいしく、子供の量もちょうどよかったです」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "笹倉温泉　龍雲荘には大浴場・露天風呂・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "笹倉温泉　龍雲荘は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "糸魚川市にある笹倉温泉　龍雲荘は、楽天トラベルの口コミ362件で総合★4.42。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/新潟県/">新潟県</a> <span>›</span> 糸魚川市</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/新潟県/">新潟県</a> <span>›</span> <a href="/cities/糸魚川市/">糸魚川市</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/29445.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29445/29445.jpg" alt="笹倉温泉　龍雲荘の外観（糸魚川市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D29445" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>笹倉温泉　龍雲荘｜糸魚川市の子連れにやさしい宿</h1>

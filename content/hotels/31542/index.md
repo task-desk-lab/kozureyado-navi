@@ -6,6 +6,7 @@ hotelNo: 31542
 hotelName: "伊勢神宮のお膝元　鳥羽　胡蝶蘭"
 areas: ["三重県"]
 areaShort: "鳥羽市"
+cities: ["鳥羽市"]
 purposes: ["部屋食", "貸切風呂"]
 priceFrom: 7700
 facilities: []
@@ -17,7 +18,7 @@ reviewCount: 1438
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "伊勢神宮のお膝元　鳥羽　胡蝶蘭", "url": "https://kozureyado-navi.com/hotels/31542/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "三重県鳥羽市小浜町237-1"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/31542/31542.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.4, "reviewCount": 1438, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "伊勢神宮のお膝元　鳥羽　胡蝶蘭", "item": "https://kozureyado-navi.com/hotels/31542/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "伊勢神宮のお膝元　鳥羽　胡蝶蘭の夕食はお部屋（部屋食）でいただけます。食事の口コミ評価は★4.47です。口コミには「赤ちゃん連れでしたので、気兼ねなく食事ができたのが本当に嬉しかったです」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "伊勢神宮のお膝元　鳥羽　胡蝶蘭には大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "伊勢神宮のお膝元　鳥羽　胡蝶蘭は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "鳥羽市にある伊勢神宮のお膝元　鳥羽　胡蝶蘭は、楽天トラベルの口コミ1438件で総合★4.4。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/三重県/">三重県</a> <span>›</span> 鳥羽市</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/三重県/">三重県</a> <span>›</span> <a href="/cities/鳥羽市/">鳥羽市</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/31542.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31542/31542.jpg" alt="伊勢神宮のお膝元　鳥羽　胡蝶蘭の外観（鳥羽市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D31542" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>伊勢神宮のお膝元　鳥羽　胡蝶蘭｜鳥羽市の子連れにやさしい宿</h1>

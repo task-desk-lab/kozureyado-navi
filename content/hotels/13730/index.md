@@ -1,11 +1,12 @@
 ---
-title: "高松国際ホテル 子連れ宿の口コミ・評判【2026】"
-description: "高松国際ホテル（高松市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ3223件・★4.42から、「スタッフが子供に優しい」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
+title: "高松国際ホテル 高松の子連れホテル口コミ・評判【2026】"
+description: "高松で子連れ・赤ちゃん連れにおすすめのホテルを探すなら。高松国際ホテル（高松市）は楽天トラベルの口コミ3223件・★4.42から、「スタッフが子供に優しい」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
 date: "2026-06-26"
 hotelNo: 13730
 hotelName: "高松国際ホテル"
 areas: ["香川県"]
 areaShort: "高松市"
+cities: ["高松市"]
 purposes: ["ベビーベッドあり"]
 priceFrom: 3900
 facilities: ["🛏️ベビーベッド", "💧加湿器"]
@@ -17,7 +18,7 @@ reviewCount: 3223
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "高松国際ホテル", "url": "https://kozureyado-navi.com/hotels/13730/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "香川県高松市木太町4区2191-1"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/13730/13730.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.42, "reviewCount": 3223, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "高松国際ホテル", "item": "https://kozureyado-navi.com/hotels/13730/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "高松国際ホテルの夕食は館内のお食事処でいただけます。食事の口コミ評価は★4.51です。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "ベビーベッドは借りられますか？", "acceptedAnswer": {"@type": "Answer", "text": "高松国際ホテルは客室設備にベビーベッドの記載があります。台数に限りがある場合があるので、予約時のリクエストがおすすめです。"}}, {"@type": "Question", "name": "高松国際ホテルは子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "高松市にある高松国際ホテルは、楽天トラベルの口コミ3223件で総合★4.42。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/香川県/">香川県</a> <span>›</span> 高松市</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/香川県/">香川県</a> <span>›</span> <a href="/cities/高松市/">高松市</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/13730.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13730/13730.jpg" alt="高松国際ホテルの外観（高松市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D13730" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>高松国際ホテル｜高松市の子連れにやさしい宿</h1>

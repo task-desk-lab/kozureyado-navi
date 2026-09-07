@@ -6,6 +6,7 @@ hotelNo: 56754
 hotelName: "全客室半露天風呂付きの宿　浜膳旅館"
 areas: ["熊本県"]
 areaShort: "八代市"
+cities: ["八代市"]
 purposes: ["部屋食", "貸切風呂"]
 priceFrom: 7700
 facilities: []
@@ -17,7 +18,7 @@ reviewCount: 1445
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "全客室半露天風呂付きの宿　浜膳旅館", "url": "https://kozureyado-navi.com/hotels/56754/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "熊本県八代市日奈久中西町379"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/56754/56754.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.65, "reviewCount": 1445, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "全客室半露天風呂付きの宿　浜膳旅館", "item": "https://kozureyado-navi.com/hotels/56754/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "全客室半露天風呂付きの宿　浜膳旅館の夕食はお部屋（部屋食）・食事処でいただけます。食事の口コミ評価は★4.72です。口コミには「また、料理も美味しく子供達も喜んでいました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "全客室半露天風呂付きの宿　浜膳旅館には家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "全客室半露天風呂付きの宿　浜膳旅館は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "八代市にある全客室半露天風呂付きの宿　浜膳旅館は、楽天トラベルの口コミ1445件で総合★4.65。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/熊本県/">熊本県</a> <span>›</span> 八代市</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/熊本県/">熊本県</a> <span>›</span> <a href="/cities/八代市/">八代市</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/56754.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/56754/56754.jpg" alt="全客室半露天風呂付きの宿　浜膳旅館の外観（八代市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D56754" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>全客室半露天風呂付きの宿　浜膳旅館｜八代市の子連れにやさしい宿</h1>

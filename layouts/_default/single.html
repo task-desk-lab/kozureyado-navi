@@ -47,6 +47,7 @@
 <div class="wrap"><div class="cross"><div class="cl">条件を変えて探す</div>
   <div class="chips">
     {{ if $area }}{{ with .Site.GetPage (printf "/areas/%s" $area) }}<a class="fchip area" href="{{ .RelPermalink }}">{{ $area }}の子連れ宿</a>{{ end }}{{ end }}
+    {{ with .Params.cities }}{{ $c := index . 0 }}{{ with $.Site.GetPage (printf "/cities/%s" $c) }}<a class="fchip area" href="{{ .RelPermalink }}">{{ $c }}の子連れ宿</a>{{ end }}{{ end }}
     {{ range .Params.purposes }}
       {{ $p := . }}
       {{ with $.Site.GetPage (printf "/purposes/%s" $p) }}<a class="fchip" href="{{ .RelPermalink }}">{{ $p }}の宿</a>{{ end }}

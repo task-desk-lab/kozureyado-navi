@@ -6,6 +6,7 @@ hotelNo: 8692
 hotelName: "ホテルニューわかさ"
 areas: ["奈良県"]
 areaShort: "奈良市"
+cities: ["奈良市"]
 purposes: ["部屋食", "貸切風呂"]
 priceFrom: 11000
 facilities: ["🍱電子レンジ", "💧加湿器"]
@@ -17,7 +18,7 @@ reviewCount: 666
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "ホテルニューわかさ", "url": "https://kozureyado-navi.com/hotels/8692/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "奈良県奈良市北半田東町1"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8692/8692.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.39, "reviewCount": 666, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "ホテルニューわかさ", "item": "https://kozureyado-navi.com/hotels/8692/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "ホテルニューわかさの夕食はお部屋（部屋食）・ダイニングルームでいただけます。食事の口コミ評価は★4.26です。口コミには「離乳食も3種類ほど月齢に合わせたものがおいてありました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "ホテルニューわかさには大浴場・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "ホテルニューわかさは子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "奈良市にあるホテルニューわかさは、楽天トラベルの口コミ666件で総合★4.39。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/奈良県/">奈良県</a> <span>›</span> 奈良市</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/奈良県/">奈良県</a> <span>›</span> <a href="/cities/奈良市/">奈良市</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/8692.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8692/8692.jpg" alt="ホテルニューわかさの外観（奈良市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D8692" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>ホテルニューわかさ｜奈良市の子連れにやさしい宿</h1>

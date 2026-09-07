@@ -6,6 +6,7 @@ hotelNo: 31681
 hotelName: "箱根湯本温泉　庭園露天を味わう宿　湯さか荘"
 areas: ["神奈川県"]
 areaShort: "箱根町"
+cities: ["箱根町"]
 purposes: ["部屋食", "貸切風呂", "赤ちゃん歓迎", "温泉"]
 priceFrom: 12100
 facilities: ["🏓卓球", "💧加湿器"]
@@ -17,7 +18,7 @@ reviewCount: 551
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "箱根湯本温泉　庭園露天を味わう宿　湯さか荘", "url": "https://kozureyado-navi.com/hotels/31681/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "神奈川県足柄下郡箱根町湯本茶屋35"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/31681/31681.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.6, "reviewCount": 551, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "箱根湯本温泉　庭園露天を味わう宿　湯さか荘", "item": "https://kozureyado-navi.com/hotels/31681/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "箱根湯本温泉　庭園露天を味わう宿　湯さか荘の夕食はお部屋（部屋食）・個室でいただけます。食事の口コミ評価は★4.6です。口コミには「お食事は朝・夜ともにお部屋でいただけたのが、小さな子ども連れには本当に助かりました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "箱根湯本温泉　庭園露天を味わう宿　湯さか荘には大浴場・露天風呂・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "箱根湯本温泉　庭園露天を味わう宿　湯さか荘は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "箱根町にある箱根湯本温泉　庭園露天を味わう宿　湯さか荘は、楽天トラベルの口コミ551件で総合★4.6。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/神奈川県/">神奈川県</a> <span>›</span> 箱根町</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/神奈川県/">神奈川県</a> <span>›</span> <a href="/cities/箱根町/">箱根町</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/31681.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31681/31681.jpg" alt="箱根湯本温泉　庭園露天を味わう宿　湯さか荘の外観（箱根町の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D31681" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>箱根湯本温泉　庭園露天を味わう宿　湯さか荘｜箱根町の子連れにやさしい宿</h1>

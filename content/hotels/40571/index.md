@@ -6,6 +6,7 @@ hotelNo: 40571
 hotelName: "有斐軒"
 areas: ["兵庫県"]
 areaShort: "朝来市"
+cities: ["朝来市"]
 purposes: ["部屋食"]
 priceFrom: 6600
 facilities: ["💧加湿器"]
@@ -17,7 +18,7 @@ reviewCount: 242
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "有斐軒", "url": "https://kozureyado-navi.com/hotels/40571/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "兵庫県朝来市和田山町和田山31"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/40571/40571.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.69, "reviewCount": 242, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "有斐軒", "item": "https://kozureyado-navi.com/hotels/40571/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "有斐軒の夕食はお部屋（部屋食）・食事処でいただけます。食事の口コミ評価は★4.81です。口コミには「騒がしい子連れでしたが、二階を貸切にしてくださり、食事は横の部屋でした」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "有斐軒は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "朝来市にある有斐軒は、楽天トラベルの口コミ242件で総合★4.69。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/兵庫県/">兵庫県</a> <span>›</span> 朝来市</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/兵庫県/">兵庫県</a> <span>›</span> <a href="/cities/朝来市/">朝来市</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/40571.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40571/40571.jpg" alt="有斐軒の外観（朝来市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D40571" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>有斐軒｜朝来市の子連れにやさしい宿</h1>

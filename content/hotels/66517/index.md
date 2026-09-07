@@ -6,6 +6,7 @@ hotelNo: 66517
 hotelName: "伊豆・伊東　金目鯛の宿　こころね"
 areas: ["静岡県"]
 areaShort: "伊東市"
+cities: ["伊東市"]
 purposes: ["貸切風呂", "温泉"]
 priceFrom: 10950
 facilities: ["💧加湿器"]
@@ -17,7 +18,7 @@ reviewCount: 2640
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "伊豆・伊東　金目鯛の宿　こころね", "url": "https://kozureyado-navi.com/hotels/66517/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "静岡県伊東市宇佐美3713-16"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/66517/66517.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.76, "reviewCount": 2640, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "伊豆・伊東　金目鯛の宿　こころね", "item": "https://kozureyado-navi.com/hotels/66517/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "伊豆・伊東　金目鯛の宿　こころねの夕食は食事処・ダイニングルームでいただけます。食事の口コミ評価は★4.88です。口コミには「子連れにも優しくてご飯やアメニティなど細やかな配慮に感動しました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "伊豆・伊東　金目鯛の宿　こころねには露天風呂・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "伊豆・伊東　金目鯛の宿　こころねは子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "伊東市にある伊豆・伊東　金目鯛の宿　こころねは、楽天トラベルの口コミ2640件で総合★4.76。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/静岡県/">静岡県</a> <span>›</span> 伊東市</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/静岡県/">静岡県</a> <span>›</span> <a href="/cities/伊東市/">伊東市</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/66517.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/66517/66517.jpg" alt="伊豆・伊東　金目鯛の宿　こころねの外観（伊東市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D66517" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>伊豆・伊東　金目鯛の宿　こころね｜伊東市の子連れにやさしい宿</h1>

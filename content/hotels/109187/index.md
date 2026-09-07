@@ -6,6 +6,7 @@ hotelNo: 109187
 hotelName: "河津七滝　渓流温泉茶寮　水鞠（ＭＩＺＵＭＡＲＩ）（旧：旬彩つりばし）"
 areas: ["静岡県"]
 areaShort: "河津町"
+cities: ["河津町"]
 purposes: ["部屋食", "貸切風呂", "温泉"]
 priceFrom: 53900
 facilities: ["🍱電子レンジ", "💧加湿器"]
@@ -17,7 +18,7 @@ reviewCount: 99
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "河津七滝　渓流温泉茶寮　水鞠（ＭＩＺＵＭＡＲＩ）（旧：旬彩つりばし）", "url": "https://kozureyado-navi.com/hotels/109187/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "静岡県賀茂郡河津町梨本424-2"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/109187/109187.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.71, "reviewCount": 99, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "河津七滝　渓流温泉茶寮　水鞠（ＭＩＺＵＭＡＲＩ）（旧：旬彩つりばし）", "item": "https://kozureyado-navi.com/hotels/109187/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "河津七滝　渓流温泉茶寮　水鞠（ＭＩＺＵＭＡＲＩ）（旧：旬彩つりばし）の夕食はお部屋（部屋食）・個室でいただけます。食事の口コミ評価は★4.43です。口コミには「子供のご飯も、食べきれないくらいで、偏食な我が子も、美味しいと食べてました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "河津七滝　渓流温泉茶寮　水鞠（ＭＩＺＵＭＡＲＩ）（旧：旬彩つりばし）には露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "河津七滝　渓流温泉茶寮　水鞠（ＭＩＺＵＭＡＲＩ）（旧：旬彩つりばし）は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "河津町にある河津七滝　渓流温泉茶寮　水鞠（ＭＩＺＵＭＡＲＩ）（旧：旬彩つりばし）は、楽天トラベルの口コミ99件で総合★4.71。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/静岡県/">静岡県</a> <span>›</span> 河津町</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/静岡県/">静岡県</a> <span>›</span> <a href="/cities/河津町/">河津町</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/109187.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109187/109187.jpg" alt="河津七滝　渓流温泉茶寮　水鞠（ＭＩＺＵＭＡＲＩ）（旧：旬彩つりばし）の外観（河津町の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D109187" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>河津七滝　渓流温泉茶寮　水鞠（ＭＩＺＵＭＡＲＩ）（旧：旬彩つりばし）｜河津町の子連れにやさしい宿</h1>

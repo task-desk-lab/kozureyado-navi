@@ -6,6 +6,7 @@ hotelNo: 67099
 hotelName: "ゆのごう温泉　ホテル湯の杜（旧：ホテル湯の杜美春閣）"
 areas: ["岡山県"]
 areaShort: "美作市"
+cities: ["美作市"]
 purposes: ["貸切風呂", "温泉"]
 priceFrom: 13500
 facilities: ["💧加湿器"]
@@ -17,7 +18,7 @@ reviewCount: 1087
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "ゆのごう温泉　ホテル湯の杜（旧：ホテル湯の杜美春閣）", "url": "https://kozureyado-navi.com/hotels/67099/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "岡山県美作市中山1144"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/67099/67099.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.67, "reviewCount": 1087, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "ゆのごう温泉　ホテル湯の杜（旧：ホテル湯の杜美春閣）", "item": "https://kozureyado-navi.com/hotels/67099/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "ゆのごう温泉　ホテル湯の杜（旧：ホテル湯の杜美春閣）の夕食は食事処でいただけます。食事の口コミ評価は★4.75です。口コミには「特に朝食はバイキング形式で、子供達もとても喜んでいました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "ゆのごう温泉　ホテル湯の杜（旧：ホテル湯の杜美春閣）には大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "ゆのごう温泉　ホテル湯の杜（旧：ホテル湯の杜美春閣）は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "美作市にあるゆのごう温泉　ホテル湯の杜（旧：ホテル湯の杜美春閣）は、楽天トラベルの口コミ1087件で総合★4.67。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/岡山県/">岡山県</a> <span>›</span> 美作市</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/岡山県/">岡山県</a> <span>›</span> <a href="/cities/美作市/">美作市</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/67099.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67099/67099.jpg" alt="ゆのごう温泉　ホテル湯の杜（旧：ホテル湯の杜美春閣）の外観（美作市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D67099" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>ゆのごう温泉　ホテル湯の杜（旧：ホテル湯の杜美春閣）｜美作市の子連れにやさしい宿</h1>

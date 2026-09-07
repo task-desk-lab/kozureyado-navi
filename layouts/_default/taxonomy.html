@@ -1,16 +1,33 @@
 {{ define "main" }}
 {{ if eq .Kind "term" }}
-  {{/* 個別タグ/エリアの宿一覧 */}}
+  {{/* 個別タグ/エリア/市区町村の宿一覧。city term は content/cities/{市区町村}/_index.md の
+       cityName/cityPref/noindex を持つ（生成元: short-video-factory src/travel/article.py --cities） */}}
+  {{ $isCity := eq .Data.Singular "city" }}
+  {{ $name := .Title }}{{ with .Params.cityName }}{{ $name = . }}{{ end }}
+  {{ $pref := "" }}{{ with .Params.cityPref }}{{ $pref = . }}{{ end }}
   <section class="hero-home"><div class="in">
-    <h1>{{ .Title }}の子連れ宿</h1>
-    <p class="sub">口コミの集合知で選ぶ、子連れにやさしい宿。{{ len .Pages }}軒</p>
+    <h1>{{ $name }}の子連れ宿{{ if $isCity }}・ホテル{{ end }}</h1>
+    <p class="sub">口コミの集合知で選ぶ、子連れにやさしい宿。{{ len .Pages }}軒{{ if and $isCity $pref }}（{{ $pref }}）{{ end }}</p>
   </div></section>
+  {{ if $isCity }}
+    {{/* 市区町村ページ: 都道府県へ戻る + 同じ県の他の市区町村（宿数順） */}}
+    {{ $sib := slice }}
+    {{ range $cname, $taxo := .Site.Taxonomies.cities }}
+      {{ $first := index $taxo 0 }}
+      {{ if and (ne $cname $name) (in $first.Page.Params.areas $pref) }}{{ $sib = $sib | append (dict "name" $cname "n" (len $taxo) "url" $taxo.Page.RelPermalink) }}{{ end }}
+    {{ end }}
+    <div class="wrap"><div class="chips scroll" style="margin-top:14px">
+      {{ with .Site.GetPage (printf "/areas/%s" $pref) }}<a class="fchip area" href="{{ .RelPermalink }}">{{ $pref }}の子連れ宿</a>{{ end }}
+      {{ range sort $sib "n" "desc" }}<a class="fchip" href="{{ .url }}">{{ .name }} <b>{{ .n }}</b></a>{{ end }}
+    </div></div>
+  {{ else }}
   <div class="wrap"><div class="chips scroll" style="margin-top:14px">
     {{ $cur := .Title }}
     {{ range $name, $taxo := (index .Site.Taxonomies .Data.Plural) }}
       <a class="fchip{{ if eq $.Data.Singular "area" }} area{{ end }}{{ if eq $name $cur }} on{{ end }}" href="{{ $taxo.Page.RelPermalink }}">{{ $name }}</a>
     {{ end }}
   </div></div>
+  {{ end }}
 
   {{/* 掛け合わせ絞り込み: 目的→エリア / エリア→目的（comboページへ） */}}
   {{ $combos := where .Site.RegularPages "Section" "combos" }}
@@ -21,6 +38,17 @@
     </div></div>
     {{ end }}
   {{ else if eq .Data.Singular "area" }}
+    {{ $area := .Title }}
+    {{ $cityLinks := slice }}
+    {{ range $cname, $taxo := .Site.Taxonomies.cities }}
+      {{ $first := index $taxo 0 }}
+      {{ if in $first.Page.Params.areas $area }}{{ $cityLinks = $cityLinks | append (dict "name" $cname "n" (len $taxo) "url" $taxo.Page.RelPermalink) }}{{ end }}
+    {{ end }}
+    {{ with $cityLinks }}
+    <div class="wrap"><div class="cross"><div class="cl">市区町村で絞り込む</div>
+      <div class="chips scroll">{{ range sort . "n" "desc" }}<a class="fchip" href="{{ .url }}">{{ .name }} <b>{{ .n }}</b></a>{{ end }}</div>
+    </div></div>
+    {{ end }}
     {{ with sort (where $combos "Params.comboArea" .Title) "Params.hotelCount" "desc" }}
     <div class="wrap"><div class="cross"><div class="cl">目的でさらに絞り込む</div>
       <div class="chips">{{ range . }}<a class="fchip" href="{{ .RelPermalink }}">{{ .Params.comboPurpose }} <b>{{ .Params.hotelCount }}</b></a>{{ end }}</div>
@@ -33,7 +61,7 @@
   </div>
 {{ else }}
   {{/* タクソノミー一覧（タグ/エリアのハブ） */}}
-  {{ $label := dict "area" "エリアから探す" "purpose" "目的から探す" }}
+  {{ $label := dict "area" "エリアから探す" "purpose" "目的から探す" "city" "市区町村から探す" }}
   <section class="hero-home"><div class="in">
     <h1>{{ index $label .Data.Singular | default .Title }}</h1>
     <p class="sub">口コミの集合知で選ぶ、子連れにやさしい宿。</p>

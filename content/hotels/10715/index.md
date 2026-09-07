@@ -6,6 +6,7 @@ hotelNo: 10715
 hotelName: "上牧温泉　人気の貸切風呂と炭火山里料理の宿　辰巳館"
 areas: ["群馬県"]
 areaShort: "みなかみ町"
+cities: ["みなかみ町"]
 purposes: ["貸切風呂", "温泉"]
 priceFrom: 12100
 facilities: ["🏓卓球", "🎮ゲーム", "💧加湿器"]
@@ -17,7 +18,7 @@ reviewCount: 1701
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "上牧温泉　人気の貸切風呂と炭火山里料理の宿　辰巳館", "url": "https://kozureyado-navi.com/hotels/10715/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "群馬県利根郡みなかみ町上牧2052"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/10715/10715.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.65, "reviewCount": 1701, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "上牧温泉　人気の貸切風呂と炭火山里料理の宿　辰巳館", "item": "https://kozureyado-navi.com/hotels/10715/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "上牧温泉　人気の貸切風呂と炭火山里料理の宿　辰巳館の夕食は炉端処・食事処でいただけます。食事の口コミ評価は★4.71です。口コミには「部屋もご飯も風呂も大満足で子連れにも優しいため、是非、機会があればまた利用したいと思います」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "上牧温泉　人気の貸切風呂と炭火山里料理の宿　辰巳館には大浴場・露天風呂・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "上牧温泉　人気の貸切風呂と炭火山里料理の宿　辰巳館は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "みなかみ町にある上牧温泉　人気の貸切風呂と炭火山里料理の宿　辰巳館は、楽天トラベルの口コミ1701件で総合★4.65。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/群馬県/">群馬県</a> <span>›</span> みなかみ町</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/群馬県/">群馬県</a> <span>›</span> <a href="/cities/みなかみ町/">みなかみ町</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/10715.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10715/10715.jpg" alt="上牧温泉　人気の貸切風呂と炭火山里料理の宿　辰巳館の外観（みなかみ町の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D10715" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>上牧温泉　人気の貸切風呂と炭火山里料理の宿　辰巳館｜みなかみ町の子連れにやさしい宿</h1>

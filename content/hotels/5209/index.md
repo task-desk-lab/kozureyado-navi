@@ -6,6 +6,7 @@ hotelNo: 5209
 hotelName: "信州・上諏訪温泉　琥珀色の自家源泉を持つ宿【ホテル鷺乃湯】"
 areas: ["長野県"]
 areaShort: "諏訪市"
+cities: ["諏訪市"]
 purposes: ["部屋食", "貸切風呂", "温泉"]
 priceFrom: 10230
 facilities: []
@@ -17,7 +18,7 @@ reviewCount: 1438
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "信州・上諏訪温泉　琥珀色の自家源泉を持つ宿【ホテル鷺乃湯】", "url": "https://kozureyado-navi.com/hotels/5209/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "長野県諏訪市湖岸通り3-2-14"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/5209/5209.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.53, "reviewCount": 1438, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "信州・上諏訪温泉　琥珀色の自家源泉を持つ宿【ホテル鷺乃湯】", "item": "https://kozureyado-navi.com/hotels/5209/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "信州・上諏訪温泉　琥珀色の自家源泉を持つ宿【ホテル鷺乃湯】の夕食はお部屋（部屋食）・料亭でいただけます。食事の口コミ評価は★4.47です。口コミには「夕食は部屋食で、その時間子どもが寝てしまっていましたが、中居さんが気を遣ってくださり嬉しかったです」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "信州・上諏訪温泉　琥珀色の自家源泉を持つ宿【ホテル鷺乃湯】には大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "信州・上諏訪温泉　琥珀色の自家源泉を持つ宿【ホテル鷺乃湯】は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "諏訪市にある信州・上諏訪温泉　琥珀色の自家源泉を持つ宿【ホテル鷺乃湯】は、楽天トラベルの口コミ1438件で総合★4.53。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/長野県/">長野県</a> <span>›</span> 諏訪市</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/長野県/">長野県</a> <span>›</span> <a href="/cities/諏訪市/">諏訪市</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/5209.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5209/5209.jpg" alt="信州・上諏訪温泉　琥珀色の自家源泉を持つ宿【ホテル鷺乃湯】の外観（諏訪市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D5209" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>信州・上諏訪温泉　琥珀色の自家源泉を持つ宿【ホテル鷺乃湯】｜諏訪市の子連れにやさしい宿</h1>

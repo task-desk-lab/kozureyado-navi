@@ -6,6 +6,7 @@ hotelNo: 145462
 hotelName: "コンドミニアム　ありまばるビーチリゾート"
 areas: ["沖縄県"]
 areaShort: "本部町"
+cities: ["本部町"]
 purposes: []
 priceFrom: 7500
 facilities: []
@@ -17,7 +18,7 @@ reviewCount: 188
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "コンドミニアム　ありまばるビーチリゾート", "url": "https://kozureyado-navi.com/hotels/145462/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "沖縄県国頭郡本部町字具志堅2988-3"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/145462/145462.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 5.0, "reviewCount": 188, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "コンドミニアム　ありまばるビーチリゾート", "item": "https://kozureyado-navi.com/hotels/145462/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "コンドミニアム　ありまばるビーチリゾートの夕食はダイニングルームでいただけます。食事の口コミ評価は★5です。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "コンドミニアム　ありまばるビーチリゾートは子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "本部町にあるコンドミニアム　ありまばるビーチリゾートは、楽天トラベルの口コミ188件で総合★5.0。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/沖縄県/">沖縄県</a> <span>›</span> 本部町</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/沖縄県/">沖縄県</a> <span>›</span> <a href="/cities/本部町/">本部町</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/145462.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/145462/145462.jpg" alt="コンドミニアム　ありまばるビーチリゾートの外観（本部町の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D145462" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>コンドミニアム　ありまばるビーチリゾート｜本部町の子連れにやさしい宿</h1>

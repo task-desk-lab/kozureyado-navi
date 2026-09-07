@@ -6,6 +6,7 @@ hotelNo: 30142
 hotelName: "料理旅館　吉村屋"
 areas: ["岐阜県"]
 areaShort: "東白川村"
+cities: ["東白川村"]
 purposes: ["部屋食", "貸切風呂"]
 priceFrom: 6600
 facilities: ["💧加湿器"]
@@ -17,7 +18,7 @@ reviewCount: 474
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "料理旅館　吉村屋", "url": "https://kozureyado-navi.com/hotels/30142/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "岐阜県加茂郡東白川村神土570"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/30142/30142.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.63, "reviewCount": 474, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "料理旅館　吉村屋", "item": "https://kozureyado-navi.com/hotels/30142/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "料理旅館　吉村屋の夕食はお部屋（部屋食）・個室でいただけます。食事の口コミ評価は★4.71です。口コミには「子供が小さいため、美味しいご飯を食べてお風呂に入ってゆっくりすることを目的に伺いました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "料理旅館　吉村屋には露天風呂・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "料理旅館　吉村屋は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "東白川村にある料理旅館　吉村屋は、楽天トラベルの口コミ474件で総合★4.63。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/岐阜県/">岐阜県</a> <span>›</span> 東白川村</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/岐阜県/">岐阜県</a> <span>›</span> <a href="/cities/東白川村/">東白川村</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/30142.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/30142/30142.jpg" alt="料理旅館　吉村屋の外観（東白川村の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D30142" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>料理旅館　吉村屋｜東白川村の子連れにやさしい宿</h1>

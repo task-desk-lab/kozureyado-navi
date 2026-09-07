@@ -6,6 +6,7 @@ hotelNo: 13811
 hotelName: "美保関温泉　旅館　美保館　国文化財の宿"
 areas: ["島根県"]
 areaShort: "松江市"
+cities: ["松江市"]
 purposes: ["部屋食", "貸切風呂", "ベビーベッドあり", "温泉"]
 priceFrom: 17800
 facilities: ["🛏️ベビーベッド", "🍱電子レンジ", "💧加湿器"]
@@ -17,7 +18,7 @@ reviewCount: 353
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "美保関温泉　旅館　美保館　国文化財の宿", "url": "https://kozureyado-navi.com/hotels/13811/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "島根県松江市美保関町美保関570"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/13811/13811.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.63, "reviewCount": 353, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "美保関温泉　旅館　美保館　国文化財の宿", "item": "https://kozureyado-navi.com/hotels/13811/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "美保関温泉　旅館　美保館　国文化財の宿の夕食はお部屋（部屋食）・個室でいただけます。食事の口コミ評価は★4.75です。口コミには「お食事は、娘の離乳食のトラブルで落ち着いていただくことができず…」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "ベビーベッドは借りられますか？", "acceptedAnswer": {"@type": "Answer", "text": "美保関温泉　旅館　美保館　国文化財の宿は客室設備にベビーベッドの記載があります。台数に限りがある場合があるので、予約時のリクエストがおすすめです。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "美保関温泉　旅館　美保館　国文化財の宿には大浴場・露天風呂・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "美保関温泉　旅館　美保館　国文化財の宿は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "松江市にある美保関温泉　旅館　美保館　国文化財の宿は、楽天トラベルの口コミ353件で総合★4.63。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/島根県/">島根県</a> <span>›</span> 松江市</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/島根県/">島根県</a> <span>›</span> <a href="/cities/松江市/">松江市</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/13811.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13811/13811.jpg" alt="美保関温泉　旅館　美保館　国文化財の宿の外観（松江市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D13811" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>美保関温泉　旅館　美保館　国文化財の宿｜松江市の子連れにやさしい宿</h1>

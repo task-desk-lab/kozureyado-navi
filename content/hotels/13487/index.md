@@ -6,6 +6,7 @@ hotelNo: 13487
 hotelName: "あてま温泉　当間高原リゾート　ベルナティオ"
 areas: ["新潟県"]
 areaShort: "十日町"
+cities: ["十日町"]
 purposes: ["貸切風呂", "ベビーベッドあり", "赤ちゃん歓迎", "温泉"]
 priceFrom: 10340
 facilities: ["🛏️ベビーベッド", "🏊プール", "🏓卓球"]
@@ -17,7 +18,7 @@ reviewCount: 4113
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "あてま温泉　当間高原リゾート　ベルナティオ", "url": "https://kozureyado-navi.com/hotels/13487/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "新潟県十日町市珠川"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/13487/13487.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.73, "reviewCount": 4113, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "あてま温泉　当間高原リゾート　ベルナティオ", "item": "https://kozureyado-navi.com/hotels/13487/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "あてま温泉　当間高原リゾート　ベルナティオの夕食はレストラン・レストラン(バイキング)でいただけます。食事の口コミ評価は★4.81です。口コミには「ご飯のクオリティと子供向けアクティビティが多い点がお気に入りで何度もリピートしています」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "ベビーベッドは借りられますか？", "acceptedAnswer": {"@type": "Answer", "text": "あてま温泉　当間高原リゾート　ベルナティオは客室設備にベビーベッドの記載があります。台数に限りがある場合があるので、予約時のリクエストがおすすめです。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "あてま温泉　当間高原リゾート　ベルナティオには大浴場・露天風呂・家族風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "あてま温泉　当間高原リゾート　ベルナティオは子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "十日町にあるあてま温泉　当間高原リゾート　ベルナティオは、楽天トラベルの口コミ4113件で総合★4.73。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/新潟県/">新潟県</a> <span>›</span> 十日町</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/新潟県/">新潟県</a> <span>›</span> <a href="/cities/十日町/">十日町</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/13487.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13487/13487.jpg" alt="あてま温泉　当間高原リゾート　ベルナティオの外観（十日町の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D13487" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>あてま高原リゾート ベルナティオ｜十日町の子連れにやさしい宿</h1>

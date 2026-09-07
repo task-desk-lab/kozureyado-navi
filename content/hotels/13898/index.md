@@ -6,6 +6,7 @@ hotelNo: 13898
 hotelName: "四季彩の宿　花椿"
 areas: ["福井県"]
 areaShort: "小浜市"
+cities: ["小浜市"]
 purposes: ["温泉"]
 priceFrom: 10450
 facilities: ["💧加湿器"]
@@ -17,7 +18,7 @@ reviewCount: 107
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "四季彩の宿　花椿", "url": "https://kozureyado-navi.com/hotels/13898/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "福井県小浜市小浜白鳥72-1"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/13898/13898.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.5, "reviewCount": 107, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "四季彩の宿　花椿", "item": "https://kozureyado-navi.com/hotels/13898/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "四季彩の宿　花椿の夕食はレストランでいただけます。食事の口コミ評価は★4.69です。口コミには「その後、子どもが寝そうになり、夕食を予定時刻より1つ早い時間に変更してほしいとお願いすると、優しく対応してくださりました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "四季彩の宿　花椿には大浴場などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "四季彩の宿　花椿は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "小浜市にある四季彩の宿　花椿は、楽天トラベルの口コミ107件で総合★4.5。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/福井県/">福井県</a> <span>›</span> 小浜市</nav>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/福井県/">福井県</a> <span>›</span> <a href="/cities/小浜市/">小浜市</a></nav>
 <header class="hero">
 <figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/13898.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/13898/13898.jpg" alt="四季彩の宿　花椿の外観（小浜市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D13898" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
 <h1>四季彩の宿　花椿｜小浜市の子連れにやさしい宿</h1>
