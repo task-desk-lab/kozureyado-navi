@@ -6,7 +6,7 @@
   {{ $name := .Title }}{{ with .Params.cityName }}{{ $name = . }}{{ end }}
   {{ $pref := "" }}{{ with .Params.cityPref }}{{ $pref = . }}{{ end }}
   <section class="hero-home"><div class="in">
-    <h1>{{ $name }}の子連れ宿{{ if $isCity }}・ホテル{{ end }}</h1>
+    <h1>{{ $name }}の子連れ宿{{ if or $isCity (eq .Data.Singular "area") }}・ホテル{{ end }}</h1>
     <p class="sub">口コミの集合知で選ぶ、子連れにやさしい宿。{{ len .Pages }}軒{{ if and $isCity $pref }}（{{ $pref }}）{{ end }}</p>
   </div></section>
   {{ if $isCity }}

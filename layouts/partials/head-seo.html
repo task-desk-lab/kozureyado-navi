@@ -1,9 +1,19 @@
-{{ $desc := cond (ne .Description "") .Description .Site.Params.description }}
+{{ $desc := .Description }}
+{{- /* Area/purpose term pages have no _index.md, so give them a page-specific
+       description instead of the site-wide fallback (hotel count is live). */ -}}
+{{- if and (eq $desc "") (eq .Kind "term") (eq .Title .Data.Term) }}
+  {{- if eq .Data.Singular "area" }}
+    {{- $desc = printf "%sで子連れ・赤ちゃん連れにやさしい宿・ホテルを、楽天トラベルの口コミ（集合知）から%d軒厳選。ベビー設備・部屋食・貸切風呂など、子供にうれしいポイントで選べます。" .Title (len .Pages) }}
+  {{- else }}
+    {{- $desc = printf "%sの子連れ宿・ホテルを、楽天トラベルの口コミ（集合知）から%d軒厳選。子連れ・赤ちゃん連れにうれしいポイントで選べます。" .Title (len .Pages) }}
+  {{- end }}
+{{- end }}
+{{- if eq $desc "" }}{{ $desc = .Site.Params.description }}{{ end }}
 <meta name="description" content="{{ $desc }}">
 <link rel="canonical" href="{{ .Permalink }}">
 <meta name="robots" content="{{ if .Params.noindex }}noindex,follow{{ else }}index,follow,max-image-preview:large{{ end }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
-<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ partial "seo-title.html" . }}{{ end }}">
 <meta property="og:description" content="{{ $desc }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">

@@ -6,7 +6,7 @@
      (LCP) are hotlinked from there, so preconnect cuts cross-origin latency. */}}
 <link rel="preconnect" href="https://img.travel.rakuten.co.jp">
 <link rel="dns-prefetch" href="https://img.travel.rakuten.co.jp">
-<title>{{ if .IsHome }}{{ .Site.Title }}｜{{ .Site.Params.tagline }}{{ else }}{{ .Title }}{{ end }}</title>
+<title>{{ partial "seo-title.html" . }}</title>
 {{ partial "head-seo.html" . }}
 <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ "/index.xml" | absURL }}">
 <link rel="icon" href="{{ "/favicon.svg" | relURL }}" type="image/svg+xml">

@@ -1,0 +1,7 @@
+{{- /* <title>/og:title. Taxonomy term pages without a front-matter title
+       (areas/purposes) used to render the bare term name, e.g. "香川県".
+       City terms carry their own title via content/cities/{市区町村}/_index.md
+       and are left untouched (.Title != .Data.Term). */ -}}
+{{- if .IsHome }}{{ .Site.Title }}｜{{ .Site.Params.tagline }}
+{{- else if and (eq .Kind "term") (eq .Title .Data.Term) }}{{ .Title }}の子連れ宿・ホテル｜口コミで選ぶ【2026】
+{{- else }}{{ .Title }}{{ end -}}
