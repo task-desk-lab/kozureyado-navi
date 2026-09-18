@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kozureyado-navi.com/sitemap.xml
