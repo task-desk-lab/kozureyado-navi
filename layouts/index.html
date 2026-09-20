@@ -51,6 +51,28 @@
   {{ end }}
   {{ end }}
 
+  {{/* 市区町村から探す: index対象(2軒以上)の city term のみ。/cities/ 配下はトップから
+       リンクが無く 2026-09-07 の新設後2週で lastCrawl=None のまま（GSC URL Inspection:
+       「検出 - インデックス未登録」）だったため、深さ1の導線を足してクロールを促す。
+       1軒のみの city は noindex なので一覧ページ側に任せる。 */}}
+  {{ $cities := .Site.Taxonomies.cities }}
+  {{ if $cities }}
+    {{ $idx := slice }}
+    {{ range $cname, $taxo := $cities }}
+      {{ $tp := $taxo.Page }}
+      {{ if not $tp.Params.noindex }}
+        {{ $idx = $idx | append (dict "name" $cname "n" (len $taxo.Pages) "url" $tp.RelPermalink) }}
+      {{ end }}
+    {{ end }}
+    {{ with $idx }}
+    <h2 class="sec-h">市区町村から探す</h2>
+    <div class="chips">
+      {{ range sort . "n" "desc" }}<a class="fchip" href="{{ .url }}">{{ .name }} <b>{{ .n }}</b></a>{{ end }}
+      <a class="fchip" href="{{ "/cities/" | relURL }}">すべての市区町村 →</a>
+    </div>
+    {{ end }}
+  {{ end }}
+
   <h2 class="sec-h">口コミが多い人気の子連れ宿</h2>
 </div>
 <div class="list">
