@@ -5,10 +5,27 @@
   {{ $isCity := eq .Data.Singular "city" }}
   {{ $name := .Title }}{{ with .Params.cityName }}{{ $name = . }}{{ end }}
   {{ $pref := "" }}{{ with .Params.cityPref }}{{ $pref = . }}{{ end }}
+  {{- $isArea := eq .Data.Singular "area" -}}
+  {{- /* area term「京都」は既存URL維持のため府なし。表示だけ正式名にする */ -}}
+  {{- if and $isArea (eq $name "京都") }}{{ $name = "京都府" }}{{ end }}
   <section class="hero-home"><div class="in">
-    <h1>{{ $name }}の子連れ宿{{ if or $isCity (eq .Data.Singular "area") }}・ホテル{{ end }}</h1>
+    <h1>{{ $name }}の子連れ宿{{ if or $isCity $isArea }}・ホテル{{ end }}</h1>
     <p class="sub">口コミの集合知で選ぶ、子連れにやさしい宿。{{ len .Pages }}軒{{ if and $isCity $pref }}（{{ $pref }}）{{ end }}</p>
   </div></section>
+  {{- if $isArea }}
+    {{/* 県レベルの検索（「{県} ホテル 子供連れ」）の受け皿になる本文。
+         数値はすべて掲載宿の front matter（reviewCount/purposes/priceFrom）の集計で、新しい事実は足さない */}}
+    {{ $rev := 0 }}{{ $minPrice := 0 }}{{ $pc := newScratch }}
+    {{ range .Pages }}
+      {{ $rev = add $rev (int (.Params.reviewCount | default 0)) }}
+      {{ with .Params.priceFrom }}{{ if or (eq $minPrice 0) (lt (int .) $minPrice) }}{{ $minPrice = int . }}{{ end }}{{ end }}
+      {{ range .Params.purposes }}{{ $pc.Add . 1 }}{{ end }}
+    {{ end }}
+    {{ $pl := slice }}{{ range $k, $v := $pc.Values }}{{ $pl = $pl | append (dict "k" $k "n" $v) }}{{ end }}
+    <div class="wrap"><p class="intro">{{ $name }}で子供連れ・赤ちゃん連れにやさしいホテル・旅館を{{ len .Pages }}軒掲載しています。いずれも楽天トラベルの口コミ（掲載宿の合計{{ lang.FormatNumber 0 $rev }}件）の集合知から、子連れ目線で選んだ宿です。
+      {{- with $pl }}目的別では{{ range $i, $e := first 3 (sort . "n" "desc") }}{{ if $i }}・{{ end }}{{ $e.k }}{{ $e.n }}軒{{ end }}。{{ end }}
+      {{- with $minPrice }}料金は1泊{{ lang.FormatNumber 0 . }}円〜です。{{ end }}</p></div>
+  {{- end }}
   {{ if $isCity }}
     {{/* 市区町村ページ: 都道府県へ戻る + 同じ県の他の市区町村（宿数順） */}}
     {{ $sib := slice }}
@@ -57,7 +74,9 @@
   {{ end }}
 
   <div class="list">
-    {{ range .Pages.ByDate.Reverse }}{{ partial "hotel-card.html" . }}{{ end }}
+    {{- /* エリアは口コミ件数の多い順（combo と同じ並び）。他の term は新着順のまま */ -}}
+    {{- $list := .Pages.ByDate.Reverse }}{{ if $isArea }}{{ $list = sort .Pages "Params.reviewCount" "desc" }}{{ end }}
+    {{ range $list }}{{ partial "hotel-card.html" . }}{{ end }}
   </div>
 {{ else }}
   {{/* タクソノミー一覧（タグ/エリアのハブ） */}}
