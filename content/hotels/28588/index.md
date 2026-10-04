@@ -1,12 +1,12 @@
 ---
 title: "夕日ヶ浦温泉　丹後・食の宿　みのり旅館 子連れ宿の口コミ・評判【2026】"
-description: "夕日ヶ浦温泉　丹後・食の宿　みのり旅館（府京丹後市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ74件・★4.71から、「ゆったりした客室」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
+description: "夕日ヶ浦温泉　丹後・食の宿　みのり旅館（京丹後市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ74件・★4.71から、「ゆったりした客室」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
 date: "2026-07-13"
 hotelNo: 28588
 hotelName: "夕日ヶ浦温泉　丹後・食の宿　みのり旅館"
 areas: ["京都"]
-areaShort: "府京丹後市"
-cities: ["府京丹後市"]
+areaShort: "京丹後市"
+cities: ["京丹後市"]
 purposes: ["貸切風呂", "温泉"]
 priceFrom: 7700
 facilities: []
@@ -17,18 +17,18 @@ reviewCount: 74
 ---
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "夕日ヶ浦温泉　丹後・食の宿　みのり旅館", "url": "https://kozureyado-navi.com/hotels/28588/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "京都府京丹後市網野町浜詰46-13"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/28588/28588.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.71, "reviewCount": 74, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "夕日ヶ浦温泉　丹後・食の宿　みのり旅館", "item": "https://kozureyado-navi.com/hotels/28588/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "夕日ヶ浦温泉　丹後・食の宿　みのり旅館の夕食は食事処でいただけます。食事の口コミ評価は★4.79です。口コミには「3か月の赤ちゃんと5歳の孫が一緒だったので食事も個室ですごく助かりました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "夕日ヶ浦温泉　丹後・食の宿　みのり旅館には大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "夕日ヶ浦温泉　丹後・食の宿　みのり旅館は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "府京丹後市にある夕日ヶ浦温泉　丹後・食の宿　みのり旅館は、楽天トラベルの口コミ74件で総合★4.71。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/京都/">京都</a> <span>›</span> <a href="/cities/府京丹後市/">府京丹後市</a></nav>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "夕日ヶ浦温泉　丹後・食の宿　みのり旅館", "item": "https://kozureyado-navi.com/hotels/28588/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "夕日ヶ浦温泉　丹後・食の宿　みのり旅館の夕食は食事処でいただけます。食事の口コミ評価は★4.79です。口コミには「3か月の赤ちゃんと5歳の孫が一緒だったので食事も個室ですごく助かりました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "夕日ヶ浦温泉　丹後・食の宿　みのり旅館には大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "夕日ヶ浦温泉　丹後・食の宿　みのり旅館は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "京丹後市にある夕日ヶ浦温泉　丹後・食の宿　みのり旅館は、楽天トラベルの口コミ74件で総合★4.71。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/京都/">京都</a> <span>›</span> <a href="/cities/京丹後市/">京丹後市</a></nav>
 <header class="hero">
-<figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/28588.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28588/28588.jpg" alt="夕日ヶ浦温泉　丹後・食の宿　みのり旅館の外観（府京丹後市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D28588" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
-<h1>夕日ヶ浦温泉　丹後・食の宿　みのり旅館｜府京丹後市の子連れにやさしい宿</h1>
+<figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/28588.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28588/28588.jpg" alt="夕日ヶ浦温泉　丹後・食の宿　みのり旅館の外観（京丹後市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D28588" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
+<h1>夕日ヶ浦温泉　丹後・食の宿　みのり旅館｜京丹後市の子連れにやさしい宿</h1>
 <p class="meta">京都府京丹後市網野町浜詰46-13 ・ 1泊 7,700円〜</p>
 <p class="rating">★4.71 <span>（楽天トラベル 口コミ74件）</span></p>
 </header>
 
 <p class="lead">【カニの街・夕日ヶ浦】全12室の静寂な湯宿。夕日ヶ浦の天然温泉と極上の蟹料理を個室食で堪能</p>
 
-<p class="intro">夕日ヶ浦温泉　丹後・食の宿　みのり旅館は、府京丹後市にある総合★4.71（楽天トラベルの口コミ74件）の宿です。子連れ・赤ちゃん連れのご家族からは、「ゆったりした客室」・「子連れに優しい接客」といった点が口コミで支持されています。このページでは、楽天トラベルの口コミから子連れ目線のポイントをまとめました（1泊 7,700円〜）。</p>
+<p class="intro">夕日ヶ浦温泉　丹後・食の宿　みのり旅館は、京丹後市にある総合★4.71（楽天トラベルの口コミ74件）の宿です。子連れ・赤ちゃん連れのご家族からは、「ゆったりした客室」・「子連れに優しい接客」といった点が口コミで支持されています。このページでは、楽天トラベルの口コミから子連れ目線のポイントをまとめました（1泊 7,700円〜）。</p>
 
 <div class="safe"><div class="s"><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
@@ -50,7 +50,7 @@ reviewCount: 74
 
 
 
-<h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>夕日ヶ浦温泉　丹後・食の宿　みのり旅館の夕食は食事処でいただけます。食事の口コミ評価は★4.79です。口コミには「3か月の赤ちゃんと5歳の孫が一緒だったので食事も個室ですごく助かりました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>夕日ヶ浦温泉　丹後・食の宿　みのり旅館には大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details><details><summary>夕日ヶ浦温泉　丹後・食の宿　みのり旅館は子連れ・赤ちゃん連れにおすすめですか？</summary><p>府京丹後市にある夕日ヶ浦温泉　丹後・食の宿　みのり旅館は、楽天トラベルの口コミ74件で総合★4.71。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。</p></details></div>
+<h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>夕日ヶ浦温泉　丹後・食の宿　みのり旅館の夕食は食事処でいただけます。食事の口コミ評価は★4.79です。口コミには「3か月の赤ちゃんと5歳の孫が一緒だったので食事も個室ですごく助かりました」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>夕日ヶ浦温泉　丹後・食の宿　みのり旅館には大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details><details><summary>夕日ヶ浦温泉　丹後・食の宿　みのり旅館は子連れ・赤ちゃん連れにおすすめですか？</summary><p>京丹後市にある夕日ヶ浦温泉　丹後・食の宿　みのり旅館は、楽天トラベルの口コミ74件で総合★4.71。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。</p></details></div>
 
 <h2>このエリアの雰囲気</h2><figure class="ph"><img width="720" height="480" src="area_onsen_town.jpg" alt="エリアイメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure>
 

@@ -1,12 +1,12 @@
 ---
 title: "蒲井温泉　いっぺん庵 子連れ宿の口コミ・評判【2026】"
-description: "蒲井温泉　いっぺん庵（府京丹後市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ187件・★4.55から、「ゆったりした客室」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
+description: "蒲井温泉　いっぺん庵（京丹後市）は子連れ・赤ちゃん連れにおすすめ？楽天トラベルの口コミ187件・★4.55から、「ゆったりした客室」など子供にうれしいポイント、設備・お食事・お風呂をまとめました。"
 date: "2026-06-26"
 hotelNo: 104615
 hotelName: "蒲井温泉　いっぺん庵"
 areas: ["京都"]
-areaShort: "府京丹後市"
-cities: ["府京丹後市"]
+areaShort: "京丹後市"
+cities: ["京丹後市"]
 purposes: ["部屋食", "貸切風呂", "温泉"]
 priceFrom: 37400
 facilities: ["💧加湿器"]
@@ -17,18 +17,18 @@ reviewCount: 187
 ---
 
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Hotel", "name": "蒲井温泉　いっぺん庵", "url": "https://kozureyado-navi.com/hotels/104615/", "address": {"@type": "PostalAddress", "addressCountry": "JP", "streetAddress": "京都府京丹後市久美浜町蒲井522-1"}, "image": "https://img.travel.rakuten.co.jp/share/HOTEL/104615/104615.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.55, "reviewCount": 187, "bestRating": 5, "name": "楽天トラベルの口コミ評価"}}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "蒲井温泉　いっぺん庵", "item": "https://kozureyado-navi.com/hotels/104615/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "蒲井温泉　いっぺん庵の夕食はお部屋（部屋食）・個室でいただけます。食事の口コミ評価は★4.58です。口コミには「食事もお風呂も部屋なので誰にも気を使うことがないので、子連れにおすすめです」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "蒲井温泉　いっぺん庵には大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "蒲井温泉　いっぺん庵は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "府京丹後市にある蒲井温泉　いっぺん庵は、楽天トラベルの口コミ187件で総合★4.55。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
-<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/京都/">京都</a> <span>›</span> <a href="/cities/府京丹後市/">府京丹後市</a></nav>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "子連れ宿ナビ", "item": "https://kozureyado-navi.com/"}, {"@type": "ListItem", "position": 2, "name": "蒲井温泉　いっぺん庵", "item": "https://kozureyado-navi.com/hotels/104615/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "赤ちゃん・子供の食事はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "蒲井温泉　いっぺん庵の夕食はお部屋（部屋食）・個室でいただけます。食事の口コミ評価は★4.58です。口コミには「食事もお風呂も部屋なので誰にも気を使うことがないので、子連れにおすすめです」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。"}}, {"@type": "Question", "name": "子連れでもお風呂に入りやすいですか？", "acceptedAnswer": {"@type": "Answer", "text": "蒲井温泉　いっぺん庵には大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。"}}, {"@type": "Question", "name": "蒲井温泉　いっぺん庵は子連れ・赤ちゃん連れにおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "京丹後市にある蒲井温泉　いっぺん庵は、楽天トラベルの口コミ187件で総合★4.55。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。"}}]}</script>
+<nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/京都/">京都</a> <span>›</span> <a href="/cities/京丹後市/">京丹後市</a></nav>
 <header class="hero">
-<figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/104615.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104615/104615.jpg" alt="蒲井温泉　いっぺん庵の外観（府京丹後市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D104615" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
-<h1>蒲井温泉　いっぺん庵｜府京丹後市の子連れにやさしい宿</h1>
+<figure class="ph"><picture><source media="(max-width:739px)" srcset="https://img.travel.rakuten.co.jp/HIMG/300/104615.jpg"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104615/104615.jpg" alt="蒲井温泉　いっぺん庵の外観（京丹後市の子連れ向け宿）" loading="eager" fetchpriority="high"></picture><figcaption class="credit">画像: 楽天トラベル</figcaption></figure><p class="textlink"><a href="https://hb.afl.rakuten.co.jp/hgc/52ba661c.11c9d9e2.52ba661d.9fa5c02a/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D104615" target="_blank" rel="nofollow sponsored">この宿の空室・料金を見る（楽天トラベルで見る）</a></p>
+<h1>蒲井温泉　いっぺん庵｜京丹後市の子連れにやさしい宿</h1>
 <p class="meta">京都府京丹後市久美浜町蒲井522-1 ・ 1泊 37,400円〜</p>
 <p class="rating">★4.55 <span>（楽天トラベル 口コミ187件）</span></p>
 </header>
 
 <p class="lead">楽天ゴールドプレミアム認定。1日7組限定100％源泉掛け流し【にごり湯】贅沢を叶える大人の隠れ宿</p>
 
-<p class="intro">蒲井温泉　いっぺん庵は、府京丹後市にある総合★4.55（楽天トラベルの口コミ187件）の宿です。子連れ・赤ちゃん連れのご家族からは、「ゆったりした客室」・「子供が騒いでも大丈夫」といった点が口コミで支持されています。このページでは、楽天トラベルの口コミから子連れ目線のポイントをまとめました（1泊 37,400円〜）。</p>
+<p class="intro">蒲井温泉　いっぺん庵は、京丹後市にある総合★4.55（楽天トラベルの口コミ187件）の宿です。子連れ・赤ちゃん連れのご家族からは、「ゆったりした客室」・「子供が騒いでも大丈夫」といった点が口コミで支持されています。このページでは、楽天トラベルの口コミから子連れ目線のポイントをまとめました（1泊 37,400円〜）。</p>
 
 <div class="safe"><div class="s"><div class="t">◎ お世話</div><div class="d">ベビー用品・お世話しやすい設備</div></div><div class="s"><div class="t">○ 安全・添い寝</div><div class="d">添い寝・小さな子も安心の部屋</div></div><div class="s"><div class="t">◎ 食事・アレルギー</div><div class="d">離乳食・アレルギー・部屋食など</div></div></div>
 
@@ -50,7 +50,7 @@ reviewCount: 187
 
 <h2>ほかにも、こんな口コミがありました</h2><ul class="voices"><li><span class="vt">食事</span><span class="vx">「食事もお風呂も部屋なので誰にも気を使うことがないので、子連れにおすすめです」</span></li><li><span class="vt">子連れ歓迎</span><span class="vx">「両親と子供と行きましたがみんな大満足でした」</span></li><li><span class="vt">食事</span><span class="vx">「家族旅行で乳児と幼児が一緒だったので部屋食を選ばせてもらいました」</span></li></ul><p class="reason-src">— いずれも楽天トラベルに寄せられた、実際に泊まったご家族の声です。</p>
 
-<h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>蒲井温泉　いっぺん庵の夕食はお部屋（部屋食）・個室でいただけます。食事の口コミ評価は★4.58です。口コミには「食事もお風呂も部屋なので誰にも気を使うことがないので、子連れにおすすめです」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>蒲井温泉　いっぺん庵には大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details><details><summary>蒲井温泉　いっぺん庵は子連れ・赤ちゃん連れにおすすめですか？</summary><p>府京丹後市にある蒲井温泉　いっぺん庵は、楽天トラベルの口コミ187件で総合★4.55。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。</p></details></div>
+<h2>よくある質問</h2><div class="faq"><details><summary>赤ちゃん・子供の食事はどうなりますか？</summary><p>蒲井温泉　いっぺん庵の夕食はお部屋（部屋食）・個室でいただけます。食事の口コミ評価は★4.58です。口コミには「食事もお風呂も部屋なので誰にも気を使うことがないので、子連れにおすすめです」といった声もありました。離乳食やアレルギー対応は宿により異なるため、予約時にご確認ください。</p></details><details><summary>子連れでもお風呂に入りやすいですか？</summary><p>蒲井温泉　いっぺん庵には大浴場・露天風呂などがあります。貸切・家族風呂があれば、まわりを気にせず子供と入れます。</p></details><details><summary>蒲井温泉　いっぺん庵は子連れ・赤ちゃん連れにおすすめですか？</summary><p>京丹後市にある蒲井温泉　いっぺん庵は、楽天トラベルの口コミ187件で総合★4.55。本ページでは、その口コミから子連れ目線で評価の高かったポイントをまとめています。</p></details></div>
 
 <h2>このエリアの雰囲気</h2><figure class="ph"><img width="720" height="480" src="area_onsen_town.jpg" alt="エリアイメージ" loading="lazy"><figcaption class="credit">※写真はイメージです</figcaption></figure>
 
