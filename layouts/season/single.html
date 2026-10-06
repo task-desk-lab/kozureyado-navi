@@ -1,0 +1,27 @@
+{{ define "main" }}
+{{- /* /season/{季節}/{地方}/ */ -}}
+{{ $slug := .Params.season }}{{ $r := .Params.region }}{{ $hub := .Parent }}{{ $nos := .Params.hotels }}
+{{ $pc := newScratch }}
+{{ range $nos }}{{ with site.GetPage (printf "/hotels/%s" .) }}{{ $pc.Add (index .Params.areas 0) 1 }}{{ end }}{{ end }}
+{{ $prefs := slice }}{{ range $k, $v := $pc.Values }}{{ $prefs = $prefs | append (dict "k" $k "n" $v) }}{{ end }}
+{{ $prefs = sort $prefs "n" "desc" }}
+<section class="hero-home"><div class="in">
+  <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/season/">季節の特集</a> <span>›</span> <a href="{{ $hub.RelPermalink }}">{{ $slug }}</a> <span>›</span> {{ $r }}</nav>
+  <h1>{{ $r }}で{{ .Params.h1 }}</h1>
+  <p class="sub">{{ $r }}の{{ len $nos }}軒。楽天トラベルの公式データと口コミの原文つき。</p>
+</div></section>
+<div class="wrap">
+  <p class="intro">{{ $r }}で{{ $slug }}の子連れ旅行に向く宿を{{ len $nos }}軒載せています。県別では{{ range $i, $e := $prefs }}{{ if $i }}・{{ end }}{{ if eq $e.k "京都" }}京都府{{ else }}{{ $e.k }}{{ end }}{{ $e.n }}軒{{ end }}です。</p>
+  {{ range $hub.Params.guide }}<p class="intro">{{ . }}</p>{{ end }}
+  <div class="cross"><div class="cl">県で探す</div><div class="chips">
+    {{ range $prefs }}{{ with site.GetPage (printf "/areas/%s" .k) }}<a class="fchip area" href="{{ .RelPermalink }}">{{ cond (eq .Title "京都") "京都府" .Title }}の子連れ宿</a>{{ end }}{{ end }}
+  </div></div>
+</div>
+<div class="list">{{ range $nos }}{{ partial "cond-hotel.html" (dict "no" . "kind" "season" "key" $slug) }}{{ end }}</div>
+<div class="wrap"><div class="cross"><div class="cl">{{ $slug }}の宿をほかの地方で探す</div><div class="chips">
+  <a class="fchip" href="{{ $hub.RelPermalink }}">全国</a>
+  {{ range $hub.Params.regions }}{{ if and .indexed (ne .name $r) }}{{ with site.GetPage (printf "/season/%s/%s" $slug .name) }}<a class="fchip area" href="{{ .RelPermalink }}">{{ .Params.region }} <b>{{ .Params.hotelCount }}</b></a>{{ end }}{{ end }}{{ end }}
+</div></div></div>
+{{ partial "cond-others.html" (dict "slug" "" "region" $r) }}
+{{ partial "list-jsonld.html" (dict "name" (printf "%sで%s" $r .Params.h1) "crumbs" (slice (dict "name" "子連れ宿ナビ" "url" "/") (dict "name" "季節の特集" "url" "/season/") (dict "name" $slug "url" $hub.RelPermalink) (dict "name" $r "url" .RelPermalink)) "hotels" $nos) }}
+{{ end }}

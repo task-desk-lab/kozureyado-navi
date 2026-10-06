@@ -1,0 +1,38 @@
+{{ define "main" }}
+{{- /* /season/（季節トップ）と /season/{季節}/（季節ハブ）。生成元 src/travel/conditions.py */ -}}
+{{ if eq .Params.pageKind "season-top" }}
+<section class="hero-home"><div class="in">
+  <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> 季節の特集</nav>
+  <h1>季節の子連れ旅行特集</h1>
+  <p class="sub">年末年始・冬休みなど、季節ごとに子連れで泊まりやすい宿を地方別にまとめています。</p>
+</div></section>
+<div class="wrap"><ul class="rel-list cond-top">
+  {{ range .Params.seasons }}{{ with site.GetPage (printf "/season/%s" .slug) }}
+  <li><a href="{{ .RelPermalink }}">{{ .Params.h1 }}</a><span class="rm">{{ .Params.hotelCount }}軒</span></li>
+  {{ end }}{{ end }}
+</ul></div>
+{{ partial "list-jsonld.html" (dict "name" "季節の子連れ旅行特集" "crumbs" (slice (dict "name" "子連れ宿ナビ" "url" "/") (dict "name" "季節の特集" "url" .RelPermalink)) "hotels" slice) }}
+{{ else }}
+{{ $p := . }}{{ $slug := .Params.season }}
+<section class="hero-home"><div class="in">
+  <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/season/">季節の特集</a> <span>›</span> {{ $slug }}</nav>
+  <h1>{{ .Params.h1 }}</h1>
+  <p class="sub">全国{{ .Params.hotelCount }}軒を地方別に。楽天トラベルの公式データと口コミの原文で選んでいます。</p>
+</div></section>
+<div class="wrap">
+  {{ range .Params.guide }}<p class="intro">{{ . }}</p>{{ end }}
+  <div class="cross"><div class="cl">地方から探す</div><div class="chips">
+    {{ range .Params.regions }}{{ if .indexed }}{{ with site.GetPage (printf "/season/%s/%s" $slug .name) }}<a class="fchip area" href="{{ .RelPermalink }}">{{ .Params.region }} <b>{{ .Params.hotelCount }}</b></a>{{ end }}{{ else }}<a class="fchip area" href="#r-{{ .name }}">{{ .name }} <b>{{ .n }}</b></a>{{ end }}{{ end }}
+  </div></div>
+</div>
+{{ range .Params.regions }}
+  {{ $r := .name }}{{ $rp := site.GetPage (printf "/season/%s/%s" $slug $r) }}
+  {{ $nos := slice }}{{ with $rp }}{{ $nos = .Params.hotels }}{{ end }}
+  <div class="wrap"><h2 class="sec-h" id="r-{{ $r }}">{{ $r }}で{{ $slug }}に子連れで泊まる宿</h2></div>
+  <div class="list">{{ range first 4 $nos }}{{ partial "cond-hotel.html" (dict "no" . "kind" "season" "key" $slug) }}{{ end }}</div>
+  {{ if and .indexed (gt (len $nos) 4) }}{{ with $rp }}<div class="wrap"><p class="more"><a href="{{ .RelPermalink }}">{{ $r }}の{{ $slug }}向けの宿をすべて見る（{{ .Params.hotelCount }}軒）→</a></p></div>{{ end }}{{ end }}
+{{ end }}
+{{ partial "cond-others.html" (dict "slug" "" "region" "") }}
+{{ partial "list-jsonld.html" (dict "name" .Params.h1 "crumbs" (slice (dict "name" "子連れ宿ナビ" "url" "/") (dict "name" "季節の特集" "url" "/season/") (dict "name" $slug "url" .RelPermalink)) "hotels" .Params.hotels) }}
+{{ end }}
+{{ end }}

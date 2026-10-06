@@ -49,6 +49,10 @@
   {{/* 掛け合わせ絞り込み: 目的→エリア / エリア→目的（comboページへ） */}}
   {{ $combos := where .Site.RegularPages "Section" "combos" }}
   {{ if eq .Data.Singular "purpose" }}
+    {{- /* 条件ページと重なる目的は、根拠つきの条件ページを正とする（この term は noindex） */ -}}
+    {{ with index (dict "部屋食" "部屋食" "貸切風呂" "貸切風呂" "ベビーベッドあり" "ベビーベッド" "赤ちゃん歓迎" "赤ちゃん連れ") .Title }}{{ with site.GetPage (printf "/joken/%s" .) }}
+    <div class="wrap"><p class="more"><a href="{{ .RelPermalink }}">{{ .Params.h1 }}を地方別・根拠つきで見る →</a></p></div>
+    {{ end }}{{ end }}
     {{ with sort (where $combos "Params.comboPurpose" .Title) "Params.hotelCount" "desc" }}
     <div class="wrap"><div class="cross"><div class="cl">エリアでさらに絞り込む</div>
       <div class="chips scroll">{{ range . }}<a class="fchip area" href="{{ .RelPermalink }}">{{ .Params.comboArea }} <b>{{ .Params.hotelCount }}</b></a>{{ end }}</div>

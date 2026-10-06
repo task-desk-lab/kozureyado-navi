@@ -1,0 +1,13 @@
+{{- /* 同じ地方（region指定時）または全国で、ほかの条件・季節特集へ横リンク。ctx: dict slug region */ -}}
+<div class="wrap"><div class="cross"><div class="cl">{{ with .region }}{{ . }}で{{ end }}ほかの条件で探す</div><div class="chips">
+  {{ range (site.GetPage "/joken").Params.conditions }}{{ if ne .slug $.slug }}
+    {{ $t := site.GetPage (printf "/joken/%s" .slug) }}
+    {{ if $.region }}{{ with site.GetPage (printf "/joken/%s/%s" .slug $.region) }}{{ if not .Params.noindex }}{{ $t = . }}{{ end }}{{ end }}{{ end }}
+    {{ with $t }}<a class="fchip" href="{{ .RelPermalink }}">{{ .Params.label }}{{ if .Params.region }} <b>{{ .Params.hotelCount }}</b>{{ end }}</a>{{ end }}
+  {{ end }}{{ end }}
+  {{ range (site.GetPage "/season").Params.seasons }}
+    {{ $t := site.GetPage (printf "/season/%s" .slug) }}
+    {{ if $.region }}{{ with site.GetPage (printf "/season/%s/%s" .slug $.region) }}{{ if not .Params.noindex }}{{ $t = . }}{{ end }}{{ end }}{{ end }}
+    {{ with $t }}<a class="fchip" href="{{ .RelPermalink }}">{{ .Params.season }}の特集</a>{{ end }}
+  {{ end }}
+</div></div></div>

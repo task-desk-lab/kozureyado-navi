@@ -26,6 +26,19 @@
     <div class="step"><div class="t">そのまま予約</div><div class="d">気になった宿は楽天トラベルへ</div></div>
   </div>
 
+  {{ with site.GetPage "/joken" }}
+  <h2 class="sec-h">条件から探す</h2>
+  <div class="chips">
+    {{ range .Params.conditions }}{{ with site.GetPage (printf "/joken/%s" .slug) }}<a class="fchip" href="{{ .RelPermalink }}">{{ .Params.label }} <b>{{ .Params.hotelCount }}</b></a>{{ end }}{{ end }}
+  </div>
+  {{ end }}
+  {{ with site.GetPage "/season" }}
+  <h2 class="sec-h">季節の特集</h2>
+  <ul class="rel-list">
+    {{ range .Params.seasons }}{{ with site.GetPage (printf "/season/%s" .slug) }}<li><a href="{{ .RelPermalink }}">{{ .Params.h1 }}</a><span class="rm">{{ .Params.hotelCount }}軒</span></li>{{ end }}{{ end }}
+  </ul>
+  {{ end }}
+
   {{ with .Site.Taxonomies.purposes }}
   <h2 class="sec-h">目的から探す</h2>
   <div class="chips">

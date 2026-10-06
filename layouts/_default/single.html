@@ -12,6 +12,28 @@
 </div></div>
 {{ end }}
 {{ if eq .Section "hotels" }}
+{{- /* 子連れ条件チェック: data/conditions.json（src/travel/conditions.py）の該当条件と根拠。
+     「宿名 + ベビーベッド/赤ちゃん」型の検索に宿ページ自身で答え、条件ページ（地方）へつなぐ。 */ -}}
+{{ $no := string .Params.hotelNo }}{{ $pref := "" }}{{ with .Params.areas }}{{ $pref = index . 0 }}{{ end }}
+{{ with index (index hugo.Data.conditions $no | default dict) "conds" }}
+<div class="wrap">
+  <h2 class="sec-h">この宿の子連れ条件チェック</h2>
+  <ul class="cond-check">
+  {{ range $slug, $ev := . }}
+    {{ $hub := site.GetPage (printf "/joken/%s" $slug) }}
+    {{ with $hub }}
+      {{ $t := $hub }}
+      {{ range $hub.Params.regions }}{{ with site.GetPage (printf "/joken/%s/%s" $slug .name) }}{{ if and (in .Params.prefs $pref) (not .Params.noindex) }}{{ $t = . }}{{ end }}{{ end }}{{ end }}
+      <li><a href="{{ $t.RelPermalink }}">{{ $hub.Params.label }}</a>{{ with $ev.official }}<span class="ev-o">{{ . }}</span>{{ end }}
+        {{ range first 1 $ev.quotes }}<p class="ev-q">「{{ strings.TrimLeft "・･-ー " . }}」<span class="ev-s">口コミより</span></p>{{ end }}</li>
+    {{ end }}
+  {{ end }}
+  </ul>
+  <p class="reason-src">条件は楽天トラベルの公式データと口コミの原文から判定しています。内容はプランや時期で変わるため、予約時に宿へご確認ください。</p>
+</div>
+{{ end }}
+{{ end }}
+{{ if eq .Section "hotels" }}
 {{ $others := where (where .Site.RegularPages "Section" "hotels") "Permalink" "!=" .Permalink }}
 {{ $area := "" }}{{ with .Params.areas }}{{ $area = index . 0 }}{{ end }}
 

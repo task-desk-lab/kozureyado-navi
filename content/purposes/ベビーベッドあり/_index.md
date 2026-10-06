@@ -1,0 +1,4 @@
+---
+title: "ベビーベッドあり"
+noindex: true
+---

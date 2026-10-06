@@ -1,0 +1,18 @@
+{{- /* 条件/季節ページの宿カード＋根拠。
+     ctx: dict "no" hotelNo文字列 "kind" ("cond"|"season") "key" 条件slug/季節slug
+     根拠は data/conditions.json（生成元: short-video-factory src/travel/conditions.py）。
+     公式データの根拠文字列か、口コミの原文だけを出す（件数・頻度は書かない）。 */ -}}
+{{- with site.GetPage (printf "/hotels/%s" .no) }}
+  {{- $h := . }}
+  {{- $ev := index (index (index hugo.Data.conditions $.no | default dict) (cond (eq $.kind "season") "season" "conds") | default dict) $.key }}
+  <div class="cc">
+    {{ partial "hotel-card.html" $h }}
+    {{- with $ev }}
+    <div class="ev">
+      {{- with .official }}<span class="ev-o">{{ . }}</span>{{ end }}
+      {{- with .reason }}<span class="ev-o">{{ . }}</span>{{ end }}
+      {{- range first 1 .quotes }}<p class="ev-q">「{{ strings.TrimLeft "・･-ー " . }}」<span class="ev-s">口コミより</span></p>{{ end }}
+    </div>
+    {{- end }}
+  </div>
+{{- end }}

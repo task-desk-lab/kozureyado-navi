@@ -1,0 +1,35 @@
+{{ define "main" }}
+{{- /* /joken/{条件}/{地方}/。地方 → 県（県×目的combo or 県ページ）→ 宿 の導線を持つ。 */ -}}
+{{ $slug := .Params.joken }}{{ $r := .Params.region }}{{ $hub := .Parent }}
+{{ $nos := .Params.hotels }}
+{{- /* 県別の軒数（本文用。front matter の areas から数えるだけ） */ -}}
+{{ $pc := newScratch }}
+{{ range $nos }}{{ with site.GetPage (printf "/hotels/%s" .) }}{{ $pc.Add (index .Params.areas 0) 1 }}{{ end }}{{ end }}
+{{ $prefs := slice }}{{ range $k, $v := $pc.Values }}{{ $prefs = $prefs | append (dict "k" $k "n" $v) }}{{ end }}
+{{ $prefs = sort $prefs "n" "desc" }}
+<section class="hero-home"><div class="in">
+  <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/joken/">条件で探す</a> <span>›</span> <a href="{{ $hub.RelPermalink }}">{{ .Params.label }}</a> <span>›</span> {{ $r }}</nav>
+  <h1>{{ $r }}の{{ .Params.h1 }}</h1>
+  <p class="sub">{{ $r }}で{{ .Params.label }}の宿{{ len $nos }}軒。楽天トラベルの公式データと口コミの原文つき。</p>
+</div></section>
+<div class="wrap">
+  <p class="intro">{{ $r }}で{{ $hub.Params.h1 }}を{{ len $nos }}軒載せています。県別では{{ range $i, $e := $prefs }}{{ if $i }}・{{ end }}{{ if eq $e.k "京都" }}京都府{{ else }}{{ $e.k }}{{ end }}{{ $e.n }}軒{{ end }}です。並びは、条件の根拠がはっきりしている宿・口コミの多い宿の順です。</p>
+  {{ with $hub.Params.guide }}<p class="intro">{{ index . 0 }}</p>{{ end }}
+  <div class="cross"><div class="cl">県で絞り込む</div><div class="chips">
+    {{- /* 既存の県×目的ページがある条件はそちらへ、無ければ県ページへ */ -}}
+    {{ $purpose := index (dict "部屋食" "部屋食" "貸切風呂" "貸切風呂" "ベビーベッド" "ベビーベッドあり" "赤ちゃん連れ" "赤ちゃん歓迎") $slug }}
+    {{ range $prefs }}
+      {{ $combo := "" }}{{ if $purpose }}{{ with site.GetPage (printf "/combos/%s-%s" .k $purpose) }}{{ if not .Params.noindex }}{{ $combo = . }}{{ end }}{{ end }}{{ end }}
+      {{ $lbl := cond (eq .k "京都") "京都府" .k }}
+      {{ if $combo }}<a class="fchip area" href="{{ $combo.RelPermalink }}">{{ $lbl }}×{{ $purpose }}</a>{{ else }}{{ with site.GetPage (printf "/areas/%s" .k) }}<a class="fchip area" href="{{ .RelPermalink }}">{{ $lbl }}の子連れ宿</a>{{ end }}{{ end }}
+    {{ end }}
+  </div></div>
+</div>
+<div class="list">{{ range $nos }}{{ partial "cond-hotel.html" (dict "no" . "kind" "cond" "key" $slug) }}{{ end }}</div>
+<div class="wrap"><div class="cross"><div class="cl">{{ .Params.label }}の宿をほかの地方で探す</div><div class="chips">
+  <a class="fchip" href="{{ $hub.RelPermalink }}">全国</a>
+  {{ range $hub.Params.regions }}{{ if and .indexed (ne .name $r) }}{{ with site.GetPage (printf "/joken/%s/%s" $slug .name) }}<a class="fchip area" href="{{ .RelPermalink }}">{{ .Params.region }} <b>{{ .Params.hotelCount }}</b></a>{{ end }}{{ end }}{{ end }}
+</div></div></div>
+{{ partial "cond-others.html" (dict "slug" $slug "region" $r) }}
+{{ partial "list-jsonld.html" (dict "name" (printf "%sの%s" $r .Params.h1) "crumbs" (slice (dict "name" "子連れ宿ナビ" "url" "/") (dict "name" "条件で探す" "url" "/joken/") (dict "name" .Params.label "url" $hub.RelPermalink) (dict "name" $r "url" .RelPermalink)) "hotels" $nos) }}
+{{ end }}

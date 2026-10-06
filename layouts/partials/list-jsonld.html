@@ -1,0 +1,10 @@
+{{- /* 条件/季節ページ用 JSON-LD: BreadcrumbList + ItemList（宿URL）。
+     ctx: dict "name" 一覧名 "crumbs" (slice of dict name/url) "hotels" (slice of hotelNo) */ -}}
+{{- $items := slice }}
+{{- range $i, $c := .crumbs }}{{ $items = $items | append (dict "@type" "ListItem" "position" (add $i 1) "name" $c.name "item" (absURL $c.url)) }}{{ end }}
+{{- $list := slice }}
+{{- range $i, $no := .hotels }}{{ with site.GetPage (printf "/hotels/%s" $no) }}{{ $list = $list | append (dict "@type" "ListItem" "position" (add (len $list) 1) "url" .Permalink "name" .Params.hotelName) }}{{ end }}{{ end }}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" $items | jsonify | safeJS }}</script>
+{{- with $list }}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@type" "ItemList" "name" $.name "numberOfItems" (len .) "itemListElement" . | jsonify | safeJS }}</script>
+{{- end }}
