@@ -26,6 +26,7 @@
 </div></header>
 {{ block "main" . }}{{ end }}
 <footer class="site-foot"><div class="in">
+  {{ partial "motif-futon.html" . }}
   <div class="fnav">
     <a href="{{ "/" | relURL }}">ホーム</a>
     <a href="{{ "/areas/" | relURL }}">エリアから探す</a>
