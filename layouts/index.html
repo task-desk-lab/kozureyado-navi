@@ -11,23 +11,26 @@
 {{- if and $no (ne $no $og) }}<link rel="preload" as="image" media="(max-width:739px)" href="https://img.travel.rakuten.co.jp/HIMG/300/{{ $no }}.jpg" fetchpriority="high">
 <link rel="preload" as="image" media="(min-width:740px)" href="{{ $og }}" fetchpriority="high">{{ end }}
 <section class="hero-home"><div class="in">
-  {{ partial "motif-futon.html" . }}
-  <h1>泊まった親の口コミで選ぶ、<br>子連れの宿</h1>
-  <p class="sub">楽天トラベルの口コミを宿ごとに読んで、子どもと泊まった家族の声を抜き出しています。離乳食、添い寝、貸切風呂。予約の前に気になることを、泊まった人の言葉で確かめられます。</p>
-  <p class="kpi"><span class="n">{{ lang.FormatNumber 0 $total }}</span><span class="l">件の口コミから、{{ len $hotels }}軒を掲載</span></p>
-  <p class="hv-cap">泊まった家族の声</p>
-  <div class="hv">
-    {{ range hugo.Data.hero_voices }}{{ $q := .q }}{{ with site.GetPage (printf "/hotels/%s" .hotel) }}<a class="hv-i" href="{{ .RelPermalink }}"><span class="hv-q">「{{ $q }}」</span><span class="hv-s"><b>{{ .Params.hotelName }}</b>（{{ .Params.areaShort }}）の口コミより</span></a>{{ end }}{{ end }}
+  <h1>口コミの集合知で選ぶ、<br>子連れにやさしい宿。</h1>
+  <p class="sub">{{ .Site.Params.description }}</p>
+  <div class="kpi">
+    <span class="n">{{ lang.FormatNumber 0 $total }}</span>
+    <span class="l">件のリアルな口コミから<br>子連れOKの宿を厳選</span>
   </div>
 </div></section>
 
 <div class="wrap">
+  <div class="how">
+    <div class="step"><div class="t">口コミを集約</div><div class="d">楽天トラベルの声を宿ごとに分析</div></div>
+    <div class="step"><div class="t">子連れ目線で評価</div><div class="d">子供・パパママに嬉しい点を抽出</div></div>
+    <div class="step"><div class="t">そのまま予約</div><div class="d">気になった宿は楽天トラベルへ</div></div>
+  </div>
+
   {{ with site.GetPage "/joken" }}
   <h2 class="sec-h">条件から探す</h2>
-  {{ $desc := dict "赤ちゃん連れ" "赤ちゃん連れで泊まった口コミがある" "離乳食" "用意・持ち込み・温めの口コミや公式情報" "添い寝" "添い寝できた、布団で寝られた" "ベビーベッド" "ベビーベッドの貸し出しがある" "部屋食" "まわりを気にせず部屋で食べられる" "貸切風呂" "家族だけで入れるお風呂がある" "キッズスペース" "館内に子どもが遊べる場所がある" }}
-  <ul class="clist">
-    {{ range .Params.conditions }}{{ $slug := .slug }}{{ with site.GetPage (printf "/joken/%s" .slug) }}<li{{ if ge (int .Params.hotelCount) 90 }} class="big"{{ end }}><a href="{{ .RelPermalink }}"><span class="cl">{{ .Params.label }}</span><span class="cd">{{ index $desc $slug }}</span><span class="cn">{{ .Params.hotelCount }}軒</span></a></li>{{ end }}{{ end }}
-  </ul>
+  <div class="chips">
+    {{ range .Params.conditions }}{{ with site.GetPage (printf "/joken/%s" .slug) }}<a class="fchip" href="{{ .RelPermalink }}">{{ .Params.label }} <b>{{ .Params.hotelCount }}</b></a>{{ end }}{{ end }}
+  </div>
   {{ end }}
   {{ with site.GetPage "/season" }}
   <h2 class="sec-h">季節の特集</h2>
