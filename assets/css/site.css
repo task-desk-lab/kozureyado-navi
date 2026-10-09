@@ -272,7 +272,7 @@ body:has(.sticky-cta){padding-bottom:76px}
 .cond-check a:hover{color:var(--terra-d)}
 
 /* ===== 2026-10-09: 子どもの写真をふんだんに（Unsplash・自前ホスト、トーンは round2 のまま） ===== */
-.collage{display:grid;grid-template-columns:1.1fr 1fr 1fr;grid-template-rows:130px 130px;gap:6px;margin:0}
+.collage{display:grid;grid-template-columns:1.1fr 1fr 1fr;grid-template-rows:130px 130px;gap:6px;margin:0 0 22px}
 .collage .p{margin:0;border-radius:var(--radius);overflow:hidden;background:var(--paper-2)}
 .collage .p img{width:100%;height:100%;object-fit:cover;display:block}
 .collage .p:first-child{grid-row:1/3}
@@ -305,3 +305,6 @@ body:has(.sticky-cta){padding-bottom:76px}
 .site-foot .photo-credit a{color:var(--sub)}
 .ptile img[src*="yukata-noren"]{object-position:50% 80%}
 .ptile img[src*="kid-sleeping"]{object-position:50% 40%}
+.ptile img[src*="kids-blocks"]{object-position:50% 35%}
+.collage img[src*="yukata-noren"]{object-position:50% 85%}
+.ptile img[src*="yukata-temple"]{object-position:50% 90%}

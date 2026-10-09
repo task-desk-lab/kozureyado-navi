@@ -4,12 +4,11 @@
 {{- /* ヒーロー写真は preload/fetchpriority を付けない: LCP はテキスト(p.sub)で、高優先度の画像があると Lighthouse の LCP シミュレーションが ~1.5s 膨らむ(2026-10-09 計測 96→)。 */ -}}
 <section class="hero-home"><div class="in">
   <div class="collage">
-    <figure class="p">{{ partial "photo.html" (dict "name" "tatami-jump" "alt" "和室の畳でジャンプする子ども" "sizes" "36vw") }}</figure>
-    <figure class="p">{{ partial "photo.html" (dict "name" "boy-laugh" "alt" "笑顔の男の子" "sizes" "60vw") }}</figure>
-    <figure class="p">{{ partial "photo.html" (dict "name" "pool-float" "alt" "プールで浮き輪に乗る女の子" "sizes" "30vw") }}</figure>
-    <figure class="p">{{ partial "photo.html" (dict "name" "baby-laugh" "alt" "笑う赤ちゃん" "sizes" "30vw") }}</figure>
+    <figure class="p">{{ partial "photo.html" (dict "name" "yukata-noren" "alt" "旅館の玄関で浴衣を着てくつろぐ姉妹" "sizes" "36vw") }}</figure>
+    <figure class="p">{{ partial "photo.html" (dict "name" "family-room" "alt" "宿の部屋でくつろぐ家族" "sizes" "60vw") }}</figure>
+    <figure class="p">{{ partial "photo.html" (dict "name" "onsen-town" "alt" "浴衣で温泉街を歩く親子" "sizes" "30vw") }}</figure>
+    <figure class="p">{{ partial "photo.html" (dict "name" "trip-platform" "alt" "荷物を持って旅に出る親子" "sizes" "30vw") }}</figure>
   </div>
-  <p class="img-note">※写真はイメージです</p>
   <h1>口コミの集合知で選ぶ、<br>子連れにやさしい宿。</h1>
   <p class="sub">{{ .Site.Params.description }}</p>
   <div class="kpi">
@@ -27,7 +26,7 @@
 
   {{ with site.GetPage "/joken" }}
   <h2 class="sec-h">条件から探す</h2>
-  {{ $cphoto := dict "赤ちゃん連れ" "baby-smile" "離乳食" "toddler-strawberry" "添い寝" "kid-sleeping" "ベビーベッド" "baby-crib" "部屋食" "family-dinner" "貸切風呂" "mother-baby" "キッズスペース" "playhouse" }}
+  {{ $cphoto := dict "赤ちゃん連れ" "baby-smile" "離乳食" "toddler-strawberry" "添い寝" "kid-sleeping" "ベビーベッド" "baby-crib" "部屋食" "ryokan-room-meal" "貸切風呂" "private-bath" "キッズスペース" "kids-blocks" }}
   <div class="ptiles">
     {{ range .Params.conditions }}{{ $slug := .slug }}{{ with site.GetPage (printf "/joken/%s" .slug) }}<a class="ptile" href="{{ .RelPermalink }}">{{ partial "photo.html" (dict "name" (index $cphoto $slug) "alt" .Params.label) }}<span class="pl">{{ .Params.label }}<b>{{ .Params.hotelCount }}軒</b></span></a>{{ end }}{{ end }}
     <a class="ptile more-t" href="{{ "/joken/" | relURL }}"><span class="pl">条件の一覧へ →</span></a>
@@ -35,14 +34,14 @@
   {{ end }}
   {{ with site.GetPage "/season" }}
   <h2 class="sec-h">季節の特集</h2>
-  {{ $sphoto := dict "年末年始" "yukata-noren" "冬休み" "snow-sled" }}
+  {{ $sphoto := dict "年末年始" "yukata-temple" "冬休み" "snow-sled" }}
   <div class="ptiles wide">
     {{ range .Params.seasons }}{{ $slug := .slug }}{{ with site.GetPage (printf "/season/%s" .slug) }}<a class="ptile" href="{{ .RelPermalink }}">{{ partial "photo.html" (dict "name" (index $sphoto $slug | default "onsen-town") "alt" .Params.h1) }}<span class="pl">{{ .Params.h1 }}<b>{{ .Params.hotelCount }}軒</b></span></a>{{ end }}{{ end }}
   </div>
   {{ end }}
 
   <div class="pstrip" aria-hidden="true">
-    {{ range slice "kids-snack" "hotel-bed" "baby-red" "beach-kids" "onsen-town" "family-dinner" }}<figure>{{ partial "photo.html" (dict "name" . "alt" "" "sizes" "40vw") }}</figure>{{ end }}
+    {{ range slice "tatami-jump" "boy-laugh" "hotel-bed" "pool-float" "baby-laugh" "kids-snack" }}<figure>{{ partial "photo.html" (dict "name" . "alt" "" "sizes" "40vw") }}</figure>{{ end }}
   </div>
   <p class="pstrip-cap">子どもが笑っていると、親もほっとする。<br>そんな宿を口コミから探しています。</p>
 
