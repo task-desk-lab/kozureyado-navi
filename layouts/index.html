@@ -1,40 +1,50 @@
 {{ define "main" }}
 {{ $hotels := where .Site.RegularPages "Section" "hotels" }}
 {{ $total := 0 }}{{ range $hotels }}{{ $total = add $total (.Param "reviewCount" | default 0) }}{{ end }}
-{{- /* Preload the top card's thumbnail — it's the LCP element and a
-       cross-origin Rakuten image. Browsers honor preload in body. */ -}}
-{{- $top := index (first 1 (sort $hotels "Params.reviewCount" "desc")) 0 -}}
-{{- $og := $top.Params.ogImage | default "" -}}
-{{- $no := replaceRE `.*/HOTEL/([0-9]+)/.*` `$1` $og -}}
-{{- /* Media-split preloads mirror the <picture> in hotel-card.html:
-       mobile fetches only the light HIMG/300, desktop only the full image. */ -}}
-{{- if and $no (ne $no $og) }}<link rel="preload" as="image" media="(max-width:739px)" href="https://img.travel.rakuten.co.jp/HIMG/300/{{ $no }}.jpg" fetchpriority="high">
-<link rel="preload" as="image" media="(min-width:740px)" href="{{ $og }}" fetchpriority="high">{{ end }}
+{{- /* ヒーロー写真は preload/fetchpriority を付けない: LCP はテキスト(p.sub)で、高優先度の画像があると Lighthouse の LCP シミュレーションが ~1.5s 膨らむ(2026-10-09 計測 96→)。 */ -}}
 <section class="hero-home"><div class="in">
-  {{ partial "motif-futon.html" . }}
-  <h1>泊まった親の口コミで選ぶ、<br>子連れの宿</h1>
-  <p class="sub">楽天トラベルの口コミを宿ごとに読んで、子どもと泊まった家族の声を抜き出しています。離乳食、添い寝、貸切風呂。予約の前に気になることを、泊まった人の言葉で確かめられます。</p>
-  <p class="kpi"><span class="n">{{ lang.FormatNumber 0 $total }}</span><span class="l">件の口コミから、{{ len $hotels }}軒を掲載</span></p>
-  <p class="hv-cap">泊まった家族の声</p>
-  <div class="hv">
-    {{ range hugo.Data.hero_voices }}{{ $q := .q }}{{ with site.GetPage (printf "/hotels/%s" .hotel) }}<a class="hv-i" href="{{ .RelPermalink }}"><span class="hv-q">「{{ $q }}」</span><span class="hv-s"><b>{{ .Params.hotelName }}</b>（{{ .Params.areaShort }}）の口コミより</span></a>{{ end }}{{ end }}
+  <div class="collage">
+    <figure class="p">{{ partial "photo.html" (dict "name" "tatami-jump" "alt" "和室の畳でジャンプする子ども" "sizes" "36vw") }}</figure>
+    <figure class="p">{{ partial "photo.html" (dict "name" "boy-laugh" "alt" "笑顔の男の子" "sizes" "60vw") }}</figure>
+    <figure class="p">{{ partial "photo.html" (dict "name" "pool-float" "alt" "プールで浮き輪に乗る女の子" "sizes" "30vw") }}</figure>
+    <figure class="p">{{ partial "photo.html" (dict "name" "baby-laugh" "alt" "笑う赤ちゃん" "sizes" "30vw") }}</figure>
+  </div>
+  <p class="img-note">※写真はイメージです</p>
+  <h1>口コミの集合知で選ぶ、<br>子連れにやさしい宿。</h1>
+  <p class="sub">{{ .Site.Params.description }}</p>
+  <div class="kpi">
+    <span class="n">{{ lang.FormatNumber 0 $total }}</span>
+    <span class="l">件のリアルな口コミから<br>子連れOKの宿を厳選</span>
   </div>
 </div></section>
 
 <div class="wrap">
+  <div class="how">
+    <div class="step"><div class="t">口コミを集約</div><div class="d">楽天トラベルの声を宿ごとに分析</div></div>
+    <div class="step"><div class="t">子連れ目線で評価</div><div class="d">子供・パパママに嬉しい点を抽出</div></div>
+    <div class="step"><div class="t">そのまま予約</div><div class="d">気になった宿は楽天トラベルへ</div></div>
+  </div>
+
   {{ with site.GetPage "/joken" }}
   <h2 class="sec-h">条件から探す</h2>
-  {{ $desc := dict "赤ちゃん連れ" "赤ちゃん連れで泊まった口コミがある" "離乳食" "用意・持ち込み・温めの口コミや公式情報" "添い寝" "添い寝できた、布団で寝られた" "ベビーベッド" "ベビーベッドの貸し出しがある" "部屋食" "まわりを気にせず部屋で食べられる" "貸切風呂" "家族だけで入れるお風呂がある" "キッズスペース" "館内に子どもが遊べる場所がある" }}
-  <ul class="clist">
-    {{ range .Params.conditions }}{{ $slug := .slug }}{{ with site.GetPage (printf "/joken/%s" .slug) }}<li{{ if ge (int .Params.hotelCount) 90 }} class="big"{{ end }}><a href="{{ .RelPermalink }}"><span class="cl">{{ .Params.label }}</span><span class="cd">{{ index $desc $slug }}</span><span class="cn">{{ .Params.hotelCount }}軒</span></a></li>{{ end }}{{ end }}
-  </ul>
+  {{ $cphoto := dict "赤ちゃん連れ" "baby-smile" "離乳食" "toddler-strawberry" "添い寝" "kid-sleeping" "ベビーベッド" "baby-crib" "部屋食" "family-dinner" "貸切風呂" "mother-baby" "キッズスペース" "playhouse" }}
+  <div class="ptiles">
+    {{ range .Params.conditions }}{{ $slug := .slug }}{{ with site.GetPage (printf "/joken/%s" .slug) }}<a class="ptile" href="{{ .RelPermalink }}">{{ partial "photo.html" (dict "name" (index $cphoto $slug) "alt" .Params.label) }}<span class="pl">{{ .Params.label }}<b>{{ .Params.hotelCount }}軒</b></span></a>{{ end }}{{ end }}
+    <a class="ptile more-t" href="{{ "/joken/" | relURL }}"><span class="pl">条件の一覧へ →</span></a>
+  </div>
   {{ end }}
   {{ with site.GetPage "/season" }}
   <h2 class="sec-h">季節の特集</h2>
-  <ul class="rel-list">
-    {{ range .Params.seasons }}{{ with site.GetPage (printf "/season/%s" .slug) }}<li><a href="{{ .RelPermalink }}">{{ .Params.h1 }}</a><span class="rm">{{ .Params.hotelCount }}軒</span></li>{{ end }}{{ end }}
-  </ul>
+  {{ $sphoto := dict "年末年始" "yukata-noren" "冬休み" "snow-sled" }}
+  <div class="ptiles wide">
+    {{ range .Params.seasons }}{{ $slug := .slug }}{{ with site.GetPage (printf "/season/%s" .slug) }}<a class="ptile" href="{{ .RelPermalink }}">{{ partial "photo.html" (dict "name" (index $sphoto $slug | default "onsen-town") "alt" .Params.h1) }}<span class="pl">{{ .Params.h1 }}<b>{{ .Params.hotelCount }}軒</b></span></a>{{ end }}{{ end }}
+  </div>
   {{ end }}
+
+  <div class="pstrip" aria-hidden="true">
+    {{ range slice "kids-snack" "hotel-bed" "baby-red" "beach-kids" "onsen-town" "family-dinner" }}<figure>{{ partial "photo.html" (dict "name" . "alt" "" "sizes" "40vw") }}</figure>{{ end }}
+  </div>
+  <p class="pstrip-cap">子どもが笑っていると、親もほっとする。<br>そんな宿を口コミから探しています。</p>
 
   {{ with .Site.Taxonomies.purposes }}
   <h2 class="sec-h">目的から探す</h2>
@@ -83,10 +93,11 @@
     {{ end }}
   {{ end }}
 
+
   <h2 class="sec-h">口コミが多い人気の子連れ宿</h2>
 </div>
 <div class="list">
-  {{ range $i, $h := first 12 (sort $hotels "Params.reviewCount" "desc") }}{{ $h.Store.Set "eagerImg" (lt $i 2) }}{{ partial "hotel-card.html" $h }}{{ end }}
+  {{ range $i, $h := first 12 (sort $hotels "Params.reviewCount" "desc") }}{{ $h.Store.Set "eagerImg" false }}{{ partial "hotel-card.html" $h }}{{ end }}
 </div>
 <div class="wrap"><div class="chips" style="margin:6px 0 8px">
   <a class="fchip" href="{{ "/hotels/" | relURL }}">すべての宿を見る（{{ len $hotels }}軒）→</a>

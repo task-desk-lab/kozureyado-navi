@@ -3,7 +3,7 @@
 <section class="hero-home"><div class="in">
   <nav class="crumb"><a href="/">子連れ宿ナビ</a> <span>›</span> <a href="/areas/{{ $a }}/">{{ $a }}</a> <span>›</span> {{ $p }}</nav>
   <h1>{{ $a }}の{{ $p }}が人気の子連れ宿</h1>
-  <p class="sub">泊まった親の口コミで選ぶ、{{ $a }}で{{ $p }}のある子連れにやさしい宿。{{ .Params.hotelCount }}軒</p>
+  <p class="sub">口コミの集合知で選ぶ、{{ $a }}で{{ $p }}のある子連れにやさしい宿。{{ .Params.hotelCount }}軒</p>
 </div></section>
 {{ $h := where (where .Site.RegularPages "Section" "hotels") "Params.areas" "intersect" (slice $a) }}
 {{ $h = where $h "Params.purposes" "intersect" (slice $p) }}
