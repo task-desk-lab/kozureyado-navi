@@ -306,5 +306,6 @@ body:has(.sticky-cta){padding-bottom:76px}
 .ptile img[src*="yukata-noren"]{object-position:50% 80%}
 .ptile img[src*="kid-sleeping"]{object-position:50% 40%}
 .ptile img[src*="kids-blocks"]{object-position:50% 35%}
-.collage img[src*="yukata-noren"]{object-position:50% 85%}
+.collage img[src*="hero-yukata-kids"]{object-position:40% 70%}
+.collage img[src*="hero-arrive"]{object-position:30% 60%}
 .ptile img[src*="yukata-temple"]{object-position:50% 90%}
