@@ -306,7 +306,7 @@ body:has(.sticky-cta){padding-bottom:76px}
 .ptile img[src*="yukata-noren"]{object-position:50% 80%}
 .ptile img[src*="kid-sleeping"]{object-position:50% 40%}
 .ptile img[src*="kids-blocks"]{object-position:50% 35%}
-.collage img[src*="hero-hotel-bed-jump"]{object-position:50% 45%}
-.collage img[src*="hero-hotel-breakfast"]{object-position:65% 60%}
-.collage img[src*="hero-futon-play"]{object-position:70% 50%}
+.collage img[src*="hero-hotel-bed-jump"]{object-position:35% 40%}
+.collage img[src*="hero-hotel-breakfast"]{object-position:50% 50%}
+.collage img[src*="hero-futon-play"]{object-position:50% 40%}
 .ptile img[src*="yukata-temple"]{object-position:50% 90%}
