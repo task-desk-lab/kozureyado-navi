@@ -75,6 +75,25 @@
       <div class="chips">{{ range . }}<a class="fchip" href="{{ .RelPermalink }}">{{ .Params.comboPurpose }} <b>{{ .Params.hotelCount }}</b></a>{{ end }}</div>
     </div></div>
     {{ end }}
+    {{- /* 条件・季節で絞り込む: この県を含む地方の /joken/{条件}/{地方}/・/season/{季節}/{地方}/（indexable のみ。
+         無ければ全国ハブ）。県レベル検索（「{県} 子連れ ホテル」）の着地から条件ページへ降りる導線で、
+         条件・季節ページのクロール導線にもなる。<b> は地方名（件数は県単位でないため出さない）。2026-10-12 */ -}}
+    {{ $condLinks := slice }}
+    {{ with site.GetPage "/joken" }}{{ range .Params.conditions }}{{ $slug := .slug }}
+      {{ with site.GetPage (printf "/joken/%s" $slug) }}{{ $t := . }}{{ $rg := "" }}
+        {{ range .Params.regions }}{{ with site.GetPage (printf "/joken/%s/%s" $slug .name) }}{{ if and (in .Params.prefs $area) (not .Params.noindex) }}{{ $t = . }}{{ $rg = .Params.region }}{{ end }}{{ end }}{{ end }}
+        {{ $condLinks = $condLinks | append (dict "label" .Params.label "url" $t.RelPermalink "region" $rg "cls" "") }}
+      {{ end }}{{ end }}{{ end }}
+    {{ with site.GetPage "/season" }}{{ range .Params.seasons }}{{ $slug := .slug }}
+      {{ with site.GetPage (printf "/season/%s" $slug) }}{{ $t := . }}{{ $rg := "" }}
+        {{ range .Params.regions }}{{ with site.GetPage (printf "/season/%s/%s" $slug .name) }}{{ if and (in .Params.prefs $area) (not .Params.noindex) }}{{ $t = . }}{{ $rg = .Params.region }}{{ end }}{{ end }}{{ end }}
+        {{ $condLinks = $condLinks | append (dict "label" (printf "%sの特集" .Params.season) "url" $t.RelPermalink "region" $rg "cls" " area") }}
+      {{ end }}{{ end }}{{ end }}
+    {{ with $condLinks }}
+    <div class="wrap"><div class="cross"><div class="cl">条件・季節で絞り込む</div>
+      <div class="chips">{{ range . }}<a class="fchip{{ .cls }}" href="{{ .url }}">{{ .label }}{{ with .region }} <b>{{ . }}</b>{{ end }}</a>{{ end }}</div>
+    </div></div>
+    {{ end }}
   {{ end }}
 
   <div class="list">

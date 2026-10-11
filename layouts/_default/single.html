@@ -15,16 +15,30 @@
 {{- /* 子連れ条件チェック: data/conditions.json（src/travel/conditions.py）の該当条件と根拠。
      「宿名 + ベビーベッド/赤ちゃん」型の検索に宿ページ自身で答え、条件ページ（地方）へつなぐ。 */ -}}
 {{ $no := string .Params.hotelNo }}{{ $pref := "" }}{{ with .Params.areas }}{{ $pref = index . 0 }}{{ end }}
-{{ with index (index hugo.Data.conditions $no | default dict) "conds" }}
+{{ $cd := index hugo.Data.conditions $no | default dict }}
+{{ $conds := index $cd "conds" | default dict }}{{ $seasons := index $cd "season" | default dict }}
+{{ if or $conds $seasons }}
 <div class="wrap">
   <h2 class="sec-h">この宿の子連れ条件チェック</h2>
   <ul class="cond-check">
-  {{ range $slug, $ev := . }}
+  {{ range $slug, $ev := $conds }}
     {{ $hub := site.GetPage (printf "/joken/%s" $slug) }}
     {{ with $hub }}
       {{ $t := $hub }}
       {{ range $hub.Params.regions }}{{ with site.GetPage (printf "/joken/%s/%s" $slug .name) }}{{ if and (in .Params.prefs $pref) (not .Params.noindex) }}{{ $t = . }}{{ end }}{{ end }}{{ end }}
       <li><a href="{{ $t.RelPermalink }}">{{ $hub.Params.label }}</a>{{ with $ev.official }}<span class="ev-o">{{ . }}</span>{{ end }}
+        {{ range first 1 $ev.quotes }}<p class="ev-q">「{{ strings.TrimLeft "・･-ー " . }}」<span class="ev-s">口コミより</span></p>{{ end }}</li>
+    {{ end }}
+  {{ end }}
+  {{- /* 季節特集（年末年始・冬休み）。data/conditions.json の season に入っている宿だけ、
+       /season/{季節}/{地方}/（この県を含む indexable な地方。無ければ全国ハブ）へつなぐ。
+       季節ページは宿ページからの導線が無く「検出 - 未登録」が続いていたため（2026-10-12）。 */ -}}
+  {{ range $slug, $ev := $seasons }}
+    {{ $hub := site.GetPage (printf "/season/%s" $slug) }}
+    {{ with $hub }}
+      {{ $t := $hub }}
+      {{ range $hub.Params.regions }}{{ with site.GetPage (printf "/season/%s/%s" $slug .name) }}{{ if and (in .Params.prefs $pref) (not .Params.noindex) }}{{ $t = . }}{{ end }}{{ end }}{{ end }}
+      <li><a href="{{ $t.RelPermalink }}">{{ $hub.Params.h1 }}</a>{{ with $ev.reason }}<span class="ev-o">{{ . }}</span>{{ end }}
         {{ range first 1 $ev.quotes }}<p class="ev-q">「{{ strings.TrimLeft "・･-ー " . }}」<span class="ev-s">口コミより</span></p>{{ end }}</li>
     {{ end }}
   {{ end }}
