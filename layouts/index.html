@@ -27,7 +27,7 @@
   {{ with site.GetPage "/joken" }}
   <h2 class="sec-h">条件から探す</h2>
   {{ $cphoto := dict "赤ちゃん連れ" "baby-smile" "離乳食" "toddler-strawberry" "添い寝" "kid-sleeping" "ベビーベッド" "baby-crib" "部屋食" "ryokan-room-meal" "貸切風呂" "private-bath" "キッズスペース" "kids-blocks" }}
-  <div class="ptiles">
+  <div class="ptiles" data-sec="cond">
     {{ range .Params.conditions }}{{ $slug := .slug }}{{ with site.GetPage (printf "/joken/%s" .slug) }}<a class="ptile" href="{{ .RelPermalink }}">{{ partial "photo.html" (dict "name" (index $cphoto $slug) "alt" .Params.label) }}<span class="pl">{{ .Params.label }}<b>{{ .Params.hotelCount }}軒</b></span></a>{{ end }}{{ end }}
     <a class="ptile more-t" href="{{ "/joken/" | relURL }}"><span class="pl">条件の一覧へ →</span></a>
   </div>
@@ -35,7 +35,7 @@
   {{ with site.GetPage "/season" }}
   <h2 class="sec-h">季節の特集</h2>
   {{ $sphoto := dict "年末年始" "yukata-temple" "冬休み" "snow-sled" }}
-  <div class="ptiles wide">
+  <div class="ptiles wide" data-sec="season">
     {{ range .Params.seasons }}{{ $slug := .slug }}{{ with site.GetPage (printf "/season/%s" .slug) }}<a class="ptile" href="{{ .RelPermalink }}">{{ partial "photo.html" (dict "name" (index $sphoto $slug | default "onsen-town") "alt" .Params.h1) }}<span class="pl">{{ .Params.h1 }}<b>{{ .Params.hotelCount }}軒</b></span></a>{{ end }}{{ end }}
   </div>
   {{ end }}
@@ -47,7 +47,7 @@
 
   {{ with .Site.Taxonomies.purposes }}
   <h2 class="sec-h">目的から探す</h2>
-  <div class="chips">
+  <div class="chips" data-sec="purpose">
     {{ range $name, $taxo := . }}<a class="fchip" href="{{ $taxo.Page.RelPermalink }}">{{ $name }} <b>{{ len $taxo.Pages }}</b></a>{{ end }}
   </div>
   {{ end }}
@@ -62,7 +62,7 @@
     {{ if $present }}
     <div class="region">
       <span class="region-name">{{ $region.name }}</span>
-      <div class="chips">
+      <div class="chips" data-sec="area">
         {{ range $present }}<a class="fchip area" href="{{ (index $areas .).Page.RelPermalink }}">{{ . }} <b>{{ len (index $areas .) }}</b></a>{{ end }}
       </div>
     </div>
@@ -85,7 +85,7 @@
     {{ end }}
     {{ with $idx }}
     <h2 class="sec-h">市区町村から探す</h2>
-    <div class="chips">
+    <div class="chips" data-sec="city">
       {{ range sort . "n" "desc" }}<a class="fchip" href="{{ .url }}">{{ .name }} <b>{{ .n }}</b></a>{{ end }}
       <a class="fchip" href="{{ "/cities/" | relURL }}">すべての市区町村 →</a>
     </div>
@@ -95,10 +95,10 @@
 
   <h2 class="sec-h">口コミが多い人気の子連れ宿</h2>
 </div>
-<div class="list">
+<div class="list" data-sec="card">
   {{ range $i, $h := first 12 (sort $hotels "Params.reviewCount" "desc") }}{{ $h.Store.Set "eagerImg" false }}{{ partial "hotel-card.html" $h }}{{ end }}
 </div>
-<div class="wrap"><div class="chips" style="margin:6px 0 8px">
+<div class="wrap"><div class="chips" data-sec="more" style="margin:6px 0 8px">
   <a class="fchip" href="{{ "/hotels/" | relURL }}">すべての宿を見る（{{ len $hotels }}軒）→</a>
   <a class="fchip" href="{{ "/combos/" | relURL }}">目的×エリアで探す →</a>
 </div></div>

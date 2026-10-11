@@ -13,13 +13,14 @@
 <link rel="apple-touch-icon" href="{{ "/favicon.svg" | relURL }}">
 {{/* Inline minified CSS to remove the render-blocking external stylesheet. */}}
 {{- with resources.Get "css/site.css" }}<style>{{ (. | minify).Content | safeCSS }}</style>{{ end }}
-{{- with .Site.Params.googleAnalyticsId }}
+{{- /* GA は本番ビルド(CI: HUGO_ENVIRONMENT=production)のみ。hugo server のローカル確認が GA4 に localhost として混入していた(2026-10-07〜11, 38セッション)。 */ -}}
+{{- if hugo.IsProduction }}{{ with .Site.Params.googleAnalyticsId }}
 {{- /* gtag.js (167KB) is injected after window load so it never competes with
        the LCP: loaded from <head>, it lands in the pre-LCP dependency graph
        and inflates mobile LCP by ~2.5s on PSI. Early gtag() calls are queued
        in dataLayer and flushed when the script arrives — no data loss. */ -}}
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','{{ . }}');window.addEventListener('load',function(){var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id={{ . }}';document.head.appendChild(s)})</script>
-{{- end }}
+{{- end }}{{ end }}
 </head><body>
 <header class="topbar"><div class="in">
   <a class="brand" href="{{ "/" | relURL }}">子連れ宿ナビ</a>
@@ -40,4 +41,8 @@
   <p class="photo-credit">宿の写真: 楽天トラベル ／ 子どもの写真（イメージ）: <a href="https://unsplash.com/" rel="nofollow">Unsplash</a></p>
   <p>&copy; {{ now.Year }} 子連れ宿ナビ</p>
 </div></footer>
+{{- /* トップのどの欄が押されたかを GA4 に送る（2026-10-11）。data-sec を持つ欄の中のリンクだけ対象。
+       イベント名に欄を入れる(hc_cond 等)= GA4 のカスタム定義登録なしで Data API から欄別に集計できる。
+       link_url / link_text は GA4 の組み込みディメンション(linkUrl/linkText)で読める。 */ -}}
+{{ if hugo.IsProduction }}<script>document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a[href]');if(!a)return;var s=a.closest('[data-sec]');if(!s||typeof gtag!=='function')return;gtag('event','hc_'+s.getAttribute('data-sec'),{link_url:a.href,link_text:((a.querySelector('.ct')||a).innerText||'').replace(/\s+/g,' ').trim().slice(0,80),transport_type:'beacon'})},{capture:true})</script>{{ end }}
 </body></html>
