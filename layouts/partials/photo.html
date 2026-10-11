@@ -1,0 +1,4 @@
+{{- /* 子どもの写真（Unsplash・自前ホスト static/img/photo/{name}-{480,800,1600}.webp。出典は data/photo_sources.json）。
+       args: name, alt, sizes(既定 50vw), eager(bool) */ -}}
+{{- $n := .name -}}
+<img src="{{ printf "/img/photo/%s-800.webp" $n | relURL }}" srcset="{{ printf "/img/photo/%s-480.webp" $n | relURL }} 480w, {{ printf "/img/photo/%s-800.webp" $n | relURL }} 800w, {{ printf "/img/photo/%s-1600.webp" $n | relURL }} 1600w" sizes="{{ .sizes | default "50vw" }}" alt="{{ .alt }}" width="800" height="533" decoding="async" {{ if .eager }}loading="eager"{{ else }}loading="lazy"{{ end }}>

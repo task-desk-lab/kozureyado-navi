@@ -1,16 +1,14 @@
 {{ define "main" }}
 {{ $hotels := where .Site.RegularPages "Section" "hotels" }}
 {{ $total := 0 }}{{ range $hotels }}{{ $total = add $total (.Param "reviewCount" | default 0) }}{{ end }}
-{{- /* Preload the top card's thumbnail — it's the LCP element and a
-       cross-origin Rakuten image. Browsers honor preload in body. */ -}}
-{{- $top := index (first 1 (sort $hotels "Params.reviewCount" "desc")) 0 -}}
-{{- $og := $top.Params.ogImage | default "" -}}
-{{- $no := replaceRE `.*/HOTEL/([0-9]+)/.*` `$1` $og -}}
-{{- /* Media-split preloads mirror the <picture> in hotel-card.html:
-       mobile fetches only the light HIMG/300, desktop only the full image. */ -}}
-{{- if and $no (ne $no $og) }}<link rel="preload" as="image" media="(max-width:739px)" href="https://img.travel.rakuten.co.jp/HIMG/300/{{ $no }}.jpg" fetchpriority="high">
-<link rel="preload" as="image" media="(min-width:740px)" href="{{ $og }}" fetchpriority="high">{{ end }}
+{{- /* ヒーロー写真は preload/fetchpriority を付けない: LCP はテキスト(p.sub)で、高優先度の画像があると Lighthouse の LCP シミュレーションが ~1.5s 膨らむ(2026-10-09 計測 96→)。 */ -}}
 <section class="hero-home"><div class="in">
+  <div class="collage">
+    <figure class="p">{{ partial "photo.html" (dict "name" "yukata-noren" "alt" "旅館の玄関で浴衣を着てくつろぐ姉妹" "sizes" "36vw") }}</figure>
+    <figure class="p">{{ partial "photo.html" (dict "name" "family-room" "alt" "宿の部屋でくつろぐ家族" "sizes" "60vw") }}</figure>
+    <figure class="p">{{ partial "photo.html" (dict "name" "onsen-town" "alt" "浴衣で温泉街を歩く親子" "sizes" "30vw") }}</figure>
+    <figure class="p">{{ partial "photo.html" (dict "name" "trip-platform" "alt" "荷物を持って旅に出る親子" "sizes" "30vw") }}</figure>
+  </div>
   <h1>口コミの集合知で選ぶ、<br>子連れにやさしい宿。</h1>
   <p class="sub">{{ .Site.Params.description }}</p>
   <div class="kpi">
@@ -28,16 +26,24 @@
 
   {{ with site.GetPage "/joken" }}
   <h2 class="sec-h">条件から探す</h2>
-  <div class="chips">
-    {{ range .Params.conditions }}{{ with site.GetPage (printf "/joken/%s" .slug) }}<a class="fchip" href="{{ .RelPermalink }}">{{ .Params.label }} <b>{{ .Params.hotelCount }}</b></a>{{ end }}{{ end }}
+  {{ $cphoto := dict "赤ちゃん連れ" "baby-smile" "離乳食" "toddler-strawberry" "添い寝" "kid-sleeping" "ベビーベッド" "baby-crib" "部屋食" "ryokan-room-meal" "貸切風呂" "private-bath" "キッズスペース" "kids-blocks" }}
+  <div class="ptiles">
+    {{ range .Params.conditions }}{{ $slug := .slug }}{{ with site.GetPage (printf "/joken/%s" .slug) }}<a class="ptile" href="{{ .RelPermalink }}">{{ partial "photo.html" (dict "name" (index $cphoto $slug) "alt" .Params.label) }}<span class="pl">{{ .Params.label }}<b>{{ .Params.hotelCount }}軒</b></span></a>{{ end }}{{ end }}
+    <a class="ptile more-t" href="{{ "/joken/" | relURL }}"><span class="pl">条件の一覧へ →</span></a>
   </div>
   {{ end }}
   {{ with site.GetPage "/season" }}
   <h2 class="sec-h">季節の特集</h2>
-  <ul class="rel-list">
-    {{ range .Params.seasons }}{{ with site.GetPage (printf "/season/%s" .slug) }}<li><a href="{{ .RelPermalink }}">{{ .Params.h1 }}</a><span class="rm">{{ .Params.hotelCount }}軒</span></li>{{ end }}{{ end }}
-  </ul>
+  {{ $sphoto := dict "年末年始" "yukata-temple" "冬休み" "snow-sled" }}
+  <div class="ptiles wide">
+    {{ range .Params.seasons }}{{ $slug := .slug }}{{ with site.GetPage (printf "/season/%s" .slug) }}<a class="ptile" href="{{ .RelPermalink }}">{{ partial "photo.html" (dict "name" (index $sphoto $slug | default "onsen-town") "alt" .Params.h1) }}<span class="pl">{{ .Params.h1 }}<b>{{ .Params.hotelCount }}軒</b></span></a>{{ end }}{{ end }}
+  </div>
   {{ end }}
+
+  <div class="pstrip" aria-hidden="true">
+    {{ range slice "tatami-jump" "boy-laugh" "hotel-bed" "pool-float" "baby-laugh" "kids-snack" }}<figure>{{ partial "photo.html" (dict "name" . "alt" "" "sizes" "40vw") }}</figure>{{ end }}
+  </div>
+  <p class="pstrip-cap">子どもが笑っていると、親もほっとする。<br>そんな宿を口コミから探しています。</p>
 
   {{ with .Site.Taxonomies.purposes }}
   <h2 class="sec-h">目的から探す</h2>
@@ -86,10 +92,11 @@
     {{ end }}
   {{ end }}
 
+
   <h2 class="sec-h">口コミが多い人気の子連れ宿</h2>
 </div>
 <div class="list">
-  {{ range $i, $h := first 12 (sort $hotels "Params.reviewCount" "desc") }}{{ $h.Store.Set "eagerImg" (lt $i 2) }}{{ partial "hotel-card.html" $h }}{{ end }}
+  {{ range $i, $h := first 12 (sort $hotels "Params.reviewCount" "desc") }}{{ $h.Store.Set "eagerImg" false }}{{ partial "hotel-card.html" $h }}{{ end }}
 </div>
 <div class="wrap"><div class="chips" style="margin:6px 0 8px">
   <a class="fchip" href="{{ "/hotels/" | relURL }}">すべての宿を見る（{{ len $hotels }}軒）→</a>
