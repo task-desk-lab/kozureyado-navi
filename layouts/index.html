@@ -4,10 +4,10 @@
 {{- /* ヒーロー写真は preload/fetchpriority を付けない: LCP はテキスト(p.sub)で、高優先度の画像があると Lighthouse の LCP シミュレーションが ~1.5s 膨らむ(2026-10-09 計測 96→)。 */ -}}
 <section class="hero-home"><div class="in">
   <div class="collage">
-    <figure class="p">{{ partial "photo.html" (dict "name" "hero-yukata-kids" "alt" "旅館の玄関で浴衣を着て笑う姉妹" "sizes" "36vw") }}</figure>
-    <figure class="p">{{ partial "photo.html" (dict "name" "hero-futon-play" "alt" "和室の布団の上ではしゃぐ子どもたちと見守る両親" "sizes" "60vw") }}</figure>
-    <figure class="p">{{ partial "photo.html" (dict "name" "hero-onsen-walk" "alt" "温泉街をソフトクリーム片手に歩く親子" "sizes" "30vw") }}</figure>
-    <figure class="p">{{ partial "photo.html" (dict "name" "hero-arrive" "alt" "宿に着いてうれしそうに駆け出す子ども" "sizes" "30vw") }}</figure>
+    <figure class="p">{{ partial "photo.html" (dict "name" "hero-hotel-bed-jump" "alt" "ホテルのベッドの上でジャンプして笑う子どもたち" "sizes" "36vw") }}</figure>
+    <figure class="p">{{ partial "photo.html" (dict "name" "hero-hotel-pool" "alt" "ホテルのプールで水しぶきを上げてはしゃぐ家族" "sizes" "60vw") }}</figure>
+    <figure class="p">{{ partial "photo.html" (dict "name" "hero-hotel-breakfast" "alt" "朝食ビュッフェでパンケーキを持って笑う女の子" "sizes" "30vw") }}</figure>
+    <figure class="p">{{ partial "photo.html" (dict "name" "hero-futon-play" "alt" "和室の布団の上ではしゃぐ子どもたちと見守る両親" "sizes" "30vw") }}</figure>
   </div>
   <h1>口コミの集合知で選ぶ、<br>子連れにやさしい宿。</h1>
   <p class="sub">{{ .Site.Params.description }}</p>
