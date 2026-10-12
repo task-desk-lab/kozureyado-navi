@@ -310,3 +310,5 @@ body:has(.sticky-cta){padding-bottom:76px}
 .collage img[src*="hero-hotel-breakfast"]{object-position:50% 50%}
 .collage img[src*="hero-futon-play"]{object-position:50% 40%}
 .ptile img[src*="yukata-temple"]{object-position:50% 90%}
+.ptile img[src*="cond-"]{object-position:50% 35%}
+.ptile img[src*="season-"]{object-position:60% 40%}
