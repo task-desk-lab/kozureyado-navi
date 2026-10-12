@@ -44,6 +44,19 @@ P = {
       "green garden and blue sky behind. Fully covered, modest, family friendly."),
   "cond-kidsroom": ("4:3", JOY + "A 4-year-old Japanese boy jumping into a colorful ball pit in a bright hotel indoor kids' play room, "
       "balls flying around, his sister sliding down a small slide behind."),
+  # 写真の帯 (square). Caption: 子どもが笑っていると、親もほっとする。→ kid laughing + parent relieved smile nearby
+  "strip-hug": ("1:1", SOFT + "A 4-year-old Japanese girl hugging her mother's neck and laughing at the camera in a bright resort hotel room, "
+      "the mother smiling with relief, big window with blue sea behind."),
+  "strip-icecream": ("1:1", JOY + "A 5-year-old Japanese boy holding a soft-serve ice cream cone close to the camera with cream on his nose, "
+      "laughing, his father laughing beside him, sunny resort hotel garden with blue sky."),
+  "strip-shoulders": ("1:1", JOY + "A 4-year-old Japanese girl riding on her father's shoulders, arms up, laughing, the father grinning, "
+      "bright green lawn and modern resort hotel behind under a blue sky."),
+  "strip-bubbles": ("1:1", SOFT + "A 2-year-old Japanese toddler chasing big shiny soap bubbles on a sunny hotel lawn, giggling at the camera, "
+      "mother kneeling behind smiling warmly."),
+  "strip-beach": ("1:1", JOY + "Two Japanese kids about 5 and 7 running along a bright white sand beach toward the camera holding hands, laughing, "
+      "turquoise sea and a resort hotel in the background, parents walking behind."),
+  "strip-bathrobe": ("1:1", SOFT + "A 4-year-old Japanese boy wrapped in a fluffy white hotel bathrobe with the hood up after a bath, giggling at the camera, "
+      "sitting on a big white hotel bed, his mother smiling beside him, bright daylight. Fully covered."),
   # 季節の特集 (wide 16:7 tile → generate 16:9)
   "season-newyear": ("16:9", JOY + "New Year's family trip: a 6-year-old Japanese girl in a warm winter coat and knit hat at a snowy hot spring town, "
       "holding a steaming fluffy mochi on a skewer close to the camera, cheeks rosy, crisp blue winter sky, parents behind. No shrine signs, no text."),
