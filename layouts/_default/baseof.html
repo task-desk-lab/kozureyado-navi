@@ -13,13 +13,14 @@
 <link rel="apple-touch-icon" href="{{ "/favicon.svg" | relURL }}">
 {{/* Inline minified CSS to remove the render-blocking external stylesheet. */}}
 {{- with resources.Get "css/site.css" }}<style>{{ (. | minify).Content | safeCSS }}</style>{{ end }}
-{{- /* GA は本番ビルド(CI: HUGO_ENVIRONMENT=production)のみ。hugo server のローカル確認が GA4 に localhost として混入していた(2026-10-07〜11, 38セッション)。 */ -}}
+{{- /* GA は本番ビルド(CI: HUGO_ENVIRONMENT=production)のみ。hugo server のローカル確認が GA4 に localhost として混入していた(2026-10-07〜11, 38セッション)。
+       本番での自分の確認は一度 ?notrack=1 を付けて開くとそのブラウザでは gtag.js を読まない（?notrack=0 で解除）。 */ -}}
 {{- if hugo.IsProduction }}{{ with .Site.Params.googleAnalyticsId }}
 {{- /* gtag.js (167KB) is injected after window load so it never competes with
        the LCP: loaded from <head>, it lands in the pre-LCP dependency graph
        and inflates mobile LCP by ~2.5s on PSI. Early gtag() calls are queued
        in dataLayer and flushed when the script arrives — no data loss. */ -}}
-<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','{{ . }}');window.addEventListener('load',function(){var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id={{ . }}';document.head.appendChild(s)})</script>
+<script>var gaOff=false;try{var q=location.search;if(/[?&]notrack=1/.test(q))localStorage.setItem('ga_off','1');if(/[?&]notrack=0/.test(q))localStorage.removeItem('ga_off');gaOff=localStorage.getItem('ga_off')==='1'}catch(e){}window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','{{ . }}');window.addEventListener('load',function(){if(gaOff)return;var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id={{ . }}';document.head.appendChild(s)})</script>
 {{- end }}{{ end }}
 </head><body>
 <header class="topbar"><div class="in">
