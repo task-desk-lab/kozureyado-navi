@@ -1,0 +1,40 @@
+# {{ site.Title }} ({{ strings.TrimSuffix "/" (site.BaseURL | replaceRE "^https?://" "") }})
+
+> {{ site.Params.description }}
+
+## サイト構成
+
+- 宿ページURL形式: {{ "hotels/" | absURL }}{楽天トラベル施設番号}/
+- 宿ページの根拠: 楽天トラベルの口コミ本文（原文引用）・公式の設備情報・項目別の口コミ評価のみ。根拠のない推奨は載せない
+- 予約: 各宿ページから楽天トラベルで空室・料金を確認できる（楽天トラベルのアフィリエイトを利用）
+- 選び方の基準: {{ "about/" | absURL }}
+{{- with site.GetPage "/joken" }}
+
+## 条件で探す
+
+- [{{ .Title }}]({{ .Permalink }})
+{{- range .Pages.ByTitle }}{{ if not .Params.noindex }}
+- [{{ .Title }}]({{ .Permalink }}): {{ .Description }}
+{{- end }}{{ end }}
+{{- end }}
+{{- with site.GetPage "/season" }}
+
+## 季節で探す
+{{ range .Pages.ByTitle }}{{ if not .Params.noindex }}
+- [{{ .Title }}]({{ .Permalink }}): {{ .Description }}
+{{- end }}{{ end }}
+{{- end }}
+
+## 都道府県から探す
+{{ range site.Taxonomies.areas.ByCount }}
+- [{{ .Page.Title }}]({{ .Page.Permalink }}): {{ len (where .Pages "Section" "hotels") }}軒
+{{- end }}
+
+## 掲載宿一覧（都道府県別）
+{{- range site.Taxonomies.areas.Alphabetical }}
+
+### {{ .Page.Title }}
+{{ range .Pages.ByTitle }}{{ if and (eq .Section "hotels") (not .Params.noindex) }}
+- [{{ .Params.hotelName }}]({{ .Permalink }}): {{ .Params.areaShort }}・★{{ .Params.ratingValue }}（楽天トラベル口コミ{{ .Params.reviewCount }}件）
+{{- end }}{{ end }}
+{{- end }}

@@ -21,8 +21,15 @@ markup:
     renderer:
       unsafe: true
 
+outputFormats:
+  llms:
+    baseName: llms
+    mediaType: text/plain
+    isPlainText: true
+    notAlternative: true
+
 outputs:
-  home: [HTML, RSS]
+  home: [HTML, RSS, llms]
   section: [HTML, RSS]
 
 taxonomies:
